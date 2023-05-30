@@ -6,13 +6,17 @@ title: notes
 own writing
 - [[post-cinema]]
     - [[post-cinema 2]]
+
+
 books
     - [[laberinto de la soledad]]
     - [[discipline and punish]]
     - [[discrete image]]
         - [[cours stiegler]]
+
 articles
     - [[aristotle invented the computer]]
+
 notes
     - [[rohmer]]
     - [[hitchcock truffaut]]
