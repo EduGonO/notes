@@ -1,5 +1,5 @@
 ---
-title: The Beginning of Infinity
+title: notes
 ---
 
 The [[Beginning of Infinity]] contains an inspiring message for humanity. Author [[David Deutsch]] describes the processes through which our species has emerged from a dirt-scratching purgatory to today's towering technological heights. And how, in the future, we have the potential to achieve our wildest possible dreams.
@@ -9,6 +9,17 @@ Deutsch shows that, if we choose, no problem is beyond us. With the right [[Know
 These are some notes on the book, but we encourage you to [read the real thing](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359).
 
 ---
+
+[[aristotle invented the computer]]
+[[cours stiegler]]
+[[discipline and punish]]
+[[discrete image]]
+[hitchcock truffaut]]
+[[laberinto de la soledad]]
+[[post-cinema 2]]
+[[post-cinema]]
+[[rohmer]]
+
 
 We have made virtually no [[Progress]] over the vast majority of human history. Only recently (mostly since the European [[Enlightenment]]) has progress been discernible inside a human lifetime.
 
