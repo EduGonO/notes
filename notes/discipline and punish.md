@@ -1,14 +1,11 @@
 # discipline and punish
 
-- [fft](craftdocs://open?blockId=32FD59D9-6CA7-4FE3-B0F5-BCDA51E4DCEF&spaceId=c17b1dd1-920a-bc27-ee46-bec46f6315a3), [favorite](craftdocs://open?blockId=F578A7C9-4647-427E-B7BE-E3E43F38C3F2&spaceId=c17b1dd1-920a-bc27-ee46-bec46f6315a3)
----
-
 
 Seems to be a history of criminology, but Foucault is making a much deeper analysis
 - signaling where the structures of power lie in society
 - the relationship between people in power and the average citizen
 
-Foucault strong disliked the term ::"*history*":: He argued that the notion of history as constant progress leading to the endpoint of current civilization is wrong. He wanted to explore how structures of power have changed over time.
+Foucault strong disliked the term =="*history*"== He argued that the notion of history as constant progress leading to the endpoint of current civilization is wrong. He wanted to explore how structures of power have changed over time.
 
 He starts Discipline and Punish describing punishments from 1757 and arguing that one has to do more than just assume moral superiority and dismiss those times as barbarian. That is the key to understanding the similarities between the power structures and relations of the 1750s and today.
 
@@ -20,11 +17,11 @@ Punishments were crafted to uphold the Social Contract ∴ crimes were seen as a
 
 > What happens when the power structure no longer serves the needs of the people?
 
-These extremes public punishments had 2 major unintended consequences. First, the population frequently agreed that punishment > crime and often sided with the criminal, questioning the authority of the sovereign. Second, since public punishments leave no doubt of who is in power, whenever people were not receiving their end of the social contract, there was no doubt as to who to blame.
+These extremes public punishments had 2 major unintended consequences. First, the population frequently agreed that punishment>crime and often sided with the criminal, questioning the authority of the sovereign. Second, since public punishments leave no doubt of who is in power, whenever people were not receiving their end of the social contract, there was no doubt as to who to blame.
 
 People of power soon realized that in their society, the will of the people often had influence over which people were in positions of power. This was very inconvenient for the sovereigns, as it made reigning for long periods of time statistically challenging.
 
-**1757-1837**: In order to make power more sustainable, drastic changes had to be made. Foucault argues that the reasons for these changes don’t have to be evil per-se, politicians often only looked at ways of keeping society in peace.
+*1757-1837*: In order to make power more sustainable, drastic changes had to be made. Foucault argues that the reasons for these changes don’t have to be evil per-se, politicians often only looked at ways of keeping society in peace.
 
 1. Public executions with severe punishments
 2. 1790s: Public executions with standardized punishments (Guillotine)
@@ -54,7 +51,7 @@ Prisoners had every minute of their days scheduled → not much time for thinkin
 
 Foucault thinks this system might have its origins in the works of Jeremy Bentham.
 
-**Panopticon**: Building designed so that one in power can see everything every prisoner is doing all the time, but the prisoner is unable to know when he’s being watched. Bentham argued that this would leave prisoners with no choice but to behave as expected every single second.
+*Panopticon*: Building designed so that one in power can see everything every prisoner is doing all the time, but the prisoner is unable to know when he’s being watched. Bentham argued that this would leave prisoners with no choice but to behave as expected every single second.
 
 > All this is much more than just a narration of prison history. Foucault is analyzing how Bentham’s Panopticon is a way of obtaining "power of mind over mind." What stops mental institutions, military trainings, factories, multinational corporations or schools from implementing this design?
 
@@ -62,7 +59,7 @@ Foucault thinks this system might have its origins in the works of Jeremy Bentha
 
 > If people do not feel like prisoners they will even police themselves to adhere to the normalized way of behaving, because their work life is one of constant surveilling (clocks, deadlines, supervisors, other employees), normalization (speaking, acting, dress codes, political correctness, team player) and examination (monthly evaluations).
 
-***Surveillance, Normalization and Examination*** has become such a good system of controlling human behavior that it is now embedded in our culture, social circles, media…
+*Surveillance, Normalization and Examination* has become such a good system of controlling human behavior that it is now embedded in our culture, social circles, media…
 
 What’s insidious about how modern power keeps people in control today is that people are both subjects being controlled and also active participants in the system that (unknowingly) supports the current power structure.
 
