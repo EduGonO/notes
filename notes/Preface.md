@@ -11,17 +11,17 @@ These are some notes on the book, but we encourage you to [read the real thing](
 ---
 
 
-- own writing
-	- [[post-cinema]]
-		- [[post-cinema 2]]
-- books
+own writing
+- [[post-cinema]]
+	- [[post-cinema 
+books
 	- [[laberinto de la soledad]]
 	- [[discipline and punish]]
 	- [[discrete image]]
 		- [[cours stiegler]]
-- articles
+articles
 	- [[aristotle invented the computer]]
-- notes
+notes
 	- [[rohmer]]
 	- [hitchcock truffaut]]
 
