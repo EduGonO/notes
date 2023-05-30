@@ -9,17 +9,17 @@ own writing
 
 
 books
-    - [[laberinto de la soledad]]
-    - [[discipline and punish]]
-    - [[discrete image]]
-        - [[cours stiegler]]
+- [[laberinto de la soledad]]
+- [[discipline and punish]]
+- [[discrete image]]
+    - [[cours stiegler]]
 
 articles
-    - [[aristotle invented the computer]]
+- [[aristotle invented the computer]]
 
 notes
-    - [[rohmer]]
-    - [[hitchcock truffaut]]
+- [[rohmer]]
+- [[hitchcock truffaut]]
 
 
 ---
