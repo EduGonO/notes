@@ -13,6 +13,7 @@ The evolution of computer science from mathematical logic culminated in the 1930
 
 - Claude Shannon’s “A Symbolic Analysis of Switching and Relay Circuits” 
 	- Shannon’s paper as “possibly the most important, and also the most noted, master’s thesis of the century.” Shannon wrote it as an electrical engineering student at MIT. His adviser, Vannevar Bush, built a prototype computer known as the Differential Analyzer that could rapidly calculate differential equations. The device was mostly mechanical, with subsystems controlled by electrical relays, which were organized in an ad hoc manner as there was not yet a systematic theory underlying circuit design. Shannon’s thesis topic came about when Bush recommended he try to discover such a theory. Shannon’s paper is in many ways a typical electrical-engineering paper, filled with equations and diagrams of electrical circuits. What is unusual is that the primary reference was a 90-year-old work of mathematical philosophy, George Boole’s The Laws of Thought.
+
 - Alan Turing’s “On Computable Numbers, With an Application to the Entscheidungsproblem.” 
 
 In 1938, Boole was rarely read outside of philosophy departments.
