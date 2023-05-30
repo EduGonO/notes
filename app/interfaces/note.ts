@@ -11,4 +11,4 @@ export interface Note {
   linkedFromNotes: NotePreview[]
 }
 
-export const NOTE_INDEX_NAME = 'AI'
+export const NOTE_INDEX_NAME = 'Preface'
