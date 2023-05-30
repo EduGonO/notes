@@ -13,7 +13,7 @@ These are some notes on the book, but we encourage you to [read the real thing](
 
 own writing
 - [[post-cinema]]
-	- [[post-cinema 
+	- [[post-cinema 2]]
 books
 	- [[laberinto de la soledad]]
 	- [[discipline and punish]]
@@ -23,7 +23,7 @@ articles
 	- [[aristotle invented the computer]]
 notes
 	- [[rohmer]]
-	- [hitchcock truffaut]]
+	- [[hitchcock truffaut]]
 
 
 We have made virtually no [[Progress]] over the vast majority of human history. Only recently (mostly since the European [[Enlightenment]]) has progress been discernible inside a human lifetime.
