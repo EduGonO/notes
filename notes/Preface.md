@@ -31,6 +31,7 @@ books
 
 articles
 - [[aristotle invented the computer]]
+
 philosophy
 - [[discrete image]]
     - [[cours stiegler]]
