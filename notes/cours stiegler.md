@@ -1,34 +1,40 @@
-- #p8 examen revisions
--
-- ## cours I: L'invention de l'homme, technique et mémoire
-	> "A son origine même et jusqu'à maiententant, la philosophie a refoulé la technique comme objet de pensée (...) La technique est inpensé."  
-	  -Stiegler, *technique et le temps*  
-	- ### I. Critiques de la conception instrumentale et anthropologique de la technique
-		- ### *La question de la technique* (Heidegger, 1949)
-			- technique est définie comme "moyen de certaines fins" ou "activité de l'homme" (conception instrumental et anthropologique)
-				- **actes**: poser de fins, constituer et utiliser moyens
-				- **technique** (dispositif, *instrumentum*): fabrication et utilisation d'outils/instruments/machines + choses fabriqués et utilisés + besoins et fins qu'elles servent.
-					- ex: centrale électrique, turbines, dynamos. avion a reaction, machine a haute fréquence.
-					- moyens construits par l'homme pour une fin posée par l'homme ∴ technique aussi.
-			- si technique moderne == moyen pour des fins → on veut s'en rendre maître, mais technique échappe contrôle.
-				- si technique ≠ moyen → fin est aussi la cause ∴ *"instrumentalisé est souveraine, domine la causalité"*
-			- technique n'est pas seulement moyen, elle est mode de dévoilement.
-				- l'essence de la technique s'ouvre au domaine du dévoilement, de la véri-té.
-				- technique moderne aussi dévoilement
-				-
-				  > Le devoilement qui regit la technique moderne est une pro-vocation (*Herausfordern*) par laquelle la nature est mise en demeure de livrer une énergie qui puisse comme telle etre extraite (*herausgefördert*) et accumulee.  
-		- ### *L'obsolesence de l'homme* (Günther Ander, 1956)
-			- "tout depends de ce qu'on fait des inventions, manière dont on s'en sert et fin choisie pour les moyens."
-				- vision optimiste avec origines à la premiere revolution industrielle.
-				- douteux, présuppose qu'on peut disposer librement de la technique et l'∃ de fragments de monde comme purs "moyens" pour des "bons fins"
-				- illusion → moyens relèvent des faits
-				- Vie ne peut pas être divisée en « moyens » et en « fins » dans la réalité.
-					- division est une expression d'un argument, pas une réflexion de la réalité.
-				- Vie doit être pensée comme un tout, plutôt qu'un acte déterminé par une fin, ∴ un processus technique.
-				- instruments ≠ objects utilisables. Ils déterminent leur utilisation par leur structure et fonction
-					- ≈ style de nos activités et vie nous determine.
-		- ### *Du mode d'existence des objects techniques* (Gilbert Simondon, 1958)
-	- ### II. humain/technique: *invention de l'homme* et mémoire épiphylogénétique
+#p8 examen revisions
+
+## cours I: L'invention de l'homme, technique et mémoire
+
+> "A son origine même et jusqu'à maiententant, la philosophie a refoulé la technique comme objet de pensée (...) La technique est inpensé."  
+
+- Stiegler, *technique et le temps*  
+	
+### I. Critiques de la conception instrumentale et anthropologique de la technique
+### *La question de la technique* (Heidegger, 1949)
+- technique est définie comme "moyen de certaines fins" ou "activité de l'homme" (conception instrumental et anthropologique)
+- **actes**: poser de fins, constituer et utiliser moyens
+	- **technique** (dispositif, *instrumentum*): fabrication et utilisation d'outils/instruments/machines + choses fabriqués et utilisés + besoins et fins qu'elles servent.
+	- ex: centrale électrique, turbines, dynamos. avion a reaction, machine a haute fréquence.
+		- moyens construits par l'homme pour une fin posée par l'homme ∴ technique aussi.
+	- si technique moderne == moyen pour des fins → on veut s'en rendre maître, mais technique échappe contrôle.
+		- si technique ≠ moyen → fin est aussi la cause ∴ *"instrumentalisé est souveraine, domine la causalité"*
+- technique n'est pas seulement moyen, elle est mode de dévoilement.
+	- l'essence de la technique s'ouvre au domaine du dévoilement, de la véri-té.
+	- technique moderne aussi dévoilement
+
+> Le devoilement qui regit la technique moderne est une pro-vocation (*Herausfordern*) par laquelle la nature est mise en demeure de livrer une énergie qui puisse comme telle etre extraite (*herausgefördert*) et accumulee.  
+
+### *L'obsolesence de l'homme* (Günther Ander, 1956)
+"tout depends de ce qu'on fait des inventions, manière dont on s'en sert et fin choisie pour les moyens."
+- vision optimiste avec origines à la premiere revolution industrielle.
+- douteux, présuppose qu'on peut disposer librement de la technique et l'∃ de fragments de monde comme purs "moyens" pour des "bons fins"
+- illusion → moyens relèvent des faits
+- Vie ne peut pas être divisée en « moyens » et en « fins » dans la réalité.
+	- division est une expression d'un argument, pas une réflexion de la réalité.
+- Vie doit être pensée comme un tout, plutôt qu'un acte déterminé par une fin, ∴ un processus technique.
+	- instruments ≠ objects utilisables. Ils déterminent leur utilisation par leur structure et fonction
+	- ≈ style de nos activités et vie nous determine.
+
+### *Du mode d'existence des objects techniques* (Gilbert Simondon, 1958)
+
+### II. humain/technique: *invention de l'homme* et mémoire épiphylogénétique
 		- `paléoanthropologie`: scientific study of human evolution + origin of modern humans. focus on fossil records, genetics, behaviors to reconstruct evolutionary history.
 		- `épiphylogénétique`: origin of species + evolution and diversification. focus on factors that influence the formation of new species and how they adapt/are affected to their environment.
 		- ### Prométhée et Epiméthée (*Protagoras* - Platon, 320dc)
