@@ -3,23 +3,61 @@ title: notes
 ---
 
 
+
 own writing
 - [[post-cinema]]
-    - [[post-cinema 2]]
-
+- [[on-cinema]]
 
 books
+- versión de los vencidos
+- [[l’etranger]]
 - [[laberinto de la soledad]]
-- [[discipline and punish]]
-- [[discrete image]]
-    - [[cours stiegler]]
+- [[the beginning of infinity]]
+- einstein
+- leonardo da vinci
+- the physicist and the philosopher
+- [[the short happy life of francis macomber]]
+- desierto sonoro
+- my autobiography
+- el amor en los tiempos del colera
+- [[recuerdos del porvenir]]
+- the dope
+- code breaker
+- hitchhicker’s guide to the galaxy
+- deus: a brief history of tomorrow
+- sapiens
+- sin querer queriendo
+- fabric of reality
 
 articles
 - [[aristotle invented the computer]]
+philosophy
+- [[discrete image]]
+    - [[cours stiegler]]
 
-notes
+- tractatus
+- question concerning technology
+- modernisme modernit
+- wittgenstein duchamps 
+- minimalism
+- [[discipline and punish]]
+
+film
+- [[centruy of self]]
+- can’t get you out of my head
+- normalization
+- [[succession]]
 - [[rohmer]]
 - [[hitchcock truffaut]]
+
+
+
+
+
+
+
+
+
 
 
 ---
