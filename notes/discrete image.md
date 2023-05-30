@@ -1,0 +1,89 @@
+## discrete image
+
+- stiegler is d'accord avec derrida's critique of the opposition of the signifier and the signified, which proposes that language is always already writing, in order for language to be written, it must already be a writing, a system of traces, a grammatic of discrete elements
+- significance of the invention of digital photography and digital cinema.
+	- image mental ∄, image mental ≔ image object  
+		- ∄ image-object sans image mentale,
+		  ∄ image mental sans image object  
+		- image-object lasts, mental image is ephemeral.
+		- pas de precedence avant l'image object
+		- img-mental toujours un retour d'une img-object. rémanence est produit de sa permanence.
+		- toujours une relation, cannot be separated
+		- image object is always inscribed in technical history
+		- Derrida propose pas d'opposition, l'un est une variation de l'deal invariant.
+		- ∄ image, ∄ imagination sans mémoire ∴ question de l'image porte sur trace et inscription, ≈ écriture.  
+	- 3 main events
+		- **XIX**: analog image (photography). cinema = animated image, extension with specificities
+		- **XX**: digital image, computer generated, *image de synthèse*
+		- **XXI**: analogico-digital image → intelligence of movement.
+			-
+a technical développement suspends or calls into question a situation which previously seemed stable.  
+			- TODO decisive role since we perceive through the intermediary of prostheses of perception
+- **`discretization`** must be understood by looking at the analogico-digital image and why it implies the generalization of discretization in animated images.
+	- In Greek, suspension or interruption is *ēpokhē*: this philosophical word is the main concept of phenomenology.
+		- Barthes proposes that photography is *ēpokhē* to time, memory and death
+		- TODO analogico-digital technologie amplifies a process of suspension where the analog photo was only a singular epoch.
+- **manipulation is the rule of the digital photo**, contrary to the essence.
+	- one cannot confirm if what I see in a digital photo exists or not ∴ analogico-digital breaks with Bazin's *objectivité de l'objectif*, l'intentionalité (phenomenology) #fft #film #philo
+	- infinitively manipulable but still a photo, it keeps something from the *this was*.
+		- ~~*This was not*~~ → *This was* but there is *something* that *isn't quite right. this is because analog photo is a technical synthesis
+	- ability to distinguish truth from false falls as digital treatment grows.
+	- there was an accidental potential for manipulation in the analog photo which has been recently exploited and generalized in mass media's digital photos.
+	- for falsification to work, the belief in the this was (objective, technical) has to be simultaneous to the manipulation.
+	- stiegler thinks this gives rise to "a dangerous doubt not very far from panic which affects democracy and is decomposing the social bond."
+- the analogico-digital image-object, *__the discrete image__*, may contribute to an emergence of objective analysis and subjective synthesis of the visible.
+	- the digitization of the analog destabilizes our knowledge of the *this was* and we're afraid of this
+	- digitazion introduces manipulation. *this was* → ?
+	- however, *the discrete image* could also make possible a more knowing, less insipid and credulous belief
+- #fft #tech digital technology allows us to manipulate and transform information unlike analog technology.
+- discretization affects the chain of memorial light and ∴ belief in the image
+	- discretization is not total, the chain of light is not broken but knotted differently, ∴ it is still a photograph, not computer-generated.
+	- the question becomes that of continuity (of the memorial chain, spectrum) that is broken by discretization.
+- 3 main types of reproducibility have constituted and overdetermined great epochs of #memory and the relations to #time in the #west. (letter, analog, digital)
+	- reproducibility of the letter (written → printed)
+	- analog reproducibility (cine, photo → walter benjamin)
+	- digital reproducibility
+	- analogico-digital image combines 2 reproducibilities (digital, analog) ∴ shows they are not opposed and need to be overcome.
+	- the analog image is ∴ always discrete since its reality effects are determined by the photographic (framing, dof) and literal context in which it is inserted. seems continuous but is discrete.
+- director/editor's job is to hide the discontinuity by playing with it (analysis), continuity then comes from spectatorial synthesis (done by good artists)
+	- animated image ≔ plurality of discontinuous images sequentially connected
+	- spectatorial synthesis: the *belief* that *this was* is. made by audience (retinal) persistance and expectations of sequential connections
+	- discontinuity dissolves all the more effectively the more cleverly it is orchestrated #quote #philo #cinema #film #fft #language
+	- production/realization
+- **`discretization`** opens new artistic, theoretical and scientific knowledges of the image.
+	- digitization allows the *this was* to be decomposed analytically by discretizatizing the continuous.
+	- barthes's photographic reality effect has now been integrated into all techniques of digital treatment simulation.
+	- spectator's relation to the image is ∴ an analytic relation as well
+	- ⤷ the question is ∴ the relation between synthesis and analysis.
+- 2 kinds of synthesis: technical (artifact) and subjective (production of mental images).
+	- barthes shows that the camera allows international synthesis to be made
+	- to synthesize a mental image ≔ know the technical, synthetic and artificial conditions of its production.
+- 3 kinds of images (analog, digital, analogico-digital) → 3 kinds of intuitive technical knowledges (conditions of image production) → 3 different kinds of belief.
+	- the visual image is synthetic in 2 ways: synthesis as belief, the *this was* effect, is a combination of 2 syntheses (spectator and camera). spectator is *affected* in the way he *synthesizes* the image.
+		- This requires an image-object ∴ technology.
+		- synthesis from the subject comes from its knowledge of the technical conditions of an image-object's production.
+		- each image, either analog or digital, contains both knowledge and gaps in knowledge. This new awareness leads to a different form of understanding and knowledge.
+		- analogico-digital technology of images opens an epoch of *analytic apprehension of the image-object*.
+			- since synthesis is double, new analytic capacities → new synthetic capacities.
+			- this discretization breaks up a continuity ∴ changes the way the observer's viewing. (discretization concernant regard est transformé)
+- ::the adoption of alphabetic writing made analysis and synthesis of language much easier.:: **generalization → discretization.**
+- since greece we live in an era of the relation to language, shaped by the generalization of alphabetic writing that gave rise to logic, philosophy and science.
+	- stiegler thinks the analogico-digital is of the same order.
+- grammar determines good usage of language. universal structures of language (chomsky) are not governed by rules but rather exceptions ∴ language is unpredictable.
+	- if the animated analogico-digital brings new rules of movement to light, their description is its transformation. it is not really *description* but *inscription*, *invention*.
+	- the grammatical operation of the discretization of image-object will be technology, not grammarians.
+		- important that the artistic and intellectual communities take part in the orienting of r&d
+		- relation to the analog image is going to be very discretized as digitazion techniques of animated images become widespread. this will open a critical access to the image and a chance to develop a **culture of reception**
+- two syntheses (spectator + camera): evolution of technical synthesis → evolution of spectatorial synthesis.
+- new image-objects will create new mental images and another intelligence of movement (not knowledge of the image but a new techno-intuitive knowledge). this will be influenced by other knowledges which opens up "la chance"
+- **[[stiegler]]'s main hypothèse** is that life (anima, mental image) is always already cinema (animation, image object). #fav #philo #ego #cinema #film
+	- TODO reprends derrida
+	- technological synthesis is not a replica nor double, like writing is not a replication of speech.
+	- entire new history of representation from this pov, a history of material supports of image-objects.
+		- need to mark a specificity of epochs (similar to how certain kinds of writing liberate certain reflexivity –law, science, history)
+		- certain kinds of image-objects are destined to liberate reflexivity in the visible and of movement, like alphabetic writing reveals the discrete characters of language #fft
+	- this also implies the rethink of #hollywood's schema of analysis/production - synthesis/consumption.
+	- technology gives us the chance to look at cinema in a different way. analysis (production) and synthesis (consumption) are more connected, making cinema similar to literature. #fft
+		- reading and writing (can't do one without the other)
+		- technology will make it possible to watch a movie analytically, making text and tv closer than now.
+			- we will be able to navigate though the flow of images in a nonlinear way, with toc and indexes (like books), true hypermedia?

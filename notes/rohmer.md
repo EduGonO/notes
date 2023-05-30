@@ -1,0 +1,89 @@
+
+
+
+- eric rohmer
+	- Pour Rohmer, Paris est un "studio à ciel ouvert." Les personages sont comme sur une piece de theatre, où le dialogue est complementé par l'aspect presque documentaire des decors naturels.
+	- ≈ pensée de Marcel Carné
+	- Ces plus grands succès sont des collaborations avec [[Jaques Prévert]]. Ces films sont ca
+	- On parle d'un _réalisme poétique_ ou de _fantastique sociale_ dans les films Prévert-Carné, qui montrent l'opposition entre des personnages issus de milieux modestes et des decors splendides
+	- Interview avec Robert Chazal, 1965
+		- > En fait, notre rencontre a été bénéfique, mais il aurait été néfaste pour l’un comme pour l’autre d’éterniser une collaboration qui ne s’imposait plus. Nous avions évolué chacun de notre côté.
+		- > Beaucoup de journalistes chercheront à savoir quelle part revenait à chacun d’entre nous dans la confection d’un film. Nous-mêmes n’aurions pas su très bien le dire. Sauf les dialogues que Prévert rédigeait seul et que j’ai rarement modifiés, la rédaction du scénario, le choix des acteurs, étaient un peu un travail en commun, où l’importance de la part de l’un et de l’autre variait suivant le film. Notre collaboration cependant s’arrêtait à la remise du script définitif, Prévert me laissant absolument libre de réaliser le film comme je l’entendais…
+
+
+- #film
+	- **1945**: Les enfants du paradis
+		- Succès de l'habilité de Carné de représenter des extérieurs et de Prévert d'apporter des themes du surréalisme tardif de sa poesie avec l'atmosphère inquiète du film.
+	- Le Quai des Brumes, 1938
+	- Le Jour se lève, 1939
+	- Les portes de la nuit, 1946
+- Cycle de 6 films réalisés de 1981 à 1987
+	- **1981**: [[La femme de l'aviateur]]
+		- 1er film des [[Comédies et proverbes]]
+		- cast
+			- **Philippe Marlaud**: François
+				- Dernier film qu'il fait. Il meurt à 22 ans dans un accident de camping.
+			- **Marie Rivière**: Anne
+				- Elle apparait dans le premier film des [[Comédies et proverbes]] et dans le dernier, [[l'amie de mon amie]].
+			- **Anne-Laure Meury**: Lucie
+			- **Mathieu Carrière**: Christian
+		- Sortie en **1981** - quand [[Éric Rohmer]] avait 61 ans.
+		- Paris, France
+		- _"On ne saurait penser à rien,"_ de [[Alfred de Musset]], _On ne saurait penser à tout_
+		- Liens avec le cinema de Marcel Carné et pas vraiment avec la nouvelle vague.
+		- L'inspiration du film vient de la jeunesse de Rohmer, qui à ecrit l'histoire en 1945 mais l'a tourné jusqu'à 1980.
+		- Rohmer lors de la retrospective de ses oeuvres à la [[Cinémathèque]] en 2004. (entretien avec Clémentine Gallot de Cinéchronique.)
+	- **1982**: Le beau Mariage
+		- _quel esprit ne bat la campagne? qui ne fait château en Espagne?_ de [[la fontaine]]
+		- Le Mans, Paris
+	- **1983**: Pauline à la plage
+		- _Qui trop parole, il se mesfait_, de Chretin de Troyes
+		- Granville, Normandie
+	- **1984**: Les nuits de la pleine lune
+		- _Qui a deux femmes perd son âme, qui a deux maisons perd sa raison_, proverbe champenois
+		- Marne-la-Vallée, Paris
+	- **1986**: Le rayon vert
+		- _Que le temps vienne où les cœurs s'empressent_, de "Chanson de la plus haute tour" de [[rimbaud]]
+		- Paris, Cherbourg, Savoy, Biarritz
+	- **1987**: [[l'amie de mon amie]]
+		- _les amis de mes amis sont mes amis_, proverbe
+		- Cergy-Pontoise
+-
+- Rohmer reprends des scenarios originaux après avoir ecrit la marquasse de O et Perceval. Il decide de ne plus s'inspirer de la literature mais plutôt du theatre.
+- Ces personages ne sont pas resultat de beauté artificielle crée pour le cinema, mais de la beauté spontanée du monde.
+-
+- Il s'agit de films qui n'ont pas une idéologie mais qui pensent aux relations entre hommes et femmes, amitié, amour, désir, vie, bonheur, en nuit, travail et temps libre. Ce sont des oeuvres de fiction, pas de sociologie.
+- Les personnages sont des jeunes femmes d'entre 15 et 30 ans, impliquées par des intrigues sombres et imprévisibles du quotidien. 
+  collapsed:: true
+	- Zappoli, _Rohmer_
+-
+- ≠ [[six contes moraux]]
+	- Rohmer montre dans ce cycle des femmes qui affrontent la vie, ce qui oppose les [[six contes moraux]] où [[Éric Rohmer]] montre l'hesitation entre ces personnages.
+	- Au [[six contes moraux]] on avait des artistes, philosophes et ecrivins. À Comedies et Proverves on retrouve des etudiants et employées.
+	- Pas de structure narrative de théorème
+	- Problemes réelles avec des protagonistes réelles.
+-
+-- Cycle de [[Éric Rohmer]] fait entre 1961 et 1972
+	- **1962**: La boulangère de Monceau
+	- **1963**: la carrière de Suzanne
+	- **1969**: Ma nuit chez Maud
+	- **1967**: La collectionneuse
+	- **1970**: Le Genou de Claire
+	- **1972**: L'amour, l'après midi
+-
+- Morale pas dans le sens moderne mais dans le sens de ce qui se passe dedans la pensée des personages (≈ [[montaigne]], [[pascal]])
+- [[Éric Rohmer]] définit _moraliste_ comme une personne qui s'intéresse a ce qui se passe à l'interieur des êtres humains Et personages (Etat mental et sentiments)
+- Cela veut dire qu'il n'y a pas de morale, plutot que les personnages réagissent face à certaines idées morales
+- Ce sont des films dans lesquels un sentiment particulier est analysé et ou les personages eux-mêmes analysent leurs sentiments
+-
+- #### schéma
+	- Un homme en couple tourne son attention vers une femme séductrice et semble céder mais finalement reviens à sa premiere femme.
+-
+- #### ≠ [[Comédies et proverbes]]
+	- Ici, il-y-a toujours un narrateur masculin.
+	- Gilles [[Deleuze]] ecrit que les **contes moraux** ont une structure narrative d'un court théorème, pendant que les films de [[Comédies et proverbes]] représentent des véritables problemes auqueles sont confrontés les protagonistes.
+-
+-
+- [[Éric Rohmer]] dans [[cahiers du cinéma]], 1965 #interview
+	- > « Dans une histoire d'amour il y a forcément un homme et une femme. Mais s'il n'y a qu'un homme et une femme, il n'y a pas de grand drame ; Il faudra alors faire jouer certains freins : société etc. Il vaut donc mieux qu'il y ait trois personnages : disons un homme et deux femmes, car je suis un homme et mes histoires se racontent à la première personne. »
+-

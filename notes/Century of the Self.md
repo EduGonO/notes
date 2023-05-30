@@ -1,0 +1,69 @@
+- I. Happiness Machines - 2.5min
+	- Bernay's suggested an elite to govern the masses by the engineering of consent: the idea that stimulating people's desires with consumer products allowed managing the irrational thoughts of the masses.
+	- Bernays becomes Freud's agent and publisher. He profited from his weird ideas (sex, dreams cocaine), and applied his rational ones.
+	- Edward Bernays took Freud's ideas to manipulate the masses. He linked produced goods to uncouncios desires. satisfy passive desires → people more compliant.
+		- He created public relations, also to combat propaganda in WW2
+			- make women smoke
+				- Connect women to an image of challenging men.
+				- If a women smokes, she is tougher and more independent
+				- 📍 NY Easter Day Parade, rich women light cigarettes publicly.
+		- products were necessities, durable. the emotional conection shifted americans from needs to desires.
+		- first connections of product and media. They expressed the inner-self. Product placements in films, models, beauty products.
+		- simultaneously, actors went to the White House. Politics became daily public talk.
+	- 1927: Consumption. Goal: Stock market boom, citizens → consumers
+	- 1928: Hoover in Power, considers consumerism a central motor of American life. People are moving happiness machines and it's key to economic progress. (this also created a peaceful society)
+	- 1929, Oct 29: Stock market crash. Hoover, Rockefeller, Bernays saw it live.
+		- people lost money and stopped buying goods they didn't need. bernays work collapsed
+		- freud retired and wrote Civilization and its Discontents, arguing civilization's purpose is to control the forces inside human beings. individual freedom was impossible.
+			- humans could not express themselves truly freely, but needed to have full control. ∴ they would always be unhappy.
+		- Politicians sided with freud, some thought Democracy allowed selfish individualism without control and proposed that desires should be central but flowing towards a same societal goal.
+	- 1933: Roosevelt Elected, wants to make human beings rational again and involves the public into decision-making.
+		- creation of opinion pools. President Aproval %, Law popularity. If questions are straitfoward and neutral, people know what they want and can be part of their country's future.
+	- 1937: Roosevelt Reelected, businesses are struggling because of the New Deal. They call edward Bernays who attacks the New Deal by creation an emotional connection to corporations. Businesses, not politics, were the ones that created america's future.
+		- Bernays created a narrative that Utopia was large stage capitalism. "Democracy + Capitalism = ❤️" he convinced people that democracy couldn't exist without capitalism.
+		- people's desires were now in charge of the future, not people themselves. the public became passive consumers.
+		- Birth of biased media: Newspapers were pro-government/pro-Corporations.
+		- Freud's subconscious terrified journalists. People stopped believing humans could make rational decisions. Trust in government and democracy fell.
+	- 1938: Hitler annexes Vienna, Freud leaves to London and dies a couple months later.
+- II. The Engineering of Consent - 1.15 min
+	- At Bernay's peak, he suggested an elite to govern the masses by the engineering of consent: the idea that stimulating people's desires with consumer products allowed managing the irrational thoughts of the masses.
+	- after WW2, the army turned to psychoanalysts. stressed of combat resurfaced childhood traumas, proving Freud's theory.
+		- soldiers were encouraged to adapt to good social environments
+		- 1946: National Mental Health Act (Truman) psychoanalysts could change people → psychoanalysts to the masses
+	- Anna Freud rose as the leader of the Psychoanalytic Movement. Influential Psychoanalysts soon turned into advertisements. citizens → consumers. Ernest Dichter started focus groups. Huge success?
+		- Anna Freud didn't intent this but accepted it. Meanwhile, her child patients started suffering alcoholism and anxiety crises and attacks.
+		- more trouble?
+		- Marylin monroe commits suicide. She was being treated by Freudian methods. in the mist of skeptisism, on of the kids commits suicide in her house. this terminated the influence of freudian psychoanalysts.
+	- 1953: Fears USSR's first nuclear bomb. Bernays helped politicians win the Cold War. ex: Guatemala-United Fruits (1954).
+- III. There is a Policeman inside all our heads, he must be destroyed - 1.45min
+	- 1950s: new idea → express feelings openly (Reich). he proposed that freud's uncontrolled raging inferno of emotions was a result of not allowing the original impuse to express itself. solution → release libido.
+		- student unions started denouncing consumerism. "There is a Policeman inside all our heads, he must be destroyed" remove the controls in one's own mind.
+		- 50% of nuns left within a year after experiment
+		- with Reich's ideas: create a new self ∴ new society.
+	- 1960-1970: personal transformation & social transformation. self exploration booming.
+		- marketing realizes people now buy products that express personality. it's the birth of individualism
+		- new ideology: only the individual matters, no societal concern.
+			- tho main issues: focus groups and mass production.
+			- people happy + self-developed = socialism in a prison = capitalism
+	- 1970s: profit from individuals expressing themselves.
+		- The Stanford Research Institue create VALs, who categorize by desires and drives, not social classes. They end up being way more insightful and work when figuring who people would vote for. Freudian focus groups adapted VALs and evolved.
+			- mass production → infinite range of products to express individuality, based on VALs
+		- a generation who once rebelled agains consumerism now embraced that it helped them be themselves.
+		- self-expression allowed unlimited needs ∴ unlimited products and services.
+			- supply > demand? → ∞ demand
+			- explosion of desire that led to the boom of the american economy
+		- ! while liberation of self-self expression, freed social constrains, it also made consuming a necessity for identity
+		- corporations helped people feel unique and express individuality. triumph of the self: personal satisfaction, individual choices, no society
+	- 1981: Reagan is elected on individualism, after 50yrs of government interference. His demographic showed no pattern but VALs figured out why???
+- IV. Eight People Sipping Wine in Kettering - 1.26min
+	- Individualism: People want to be part of society but also want to be different.
+		- idea of satisfying individual feelings dominated society. margaret thatcher thought free marked would solve? this.
+		- PR advertisements companies like Freud Corporations. start to adapt pooling and ↑ part of political parties → individuals that command politicians in return for taxes, just like business
+	- 1992: Clinton elected using extreme pooling. main promise was to cut taxes but once he realized the US deficit was way higher than he thought ($300bn) he dropped the promise. people felt betrayed and republicans won the congress midterms by promising tax cuts.
+		- clinton decided to forget ideologies and run the government like a business. he followed freudian advise? he made policies targeting tiny details of people's day-to-day lives. (sealtbelts, public smoking, TV ratings...)
+	- 1996: Clinton focuses solely on wing voter-issues (phones in school Buses, vCards)
+		- Clinton wins reelection. "suburban voters pretty much created Clinton's domestic policy."
+		- It was key to winning.
+		- why? Clinton ends welfare, 60yrs after Roosevelt, ?
+	- Problem with doing policy by focus groups is people are contradictory and irrational. better services lower taxes. Tony Blair failed to see this, Clinton adapted.
+	- businesses thrive appealing to the unconscious, governments need to engage with the rational.

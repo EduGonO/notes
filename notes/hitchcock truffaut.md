@@ -1,0 +1,93 @@
+- film by kent jones
+-
+- AH: "why dont they look old? I don't know"
+- FT: "rigoureux, pas de temps, situés par rapport a vous même"
+-
+- stack of papers
+- 1966 truffaut published conversations with hitchcock, title by title
+- director talking about his work unpretentious
+- talking about craft
+- pièce essentielle de l'œuvre de [[truffaut]]
+- hitchcock commence à être plus reconu
+- climate was of bullying: what is real cinema?
+	- book
+- 1962: Hitchcock 63, name in TV and movies (40), master of suspense specially psycho.
+	- trailers of him talking
+- truffaut half age, only 3 films 400, jules et jim, . proppose interviews 8 jours
+-
+- hitchcock was engineer then advertiser, then art direction, scrip writing, production then direction. 23, wife is assistant
+- the lodger, first to exercise style.
+	- floors of glass, reflections in glass wines
+- first british talkie:
+- 1934: first 100% hitchcocian
+	- the man who knew too much
+- move to hollywood but interest in studios
+- 40s: rebeca, saboteur, shadow of a doubt, notorious, rope,
+- 50s: strangers on a train, rear window, vertigo, the man who knew too much
+- truffaut @ cahiers con godard
+- auteurs (bergman, )
+- nouvelle vague c'est quand cinema prends conscience de lui meme. auteurs sont artistes
+- "police station story of hitchcock @ 5"
+- truffaut was locked up by his father and sent to juvenile detention → 400c
+- attachment to freedom. Bazin emmène truffaut dans les cahiers du cinema, roselini, jean renoir
+- truffaut cherchait se cémenter comme artiste et hitchcock de ne plus être un réalisateur de films d'entretainement légers
+-
+-
+-
+- AH
+	- i know what's comming and i have to say "do you?"
+	- plausibility for the sake of plausibility doesn't help AH
+	- image is space, you may need it and use it dramatically
+		- birds she shrinks on the sofa with the camera steady, no more space
+	- contract or extend time
+	- stop time:
+	- importance of dreams? daydreams
+	- never satisfied with the ordinary
+	- the technique of pure motion picture, which was abandoned when sound arrived #fft #film
+- FT
+	- define suspense? gens pense que c'est quand ils on peur qui est faux
+	- expansions of time
+	- stop time: 400c
+	- usage d'improvisations
+-
+- truffaut pas styliste, il retiens la vitesse mais
+- théoricien de l'espace, mathématicien
+- acteurs comme details, hitchcock est le premier à mètre un structure au *langage* du cinema avec ces opinions sur acteurs
+- plats ww2 change in what a persona is. James Dean, Brando. Then DeNiro, Pacino, Hoffman
+- rapport au control de hitchcock qui capturent une spiritualité
+- birds shot from above, cleansing of earth, whose POV?
+- original sin, judgement, guilt of men, catholique? → "go off the record"
+- inserts the wrong man
+	- impossible to to the prayer scene if not from a catholic filmmaker
+- final autoportrait
+- objects with a freudian weight. Rope, keys, bag...?
+-
+- vertigo
+	- image reflect de hitchcok
+	- yes its a fantasy mais its real for him
+	- everything goes on
+- interested in the audience, a film can be designed for 2000 not 1, greatest known mass medium in the world.
+	- japanese audience should scream at the same time as the german audience.
+	-
+- climax every 2 seconds, visual hyperboles, overstimulation which gets in the way of thesis
+- structure twisted to meet desired effect.
+- by psycho, people are watching TV. we start to borrow from the real world.
+- play the audience
+	- where are you in a movie, hitchcock movie, universal movie. misdirection everywhere.
+- scenes that indicate trouble are slowed, others are made faster
+- bra, money, plot
+- shower scene destroyed all rules
+	- camera showing both her and behind.
+	- it couldn't have happened but did. hitchcock proved his theory: people can't not watch
+	- audience response and general work response. he knew it was ready for this kind of film.
+	- for the first time it was dangerous to go to the movies
+	- life is different now, and even the movies you'll see are different
+- satisfaction of generating a mass emotion. not message or performance, nor a nove for an audiencel. it was pure film.
+	- terrible subject, people were small, no characters. but the use of film in constricting this story caused audiences around the world to react and become immersed. pride is that the picture belongs to us, you and I.
+- 1962 conversation started. they spoke and wrote, screened and confined on each other. 1966 publication, then truffaut made a movie a year. hitchcock made only 3 more
+	- he was hunted by experimenting more with character and story. artist or entertainment?
+- hitchcock closed his studio
+- 1980: hitchcock dies
+- truffaut would die 4 years after hitchcock.
+- TODO hitchcock l'artiste, qui écrit avec la camera
+- you are interested, within your framework of storytelling, in filming moral dilemmas.
