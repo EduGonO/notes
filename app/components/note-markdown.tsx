@@ -64,7 +64,7 @@ export const NoteMarkdown: React.FC<Props> = ({
       case 'list':
         listIndex++
         return token.ordered ? (
-          <ol>{tokensToElements(token.items || [], options)}</ol>
+          <li>{tokensToElements(token.items || [], options)}</li>
         ) : (
           <ul
             onClick={() =>
