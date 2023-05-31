@@ -73,6 +73,8 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       )
     case 'em':
       return <em>{tokensToElements(token.tokens || [], options)}</em>
+    case 'strong':
+      return <strong>{tokensToElements(token.tokens || [], options)}</strong>
     case 'blockquote':
       return <blockquote>{tokensToElements(token.tokens || [], options)}</blockquote>
     case 'hr':
