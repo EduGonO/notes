@@ -76,32 +76,31 @@ const HighlightRendererExtension: marked.RendererExtension = {
 };
 
 
-
 const TagTokenizerExtension: marked.TokenizerExtension = {
   name: 'tag',
   level: 'inline',
 
-  start: (src: string) => src.match(/#\w+/)?.index || -1,
+  start: (src: string) => src.match(/\B#\w+/)?.index || -1,
 
-  tokenizer: (src: string, tokens: marked.TokensList) => {
-    const rule = /#\w+/g;
-    let match;
+  tokenizer: (src: string) => {
+    const rule = /\B#\w+/;
+    const match = rule.exec(src);
 
-    while ((match = rule.exec(src)) !== null) {
-      const tag = match[0];
+    if (match) {
+      const text = match[0];
 
-      tokens.push({
+      return {
         type: 'tag',
-        raw: tag,
-        tag: tag,
+        raw: text,
+        tag: match[0].slice(1),
         tokens: [
           {
             type: 'text',
-            raw: tag,
-            text: tag,
+            raw: text,
+            text: match[0],
           },
         ],
-      });
+      };
     }
   },
 };
