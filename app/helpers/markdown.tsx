@@ -38,9 +38,9 @@ const BacklinkRendererExtension: marked.RendererExtension = {
   },
 }
 
-const HighlightTokenizerExtension = {
+const HighlightTokenizerExtension: marked.TokenizerExtension = {
   name: 'highlight',
-  level: 'inline',
+  level: 'inline', // or 'block'
 
   start: (src: string) => src.match(/(::|==)/)?.index || -1,
 
