@@ -15,6 +15,7 @@ books
 - [[the beginning of infinity]]
 - einstein
 - leonardo da vinci
+- [[llano en llamas]]
 - the physicist and the philosopher
 - [[the short happy life of francis macomber]]
 - desierto sonoro
@@ -56,7 +57,40 @@ film
 
 
 
+  ꩜ ∈⌘∅
 
+
+
+writing keeps ideas in space
+
+speech lets them travel in time
+
+we use paintings to decorate space
+
+and music to decorate time
+
+
+As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.
+
+
+find the way by moonlight
+
+see the dawn before
+
+the rest of the world
+
+
+unconscious time, no peace of mind,
+
+falling in space but still alive.
+
+sketching the future in a single line,
+
+everything's spinning, cannot sit down.
+
+moments in space, places in time,
+
+thoughts penciled in, now come to life.
 
 
 
