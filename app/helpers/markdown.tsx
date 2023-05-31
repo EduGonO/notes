@@ -91,21 +91,12 @@ const HighlightTokenizerExtension: marked.TokenizerExtension = {
       return {
         type: 'highlight',
         raw: text,
+        text: match[2],
         tokens: [
           {
-            type: 'invisible',
-            raw: text,
-            text: '',
-          },
-          {
             type: 'text',
-            raw: match[2],
-            text: match[2],
-          },
-          {
-            type: 'invisible',
             raw: text,
-            text: '',
+            text,
           },
         ],
       }
@@ -117,11 +108,7 @@ const HighlightRendererExtension: marked.RendererExtension = {
   name: 'highlight',
 
   renderer: (token: marked.Tokens.Generic) => {
-    if (token.type === 'invisible') {
-      return ''
-    }
-
-    return `<strong>${token.text}</strong>`
+    return `<span class="highlight">${token.text}</span>`
   },
 }
 
