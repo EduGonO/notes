@@ -76,47 +76,8 @@ const HighlightRendererExtension: marked.RendererExtension = {
 };
 
 
-const TagTokenizerExtension: marked.TokenizerExtension = {
-  name: 'tag',
-  level: 'inline',
-
-  start: (src: string) => src.match(/\B#\w+/)?.index || -1,
-
-  tokenizer: (src: string) => {
-    const rule = /\B#\w+/;
-    const match = rule.exec(src);
-
-    if (match) {
-      const text = match[0];
-
-      return {
-        type: 'tag',
-        raw: text,
-        tag: match[0].slice(1),
-        tokens: [
-          {
-            type: 'text',
-            raw: text,
-            text: match[0],
-          },
-        ],
-      };
-    }
-  },
-};
-
-const TagRendererExtension: marked.RendererExtension = {
-  name: 'tag',
-
-  renderer: (token: marked.Tokens.Generic) => {
-    return `<span class="tag">${token.tag}</span>`;
-  },
-};
-
-
-
 marked.use({
-  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension, HighlightTokenizerExtension, HighlightRendererExtension, TagTokenizerExtension, TagRendererExtension],
+  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension, HighlightTokenizerExtension, HighlightRendererExtension],
 })
 
 export const markdownToHtml = (markdown: string) => {
