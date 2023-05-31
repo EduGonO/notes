@@ -35,11 +35,20 @@ const elementWithKey = (element: React.ReactElement, key: string | number) => (
   <React.Fragment key={key}>{element}</React.Fragment>
 )
 
-const tokensToElements = (tokens: marked.Tokens.Generic[], options: MarkdownOptions) => {
+/*const tokensToElements = (tokens: marked.Tokens.Generic[], options: MarkdownOptions) => {
   return tokens.map((token, index) =>
     elementWithKey(tokenToElement(token, options), index),
   )
-}
+}*/
+const tokensToElements = (tokens: marked.Tokens.Generic[], options: MarkdownOptions) => {
+  return tokens.map((token, index) => {
+    const element = tokenToElement(token, options);
+    if (element) {
+      return elementWithKey(element, index);
+    }
+    return null;
+  });
+};
 
 const textTokenToElement = (token: marked.Tokens.Text, options: MarkdownOptions) => {
   if (token.tokens?.length) {
