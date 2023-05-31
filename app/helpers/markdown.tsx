@@ -115,7 +115,7 @@ const TagRendererExtension: marked.RendererExtension = {
 
 
 marked.use({
-  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension, HighlightTokenizerExtension, HighlightRendererExtension, TagTokenizerExtensionTagTokenizerExtension, TagRendererExtension],
+  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension, HighlightTokenizerExtension, HighlightRendererExtension, TagTokenizerExtension, TagRendererExtension],
 })
 
 export const markdownToHtml = (markdown: string) => {
