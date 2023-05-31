@@ -104,7 +104,7 @@ export const NoteMarkdown: React.FC<Props> = ({
       {markdownToElements(markdown, { onClickBacklink })}
     </div>
   )
-
+}
   
 
   function tokensToElements(
@@ -133,7 +133,7 @@ export const NoteMarkdown: React.FC<Props> = ({
   ): JSX.Element {
     return <React.Fragment key={key}>{element}</React.Fragment>
   }
-}
+
 
 interface MarkdownOptions {
   onClickBacklink?: (event: MouseEvent, path: string) => void
