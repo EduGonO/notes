@@ -97,6 +97,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
         </pre>
       )
 		case 'strong':
+		case 'tag':
        return <strong>{tokensToElements(token.tokens || [], options)}</strong>
     default:
       console.error('Unknown token type:', token.type)
