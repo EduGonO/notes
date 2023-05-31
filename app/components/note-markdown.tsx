@@ -11,32 +11,7 @@ interface Props {
   onClickBacklink?: (event: MouseEvent, path: string) => void
 }
 
-const markdownToElements = (markdown: string, options: MarkdownOptions = {}) => {
-  const tokens = markdownToTokens(markdown)
-  const elements = tokens.map((token) => tokenToElement(token, options))
-
-  return elements.map((element, index) => elementWithKey(element, index))
-}
-
-export const NoteMarkdown: React.FC<Props> = ({
-  markdown,
-  onClickBacklink,
-  style,
-  size = 'md',
-}) => {
-  const [expandedLists, setExpandedLists] = useState<Record<number, boolean>>({})
-  let listIndex = 0
-
-  return (
-    <div
-      className={clsx('prose w-auto', size === 'sm' ? 'prose-sm' : 'prose-md')}
-      style={style}
-    >
-      {markdownToElements(markdown, { onClickBacklink })}
-    </div>
-  )
-
-  function tokenToElement(
+function tokenToElement(
     token: marked.Tokens.Generic,
     options: MarkdownOptions
   ): JSX.Element {
@@ -104,6 +79,33 @@ export const NoteMarkdown: React.FC<Props> = ({
         return <></>
     }
   }
+
+const markdownToElements = (markdown: string, options: MarkdownOptions = {}) => {
+  const tokens = markdownToTokens(markdown)
+  const elements = tokens.map((token) => tokenToElement(token, options))
+
+  return elements.map((element, index) => elementWithKey(element, index))
+}
+
+export const NoteMarkdown: React.FC<Props> = ({
+  markdown,
+  onClickBacklink,
+  style,
+  size = 'md',
+}) => {
+  const [expandedLists, setExpandedLists] = useState<Record<number, boolean>>({})
+  let listIndex = 0
+
+  return (
+    <div
+      className={clsx('prose w-auto', size === 'sm' ? 'prose-sm' : 'prose-md')}
+      style={style}
+    >
+      {markdownToElements(markdown, { onClickBacklink })}
+    </div>
+  )
+
+  
 
   function tokensToElements(
     tokens: marked.Tokens.Generic[],
