@@ -89,7 +89,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
     case 'space':
       return <></>
 		case 'highlight':
-			return <mark style={{ backgroundColor: '#fdef9f', padding: '0.1em' }}>{tokensToElements(token.tokens || [], options)}</mark>
+			return <mark style={{ backgroundColor: '#fdef9f', padding: '0.1em 0.2em 0.1em 0.2em' }}>{tokensToElements(token.tokens || [], options)}</mark>
     case 'code':
       return (
         <pre>
