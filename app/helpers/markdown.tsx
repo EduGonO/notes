@@ -109,7 +109,7 @@ const TagRendererExtension: marked.RendererExtension = {
   name: 'tag',
 
   renderer: (token: marked.Tokens.Generic) => {
-    return `<span class="tag">#${token.tag}</span>`;
+    return `<span class="tag">${token.tag}</span>`;
   },
 };
 
