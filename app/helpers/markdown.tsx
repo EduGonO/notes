@@ -37,14 +37,15 @@ const BacklinkRendererExtension: marked.RendererExtension = {
     return `<a href="${token.path}">${token.path}</a>`
   },
 }
+
 const BoldTokenizerExtension: marked.TokenizerExtension = {
   name: 'bold',
   level: 'inline',
 
-  start: (src: string) => src.match(/(\*\*|__)/)?.index || -1,
+  start: (src: string) => src.match(/\*\*/)?.index || -1,
 
   tokenizer: (src: string) => {
-    const rule = /^(\*\*|__)(.+?)\1/
+    const rule = /^\*\*(.+?)\*\*/
     const match = rule.exec(src)
 
     if (match) {
@@ -53,21 +54,12 @@ const BoldTokenizerExtension: marked.TokenizerExtension = {
       return {
         type: 'bold',
         raw: text,
+        text: match[1],
         tokens: [
           {
-            type: 'invisible',
-            raw: text,
-            text: '',
-          },
-          {
             type: 'text',
-            raw: match[2],
-            text: match[2],
-          },
-          {
-            type: 'invisible',
             raw: text,
-            text: '',
+            text,
           },
         ],
       }
@@ -79,10 +71,6 @@ const BoldRendererExtension: marked.RendererExtension = {
   name: 'bold',
 
   renderer: (token: marked.Tokens.Generic) => {
-    if (token.type === 'invisible') {
-      return ''
-    }
-
     return `<strong>${token.text}</strong>`
   },
 }
