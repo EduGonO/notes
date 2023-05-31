@@ -55,7 +55,7 @@ export const NoteMarkdown: React.FC<Props> = ({
         )
       case 'em':
         return <em>{tokensToElements(token.tokens || [], options)}</em>
-      case 'strong':
+      case 'bold':
         return <strong>{tokensToElements(token.tokens || [], options)}</strong>
       case 'blockquote':
         return <blockquote>{tokensToElements(token.tokens || [], options)}</blockquote>
