@@ -11,6 +11,13 @@ interface Props {
   onClickBacklink?: (event: MouseEvent, path: string) => void
 }
 
+const markdownToElements = (markdown: string, options: MarkdownOptions = {}) => {
+  const tokens = markdownToTokens(markdown)
+  const elements = tokens.map((token) => tokenToElement(token, options))
+
+  return elements.map((element, index) => elementWithKey(element, index))
+}
+
 export const NoteMarkdown: React.FC<Props> = ({
   markdown,
   onClickBacklink,
@@ -130,9 +137,3 @@ interface MarkdownOptions {
   onClickBacklink?: (event: MouseEvent, path: string) => void
 }
 
-const markdownToElements = (markdown: string, options: MarkdownOptions = {}) => {
-  const tokens = markdownToTokens(markdown)
-  const elements = tokens.map((token) => tokenToElement(token, options))
-
-  return elements.map((element, index) => elementWithKey(element, index))
-}
