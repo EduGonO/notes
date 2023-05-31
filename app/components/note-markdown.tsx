@@ -76,6 +76,8 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return <blockquote>{tokensToElements(token.tokens || [], options)}</blockquote>
     case 'hr':
       return <hr />
+		case 'tag':
+			return <span style={{ backgroundColor: '#ffef9f', padding: '0.1em' }}>{tokensToElements(token.tokens || [], options)}</span>
     case 'list':
       return token.ordered ? (
         <ol>{tokensToElements(token.items || [], options)}</ol>
@@ -87,7 +89,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
     case 'space':
       return <></>
 		case 'highlight':
-			return <mark style={{ backgroundColor: '#fdef9f', padding: '0.2em' }}>{tokensToElements(token.tokens || [], options)}</mark>
+			return <mark style={{ backgroundColor: '#fdef9f', padding: '0.1em' }}>{tokensToElements(token.tokens || [], options)}</mark>
     case 'code':
       return (
         <pre>
