@@ -14,9 +14,9 @@ books
 - [[laberinto de la soledad]]
 - [[the beginning of infinity]]
 - einstein
-- leonardo da vinci
+- **leonardo** da *vinci*
 - [[llano en llamas]]
-- the physicist and the philosopher
+- the ::physicist:: and the philosopher
 - [[the short happy life of francis macomber]]
 - desierto sonoro
 - my autobiography
