@@ -75,8 +75,47 @@ const BoldRendererExtension: marked.RendererExtension = {
   },
 }
 
+
+
+const HighlightTokenizerExtension: marked.TokenizerExtension = {
+  name: 'highlight',
+  level: 'inline',
+
+  start: (src: string) => src.match(/(\:\:|==)/)?.index || -1,
+
+  tokenizer: (src: string) => {
+    const rule = /^(\:\:|==)(.+?)\1/
+    const match = rule.exec(src)
+
+    if (match) {
+      const text = match[0]
+
+      return {
+        type: 'highlight',
+        raw: text,
+        text: match[2],
+        tokens: [
+          {
+            type: 'text',
+            raw: text,
+            text,
+          },
+        ],
+      }
+    }
+  },
+}
+
+const HighlightRendererExtension: marked.RendererExtension = {
+  name: 'highlight',
+
+  renderer: (token: marked.Tokens.Generic) => {
+    return `<strong>${token.text}</strong>`
+  },
+}
+
 marked.use({
-  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension, BoldTokenizerExtension, BoldRendererExtension],
+  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension, BoldTokenizerExtension, BoldRendererExtension, HighlightTokenizerExtension, HighlightRendererExtension],
 })
 
 export const markdownToHtml = (markdown: string) => {
