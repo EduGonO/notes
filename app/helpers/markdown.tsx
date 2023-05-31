@@ -38,8 +38,48 @@ const BacklinkRendererExtension: marked.RendererExtension = {
   },
 }
 
+
+const HighlightTokenizerExtension = {
+  name: 'highlight',
+  level: 'inline',
+
+  start: (src) => src.match(/(::|==)/)?.index || -1,
+
+  tokenizer: (src) => {
+    const rule = /^(::|==)([^]+?)\1/;
+    const match = rule.exec(src);
+
+    if (match) {
+      const text = match[0];
+
+      return {
+        type: 'highlight',
+        raw: text,
+        content: match[2],
+        tokens: [
+          {
+            type: 'text',
+            raw: text,
+            text: match[2],
+          },
+        ],
+      };
+    }
+  },
+};
+
+const HighlightRendererExtension = {
+  name: 'highlight',
+
+  renderer: (token) => {
+    return `<mark class="highlight">${token.content}</mark>`;
+  },
+};
+
+
+
 marked.use({
-  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension],
+  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension, HighlightTokenizerExtension, HighlightRendererExtension],
 })
 
 export const markdownToHtml = (markdown: string) => {
