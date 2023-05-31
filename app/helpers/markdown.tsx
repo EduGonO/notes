@@ -81,49 +81,36 @@ const TagTokenizerExtension: marked.TokenizerExtension = {
   name: 'tag',
   level: 'inline',
 
-  start: (src: string) => src.match(/\B#\w+/)?.index || -1,
+  start: (src: string) => src.match(/#\w+/)?.index || -1,
 
   tokenizer: (src: string, tokens: marked.TokensList) => {
-    const rule = /\B#\w+/g;
-    const matches = src.match(rule);
+    const rule = /#\w+/g;
+    let match;
 
-    if (matches) {
-      const tagTokens = matches.map((match) => ({
+    while ((match = rule.exec(src)) !== null) {
+      const tag = match[0];
+
+      tokens.push({
         type: 'tag',
-        raw: match,
-        tag: match.slice(1),
+        raw: tag,
+        tag: tag,
         tokens: [
           {
             type: 'text',
-            raw: match,
-            text: match,
+            raw: tag,
+            text: tag,
           },
         ],
-      }));
-
-      if (tagTokens.length > 0) {
-        const precedingText = src.slice(0, src.indexOf(tagTokens[0].raw));
-        const trailingText = src.slice(src.lastIndexOf(tagTokens[tagTokens.length - 1].raw) + tagTokens[tagTokens.length - 1].raw.length);
-
-        if (precedingText) {
-          tokens.push({
-            type: 'text',
-            raw: precedingText,
-            text: precedingText,
-          });
-        }
-
-        tokens.push(...tagTokens);
-
-        if (trailingText) {
-          tokens.push({
-            type: 'text',
-            raw: trailingText,
-            text: trailingText,
-          });
-        }
-      }
+      });
     }
+  },
+};
+
+const TagRendererExtension: marked.RendererExtension = {
+  name: 'tag',
+
+  renderer: (token: marked.Tokens.Generic) => {
+    return `<span class="tag">${token.tag}</span>`;
   },
 };
 
