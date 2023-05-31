@@ -37,7 +37,6 @@ const BacklinkRendererExtension: marked.RendererExtension = {
     return `<a href="${token.path}">${token.path}</a>`
   },
 }
-
 const BoldTokenizerExtension: marked.TokenizerExtension = {
   name: 'bold',
   level: 'inline',
@@ -54,12 +53,21 @@ const BoldTokenizerExtension: marked.TokenizerExtension = {
       return {
         type: 'bold',
         raw: text,
-        text: match[2],
         tokens: [
           {
-            type: 'text',
+            type: 'invisible',
             raw: text,
-            text,
+            text: '',
+          },
+          {
+            type: 'text',
+            raw: match[2],
+            text: match[2],
+          },
+          {
+            type: 'invisible',
+            raw: text,
+            text: '',
           },
         ],
       }
@@ -71,11 +79,13 @@ const BoldRendererExtension: marked.RendererExtension = {
   name: 'bold',
 
   renderer: (token: marked.Tokens.Generic) => {
+    if (token.type === 'invisible') {
+      return ''
+    }
+
     return `<strong>${token.text}</strong>`
   },
 }
-
-
 
 const HighlightTokenizerExtension: marked.TokenizerExtension = {
   name: 'highlight',
@@ -93,12 +103,21 @@ const HighlightTokenizerExtension: marked.TokenizerExtension = {
       return {
         type: 'highlight',
         raw: text,
-        text: match[2],
         tokens: [
           {
-            type: 'text',
+            type: 'invisible',
             raw: text,
-            text,
+            text: '',
+          },
+          {
+            type: 'text',
+            raw: match[2],
+            text: match[2],
+          },
+          {
+            type: 'invisible',
+            raw: text,
+            text: '',
           },
         ],
       }
@@ -110,6 +129,10 @@ const HighlightRendererExtension: marked.RendererExtension = {
   name: 'highlight',
 
   renderer: (token: marked.Tokens.Generic) => {
+    if (token.type === 'invisible') {
+      return ''
+    }
+
     return `<strong>${token.text}</strong>`
   },
 }
