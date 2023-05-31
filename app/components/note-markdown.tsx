@@ -48,6 +48,7 @@ const textTokenToElement = (token: marked.Tokens.Text, options: MarkdownOptions)
     return <span dangerouslySetInnerHTML={{__html: token.text}} />
   }
 }
+    
 
 const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) => {
   switch (token.type) {
@@ -83,9 +84,11 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
         <ul>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
-      return <li>{tokensToElements(token.tokens || [], options)}</li>
+      return <li style={{ padding-left: '3px', marginTop: '4px', marginBottom: '4px' }}>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
       return <></>
+    case 'highlight':
+      return <mark style={{ backgroundColor: '#fdef9f', padding: '0.1em 0.2em 0.1em 0.2em' }}>{tokensToElements(token.tokens || [], options)}</mark>
     case 'code':
       return (
         <pre>
