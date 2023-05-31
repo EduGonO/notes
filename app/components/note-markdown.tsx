@@ -4,6 +4,8 @@ import { markdownToTokens } from 'app/helpers/markdown'
 import { NoteBacklink } from './note-backlink'
 import clsx from 'clsx'
 
+let listIndex = 0
+
 interface Props {
   markdown: string
   style?: React.CSSProperties
