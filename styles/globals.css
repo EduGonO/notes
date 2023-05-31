@@ -19,6 +19,27 @@ a {
   box-sizing: border-box;
 }
 
+
+
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "•";
+  color: red;
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
 .note-preview-popover {
   @apply hidden sm:block absolute rounded-md max-w-[420px] ring-1 ring-gray-200 ring-opacity-50 bg-white px-5 py-4;
 
