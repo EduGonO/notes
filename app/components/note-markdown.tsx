@@ -76,8 +76,6 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return <blockquote>{tokensToElements(token.tokens || [], options)}</blockquote>
     case 'hr':
       return <hr />
-		case 'tag':
-			return <span style={{ backgroundColor: '#dfef9f', padding: '0.1em' }}>{tokensToElements(token.tag || [], options)}</span>
     case 'list':
       return token.ordered ? (
         <ol>{tokensToElements(token.items || [], options)}</ol>
