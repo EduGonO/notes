@@ -80,8 +80,12 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return token.ordered ? (
         <ol>{tokensToElements(token.items || [], options)}</ol>
       ) : (
-        <ul>{tokensToElements(token.items || [], options)}</ul>
+        <ul onClick={() => setIsListShown(!isListShown)}>
+          {isListShown && tokensToElements(token.items || [], options)}
+        </ul>
       )
+    case 'list_item':
+      return <li>{tokensToElements(token.tokens || [], options)}</li>
     case 'list_item':
       return <li>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
