@@ -77,7 +77,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
     case 'hr':
       return <hr />
 		case 'tag':
-			return <a href={token.tag} target="_blank" style={{ backgroundColor: '#dfef9f', padding: '0.1em' }}>{tokensToElements(token.tag || [], options)}</a>
+			return <span style={{ backgroundColor: '#dfef9f', padding: '0.1em' }}>{tokensToElements(token.tag || [], options)}</span>
     case 'list':
       return token.ordered ? (
         <ol>{tokensToElements(token.items || [], options)}</ol>
