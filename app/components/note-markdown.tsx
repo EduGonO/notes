@@ -78,12 +78,12 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return <hr />
     case 'list':
       return token.ordered ? (
-        <ol style={{ marginLeft: '-1em' }}>{tokensToElements(token.items || [], options)}</ol>
+        <ol style={{ marginLeft: '0em' }}>{tokensToElements(token.items || [], options)}</ol>
       ) : (
-        <ul style={{ marginLeft: '-1em' }}>{tokensToElements(token.items || [], options)}</ul>
+        <ul style={{ marginLeft: '0em' }}>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
-      return <li style={{ marginLeft: '-1em' }}>{tokensToElements(token.tokens || [], options)}</li>
+      return <li style={{ padding-left: '3px', margin-top:'4px', margin-bottom:'4px' }}>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
       return <></>
 		case 'highlight':
