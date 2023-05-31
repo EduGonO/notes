@@ -1,5 +1,6 @@
 import {marked} from 'marked'
 import React, {MouseEvent} from 'react'
+import React, { useState } from 'react'
 import {markdownToTokens} from 'app/helpers/markdown'
 import {NoteBacklink} from './note-backlink'
 import clsx from 'clsx'
@@ -17,8 +18,8 @@ export const NoteMarkdown: React.FC<Props> = ({
   style,
   size = 'md',
 }) => {
-  const [isListShown, setIsListShown] = useState(true)
-  return (
+  const [expandedLists, setExpandedLists] = useState<Record<number, boolean>>({})
+return (
     <div
       className={clsx('prose w-auto', size === 'sm' ? 'prose-sm' : 'prose-md')}
       style={style}
@@ -80,17 +81,26 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
     case 'hr':
       return <hr />
     case 'list':
+    case 'list_item':
       return token.ordered ? (
         <ol>{tokensToElements(token.items || [], options)}</ol>
       ) : (
-        <ul onClick={() => setIsListShown(!isListShown)}>
-          {isListShown && tokensToElements(token.items || [], options)}
+        <ul
+          onClick={() =>
+            setExpandedLists((prevExpandedLists) => ({
+              ...prevExpandedLists,
+              [listIndex]: !prevExpandedLists[listIndex],
+            }))
+          }
+        >
+          {expandedLists[listIndex] &&
+            tokensToElements(token.items || [], options)}
         </ul>
       )
-    case 'list_item':
-      return <li>{tokensToElements(token.tokens || [], options)}</li>
-    case 'list_item':
-      return <li>{tokensToElements(token.tokens || [], options)}</li>
+    //case 'list_item':
+      //return <li>{tokensToElements(token.tokens || [], options)}</li>
+    //case 'list_item':
+      //return <li>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
       return <></>
     default:
