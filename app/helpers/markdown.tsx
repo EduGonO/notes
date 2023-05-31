@@ -38,8 +38,45 @@ const BacklinkRendererExtension: marked.RendererExtension = {
   },
 }
 
+const BoldTokenizerExtension: marked.TokenizerExtension = {
+  name: 'bold',
+  level: 'inline',
+
+  start: (src: string) => src.match(/(\*\*|__)/)?.index || -1,
+
+  tokenizer: (src: string) => {
+    const rule = /^(\*\*|__)(.+?)\1/
+    const match = rule.exec(src)
+
+    if (match) {
+      const text = match[0]
+
+      return {
+        type: 'bold',
+        raw: text,
+        text: match[2],
+        tokens: [
+          {
+            type: 'text',
+            raw: text,
+            text,
+          },
+        ],
+      }
+    }
+  },
+}
+
+const BoldRendererExtension: marked.RendererExtension = {
+  name: 'bold',
+
+  renderer: (token: marked.Tokens.Generic) => {
+    return `<strong>${token.text}</strong>`
+  },
+}
+
 marked.use({
-  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension],
+  extensions: [BacklinkTokenizerExtension, BacklinkRendererExtension, BoldTokenizerExtension, BoldRendererExtension],
 })
 
 export const markdownToHtml = (markdown: string) => {
