@@ -80,7 +80,7 @@ const TagTokenizerExtension: marked.TokenizerExtension = {
   name: 'tag',
   level: 'inline',
 
-  start: (src: string) => src.search(/\B#\w+/),
+  start: (src: string) => src.match(/\B#\w+/)?.index || -1,
 
   tokenizer: (src: string) => {
     const rule = /\B#\w+/;
