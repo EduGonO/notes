@@ -38,7 +38,6 @@ const BacklinkRendererExtension: marked.RendererExtension = {
   },
 }
 
-
 const HighlightTokenizerExtension = {
   name: 'highlight',
   level: 'inline',
@@ -68,10 +67,10 @@ const HighlightTokenizerExtension = {
   },
 };
 
-const HighlightRendererExtension = {
+const HighlightRendererExtension: marked.RendererExtension = {
   name: 'highlight',
 
-  renderer: (token) => {
+  renderer: (token: marked.Tokens.Generic) => {
     return `<mark class="highlight">${token.content}</mark>`;
   },
 };
