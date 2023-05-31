@@ -96,9 +96,8 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
           </code>
         </pre>
       )
-		case 'bold':
-    case 'strong':
-      return <span style={{ fontWeight: 'bold' }}>{tokensToElements(token.tokens || [], options)}</span>;
+		case 'strong':
+       return <strong>{tokensToElements(token.tokens || [], options)}</strong>
     default:
       console.error('Unknown token type:', token.type)
       return <></>
