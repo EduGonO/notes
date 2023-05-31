@@ -43,9 +43,9 @@ const HighlightTokenizerExtension = {
   name: 'highlight',
   level: 'inline',
 
-  start: (src) => src.match(/(::|==)/)?.index || -1,
+  start: (src: string) => src.match(/(::|==)/)?.index || -1,
 
-  tokenizer: (src) => {
+  tokenizer: (src: string) => {
     const rule = /^(::|==)([^]+?)\1/;
     const match = rule.exec(src);
 
