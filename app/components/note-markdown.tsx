@@ -87,7 +87,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
     case 'space':
       return <></>
 		case 'highlight':
-			return <strong>{tokensToElements(token.tokens || [], options)}</strong>
+			return <mark>{tokensToElements(token.tokens || [], options)}</mark>
     case 'code':
       return (
         <pre>
