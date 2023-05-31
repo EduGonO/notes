@@ -52,7 +52,7 @@ const tokensToElements = (tokens: marked.Tokens.Generic[], options: MarkdownOpti
 
 const textTokenToElement = (token: marked.Tokens.Text, options: MarkdownOptions) => {
   if (token.tokens?.length) {
-    return <span style={{marginLeft: '-10px'}}>{tokensToElements(token.tokens, options)}</span>
+    return <span style={{marginLeft: '-7px'}}>{tokensToElements(token.tokens, options)}</span>
   } else {
     return <span dangerouslySetInnerHTML={{__html: token.text}} />
   }
@@ -66,7 +66,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
     case 'text':
       return textTokenToElement(token as marked.Tokens.Text, options)
     case 'paragraph':
-      return <p style={{marginBottom: '0px', marginTop: '7px'}}>{tokensToElements(token.tokens || [], options)}</p>
+      return <p style={{marginBottom: '0px', marginTop: '14px'}}>{tokensToElements(token.tokens || [], options)}</p>
     case 'link':
       return (
         <a href={token.href} target="_blank">
