@@ -67,6 +67,7 @@ const BoldTokenizerExtension: marked.TokenizerExtension = {
   },
 }
 
+
 const BoldRendererExtension: marked.RendererExtension = {
   name: 'bold',
 
