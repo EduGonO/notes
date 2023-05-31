@@ -58,9 +58,10 @@ film
 
 
 ⠀ ⠀ ⠀ ꩜ ∈⌘∅
-
-
-
+ 
+⠀ ⠀ 
+⠀ ⠀ 
+ 
 writing keeps ideas in space
 
 speech lets them travel in time
@@ -79,8 +80,10 @@ find the way by moonlight
 see the dawn before
 
 the rest of the world
+ 
 ⠀ ⠀ 
 ⠀ ⠀ 
+ 
 unconscious time, no peace of mind,
 
 falling in space but still alive.
@@ -92,9 +95,9 @@ everything's spinning, cannot sit down.
 moments in space, places in time,
 
 thoughts penciled in, now come to life.
-
  
- 
+⠀ ⠀ 
+⠀ ⠀ 
  
 ---
 
