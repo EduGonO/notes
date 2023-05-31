@@ -69,6 +69,8 @@ we use paintings to decorate space
 
 and music to decorate time
  
+⠀ ⠀ 
+⠀ ⠀ 
  
 As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.
  
