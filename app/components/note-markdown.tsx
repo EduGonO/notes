@@ -17,6 +17,7 @@ export const NoteMarkdown: React.FC<Props> = ({
   style,
   size = 'md',
 }) => {
+  const [isListShown, setIsListShown] = useState(true)
   return (
     <div
       className={clsx('prose w-auto', size === 'sm' ? 'prose-sm' : 'prose-md')}
