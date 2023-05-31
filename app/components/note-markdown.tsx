@@ -52,7 +52,7 @@ const tokensToElements = (tokens: marked.Tokens.Generic[], options: MarkdownOpti
 
 const textTokenToElement = (token: marked.Tokens.Text, options: MarkdownOptions) => {
   if (token.tokens?.length) {
-    return <span style={{marginLeft: '-10px'}}>{tokensToElements(token.tokens, options)}</span>
+    return <span>{tokensToElements(token.tokens, options)}</span>
   } else {
     return <span dangerouslySetInnerHTML={{__html: token.text}} />
   }
@@ -90,7 +90,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return token.ordered ? (
         <ol>{tokensToElements(token.items || [], options)}</ol>
       ) : (
-        <ul>{tokensToElements(token.items || [], options)}</ul>
+        <ul style={{padding-right: '7px'}}>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
       return <li>{tokensToElements(token.tokens || [], options)}</li>
