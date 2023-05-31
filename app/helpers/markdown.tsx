@@ -72,9 +72,9 @@ const BoldRendererExtension: marked.RendererExtension = {
   name: 'bold',
 
   renderer: (token: marked.Tokens.Generic) => {
-    return <strong>{tokensToElements(token.tokens || [], options)}</strong>
+    return `<span style="font-weight: bold">${token.text}</span>`;
   },
-}
+};
 
 const HighlightTokenizerExtension: marked.TokenizerExtension = {
   name: 'highlight',
