@@ -94,6 +94,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
           </code>
         </pre>
       )
+		case 'bold':
     case 'strong':
       return <strong>{tokensToElements(token.tokens || [], options)}</strong>
     default:
