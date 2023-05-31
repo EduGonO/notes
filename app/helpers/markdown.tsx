@@ -71,7 +71,7 @@ const BoldRendererExtension: marked.RendererExtension = {
   name: 'bold',
 
   renderer: (token: marked.Tokens.Generic) => {
-    return `<strong>${token.text}</strong>`
+    return `<strong>${token.path}</strong>`
   },
 }
 
