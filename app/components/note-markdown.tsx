@@ -83,11 +83,9 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
         <ul>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
-      return <li style={{ padding-left: '3px', marginTop: '4px', marginBottom: '4px' }}>{tokensToElements(token.tokens || [], options)}</li>
+      return <li>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
       return <></>
-		case 'highlight':
-			return <mark style={{ backgroundColor: '#fdef9f', padding: '0.1em 0.2em 0.1em 0.2em' }}>{tokensToElements(token.tokens || [], options)}</mark>
     case 'code':
       return (
         <pre>
@@ -96,9 +94,8 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
           </code>
         </pre>
       )
-		case 'strong':
-		case 'tag':
-       return <strong>{tokensToElements(token.tokens || [], options)}</strong>
+    case 'strong':
+      return <strong>{tokensToElements(token.tokens || [], options)}</strong>
     default:
       console.error('Unknown token type:', token.type)
       return <></>
