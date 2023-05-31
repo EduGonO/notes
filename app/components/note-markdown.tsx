@@ -93,7 +93,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
         <ul>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
-      return <li style={{ padding-left: '3px', marginTop: '4px', marginBottom: '4px' }}>{tokensToElements(token.tokens || [], options)}</li>
+      return <li style={{ paddingLeft: '3px', marginTop: '4px', marginBottom: '4px' }}>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
       return <></>
     case 'highlight':
