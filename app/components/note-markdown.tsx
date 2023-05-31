@@ -90,7 +90,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return token.ordered ? (
         <ol>{tokensToElements(token.items || [], options)}</ol>
       ) : (
-        <ul style={{padding-right: '7px'}}>{tokensToElements(token.items || [], options)}</ul>
+        <ul style={{paddingRight: '7px'}}>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
       return <li>{tokensToElements(token.tokens || [], options)}</li>
