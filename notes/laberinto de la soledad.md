@@ -1,7 +1,7 @@
 
 # laberinto de la soledad
 
-![Image](https://res.craft.do/user/full/c17b1dd1-920a-bc27-ee46-bec46f6315a3/doc/10B09ACE-8336-4FD1-8B3E-44C4F4BDF7EF/3BD3BFA7-F101-406C-B56D-D3F719E2DD72_2)
+- ![Image](https://res.craft.do/user/full/c17b1dd1-920a-bc27-ee46-bec46f6315a3/doc/10B09ACE-8336-4FD1-8B3E-44C4F4BDF7EF/3BD3BFA7-F101-406C-B56D-D3F719E2DD72_2)
 
 
 - **Octavio Paz**, 1950
@@ -10,7 +10,7 @@
 
 
 Sobre el [[tiempo]]
-- full link: [test link](apple.com)
+- full link: [test link](https://apple.com)
 - **Nuestra pobreza puede medirse por el número** y suntuosidad **de las fiestas populares**. Los países ricos tienen pocas: no hay [[tiempo]], ni humor. Y no son necesarias; las gentes tienen otras cosas que hacer y cuando se divierten lo hacen en grupos pequeños. [...] **Las fiestas son nuestro único lujo**; ellas sustituyen, acaso con ventaja, al teatro y a las vacaciones, al «week end» y al «cocktail party» de los sajones, a las recepciones de la burguesía y al café de los mediterráneos. México #fft h
 - Se corre el riesgo de no comprender el sentido que tenían esos signos y profecías para los indios si se olvida su concepción cíclica del [[tiempo]]. Según ocurre con muchos otros pueblos y civilizaciones, **para los aztecas el tiempo no era una medida abstracta y vacía de contenido, sino algo concreto, una fuerza, sustancia o fluido que se gasta y consume.** De ahí la necesidad de los ritos y sacrificios destinados a revigorizar el año o el siglo. Pero el tiempo—o más exactamente: **los tiempos—además de constituir algo vivo que nace, crece, decae, renace, era una sucesión que regresa. Un** **[[tiempo]]**** se acaba; otro vuelve. La llegada de los españoles fue interpretada por Moctezuma—al menos al principio—no tanto como un peligro «exterior» sino como el acabamiento interno de una era cósmica y el principio de otra.** Los dioses se van porque su [[tiempo]] se ha acabado; pero regresa otro [[tiempo]] y con él otros dioses, otra era. México #fav #fft
 - **El hombre, desprendido de esa eternidad en la que todos los tiempos son uno, ha caído en el** **[[tiempo]]**** cronométrico y se ha convertido en prisionero del reloj, del calendario y de la sucesión. Pues apenas el tiempo se divide en ayer, hoy y mañana, en horas, minutos y segundos, el hombre cesa de ser uno con el tiempo, cesa de coincidir con el fluir de la realidad.** Cuando digo «en este instante», ya pasó el instante. **La medición espacial del tiempo separa al hombre de la realidad, que es un continuo presente, y hace fantasmas a todas las presencias en que la realidad se manifiesta, como enseña** [[Bergson]]
