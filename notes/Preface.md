@@ -12,11 +12,11 @@ title: notes
 
 some notes i've taken on
 
-## own writing
+own writing
 - [[post-cinema]]
 - [[on-cinema]]
 
-### books
+books
 - versión de los vencidos
 - [[l’etranger]]
 - [[laberinto de la soledad]]
@@ -38,10 +38,10 @@ some notes i've taken on
 - sin querer queriendo
 - fabric of reality
 
-### articles
+articles
 - [[aristotle invented the computer]]
 
-### philosophy
+philosophy
 - [[discrete image]]
     - [[cours stiegler]]
 
@@ -52,7 +52,7 @@ some notes i've taken on
 - minimalism
 - [[discipline and punish]]
 
-### film
+film
 - [[centruy of self]]
 - can’t get you out of my head
 - normalization
