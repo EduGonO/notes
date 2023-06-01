@@ -52,7 +52,7 @@ const tokensToElements = (tokens: marked.Tokens.Generic[], options: MarkdownOpti
 
 const textTokenToElement = (token: marked.Tokens.Text, options: MarkdownOptions) => {
   if (token.tokens?.length) {
-    return <span>{tokensToElements(token.tokens, options)}</span>
+    return <span style={{marginLeft: '-10'}}>{tokensToElements(token.tokens, options)}</span>
   } else {
     return <span dangerouslySetInnerHTML={{__html: token.text}} />
   }
