@@ -66,7 +66,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
     case 'text':
       return textTokenToElement(token as marked.Tokens.Text, options)
     case 'paragraph':
-      return <p style={{ marginBottom: '0px', marginTop: '14px' }}>{tokensToElements(token.tokens || [], options)}</p>
+      return <p style={{marginBottom: '0px', marginTop: '14px'}}>{tokensToElements(token.tokens || [], options)}</p>
     case 'link':
       return (
         <a href={token.href} target="_blank">
@@ -93,7 +93,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
         <ul>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
-      return <li style={{ paddingLeft: '0px' }}*/>{tokensToElements(token.tokens || [], options)}</li>
+      return <li style={{paddingLeft: '0px'}}*/>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
       return <></>
     case 'highlight':
