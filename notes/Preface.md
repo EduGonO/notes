@@ -2,13 +2,21 @@
 title: notes
 ---
 
-5:20
 
-own writing
+
+- May 31 - 5:20 am
+- June 1 - 3:20am
+
+
+# notes
+
+some notes i've taken on
+
+## own writing
 - [[post-cinema]]
 - [[on-cinema]]
 
-books
+### books
 - versión de los vencidos
 - [[l’etranger]]
 - [[laberinto de la soledad]]
@@ -30,10 +38,10 @@ books
 - sin querer queriendo
 - fabric of reality
 
-articles
+### articles
 - [[aristotle invented the computer]]
 
-philosophy
+### philosophy
 - [[discrete image]]
     - [[cours stiegler]]
 
@@ -44,7 +52,7 @@ philosophy
 - minimalism
 - [[discipline and punish]]
 
-film
+### film
 - [[centruy of self]]
 - can’t get you out of my head
 - normalization
