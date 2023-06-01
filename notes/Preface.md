@@ -89,10 +89,11 @@ some notes i've taken on
 
 – kazuo ishiguro, nobel acceptance speech
 
----
-
  
 ⠀ ⠀ 
+⠀ ⠀ 
+---
+
 ⠀ ⠀ 
  
 ⠀ ⠀ ⠀ ꩜ ∈⌘∅
