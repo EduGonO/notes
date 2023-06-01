@@ -90,10 +90,10 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return token.ordered ? (
         <ol>{tokensToElements(token.items || [], options)}</ol>
       ) : (
-        <ul style={{paddingRight: '7px'}}>{tokensToElements(token.items || [], options)}</ul>
+        <ul>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
-      return <li>{tokensToElements(token.tokens || [], options)}</li>
+      return <li ul style={{paddingLight: '0px', marginLeft: '10px'}}>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
       return <></>
     case 'highlight':
