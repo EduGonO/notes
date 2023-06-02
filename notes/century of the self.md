@@ -1,6 +1,10 @@
+---
+title: the century of the self
+---
+
 # the century of the self
 
-notes on *The Century of the Self* (2002), Adam Curtis's fascinating exploration on how Freud’s ideas about the unconscious mind have been used by those in power to control people in an age of democracy.
+notes on *[The Century of the Self](https://letterboxd.com/film/the-century-of-the-self)* (2002), Adam Curtis's fascinating exploration on how Freud’s ideas about the unconscious mind have been used by those in power to control people in an age of democracy.
 
 ---
 
@@ -67,15 +71,16 @@ After WW2, 34% of all US soldiers evacuated were discharged because of mental pr
 - This made [[Anna Freud]] the leader of the Psychoanalytic Movement.
   - She suggested soldiers be encouraged to adapt to a good social environment to strengthen the conscious part of the mind and allow it to control the unconscious.
   - This worked on several soldiers and some kid patients of her.
-- -> What was first used to create ideal citizens, would now be used to create ideal consumers.
+- → What was first used to create ideal citizens, would now be used to create ideal consumers.
 
 Psychoanalysts became very influential since top politicians wanted to be psychoanalyzed. Their ideas were soon translated into the advertisement industry. [Ernest Dichter](https://en.wikipedia.org/wiki/Ernest_Dichter): showed value in focus group studies of products.
 - **Easy-to-make cake** was not selling well. He figured out that housewives loved the convenience but felt undervalued since it was *too easy*.
 - Solution: instructions were modified so that people would need to **add an egg** before mixing.
 - Sales of Betty Crocker Cakes went up significantly.
-> Is it wrong to give people what they want by bypassing their defenses?
 
 [[Bernays]] was once again one of the most powerful PR men in the US. He advised many big corporations, politicians and [Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower). After the [United Fruits & Guatemala coup d'état](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état) in 1954, [[Bernays]] proved that by appealing to the public's inner fears, you could do more that just get them to buy products.
+
+> Is it wrong to give people what they want by bypassing their defenses?
 
 PR started using celebrities (mostly represented by advertisements companies like Freud Corporations) as trojan horses to get advertisements into the editorial content of newspapers.
 - People changed from seeing themselves as part of political parties, to individuals that could command politicians in return for their taxes.
@@ -88,19 +93,19 @@ Anna Freud did not intend for her work to be taken this way, but accepted it. Me
 **1953**: USSR's first nuclear bomb. The US worried about reassuring population and hired [[Bernays]] to orchestrate an attack on Communism, shape US citizens’ fears and help politicians win the Cold War.
 
 
-### **III. There is a Policeman inside all our heads, he must be destroyed**
+### III. There is a Policeman inside all our heads, he must be destroyed
 Student Unions started to denounce consumerism & corporate America was a way of keeping the masses docile while the government is at war. New idea: If it isn’t possible to get rid of the policeman in one’s head by overthrowing the state, then one should remove the controls implanted by the state in one’s own mind.
 
-> "There is a Policeman inside all our heads, he must be destroyed"
+> There is a Policeman inside all our heads, he must be destroyed
 
 [[Freud]] described an uncontrolled raging inferno of emotions. [Reich](https://en.wikipedia.org/wiki/Wilhelm_Reich) complemented his ideas by stating that such range of emotion is a result of not allowing the original impulse to express itself.
-- **1950s**: New therapy → express feelings openly (Reich)
+- **1950s**: New therapy → express feelings openly ([Reich](https://en.wikipedia.org/wiki/Wilhelm_Reich))
 - Reich’s ideas were used to create a new self and ∴ a new society
 
 **1960s**: Personal transformation movement, self-exploration was booming. 
 
 Corporate America starts to worry since behaviors become unpredictable. Marketing realized that the new expressive selves (hippies) were still consumers, but would only buy products that expressed their personality.
-- Political agenda: personal transformation -> social transformation.
+- Political agenda: personal transformation → social transformation.
 - ⤷ Birth of *individuality*: People still wanted to be part of society, but also wanted to be different, "this product expresses *me*."
 
 But **individuality meant variety**, and this didn't work in corporate America where the systems of mass production were only profitable if they made many numbers of the same object.
@@ -145,3 +150,7 @@ This was a disaster for [[Clinton]] who decided to **forget ideologies and turn 
 - The problem with basing policies on focus groups is that people are contradictory and irrational by nature: *"better social services but lower taxes."* Tony Blair (UK) failed to see this, Clinton adapted.
 
 To deal with the ongoing inequality and decaying of social fabric, government needs to turn against the Freudian view of human beings and make people think beyond their self-interest. Businesses thrive on appealing to the unconscious side of people. Government needs to instead engage with the public in a rational discussions.
+
+⠀ ⠀ 
+
+⠀ ⠀ 
