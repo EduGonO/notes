@@ -42,7 +42,6 @@ some notes i've taken on different topics over the years
 #### philosophy
 - [[discrete image]]
     - [[cours stiegler]]
-
 - tractatus
 - question concerning technology
 - modernisme modernit
@@ -52,7 +51,7 @@ some notes i've taken on different topics over the years
 
 #### film
 - [[centruy of the self]]
-- [[Century of the Self]]
+- [[Century of the Self II]]
 - can’t get you out of my head
 - normalization
 - [[succession]]
