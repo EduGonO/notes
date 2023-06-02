@@ -4,9 +4,9 @@ title: succession
 
 # succession
 
-notes from Jesse Armstrong's [Succession](https://en.wikipedia.org/wiki/Succession_(TV_series)) (2018-2023)
+- *[Jesse Armstrong](https://en.wikipedia.org/wiki/Succession_(TV_series))*, 2018-2023
 
----
+- ---
 
 ### quotes
 - "what are we if not storytellers."
