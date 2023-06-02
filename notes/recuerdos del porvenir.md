@@ -5,7 +5,7 @@ title: recuerdos del porvenir
 
 # recuerdos del porvenir
 
-- **Elena Garro**, 1963  `September 15, 2020 - November 16, 2020`
+- [Elena Garro](https://es.wikipedia.org/wiki/Los_recuerdos_del_porvenir), 1963  `15-09-2020 · 16-11-2020`
 
 ---
 
