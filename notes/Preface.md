@@ -6,7 +6,7 @@ title: notes
 
 # notes
 
-some notes i've taken on
+some notes i've taken on different topics over the years
 
 ### own writing
 - [[post-cinema]]
