@@ -2,13 +2,7 @@
 title: notes
 ---
 
-- May 31 - 5:20 am
-- June 1 - 3:20am
-
- 
-⠀ ⠀ 
-⠀ ⠀ 
-- [ ← ](https://edugon.studio/things)
+[ ← ](https://edugon.studio/things)
 
 # notes
 
@@ -141,7 +135,14 @@ thoughts penciled in, now come to life.
  
 ⠀ ⠀ 
 ⠀ ⠀ 
+
+
  
+⠀ ⠀ 
+⠀ ⠀ 
+- May 31 - 5:20 am
+- June 1 - 3:20am
+
 ---
 
 
