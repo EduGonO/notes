@@ -8,7 +8,7 @@ title: notes
  
 ⠀ ⠀ 
 ⠀ ⠀ 
-- [go back](https://edugon.studio/things)
+- [ ← ](https://edugon.studio/things)
 
 # notes
 
