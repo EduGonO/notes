@@ -52,6 +52,7 @@ some notes i've taken on different topics over the years
 
 #### film
 - [[centruy of the self]]
+- [[Century of the Self]]
 - can’t get you out of my head
 - normalization
 - [[succession]]
