@@ -8,7 +8,8 @@ title: notes
  
 ⠀ ⠀ 
 ⠀ ⠀ 
- 
+- (go back)[https://edugon.studio/things)
+
 # notes
 
 some notes i've taken on
