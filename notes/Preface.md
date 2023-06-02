@@ -4,6 +4,8 @@ title: notes
 
 [ ← ](https://edugon.studio/things)
 
+[contact](mailto:e@edugon.studio)
+
 # notes
 
 some notes i've taken on different topics over the years
