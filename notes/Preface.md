@@ -10,6 +10,12 @@ by [eduardo gonzalez](https://edugon.studio/things) - [contact](mailto:e@edugon.
 
 some notes i've taken on different topics over the years
 
+### done
+- [[llano en llamas]]
+- [[recuerdos del porvenir]]
+- [[succession]]
+- [[century of the self]]
+
 ### own writing
 - [[post-cinema]]
 - [[on-cinema]]
@@ -50,7 +56,7 @@ some notes i've taken on different topics over the years
 - [[discipline and punish]]
 
 #### film
-- [[centruy of the self]]
+- [[century of the self]]
 - [[Century of the Self II]]
 - can’t get you out of my head
 - normalization
