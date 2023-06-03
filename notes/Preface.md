@@ -2,7 +2,7 @@
 title: notes
 ---
 
-by [eduardo gonzalez](https://edugon.studio/things) - [contact](mailto:e@edugon.studio)
+by [eduardo gonzalez](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
 
 ⠀ ⠀ 
 
@@ -15,6 +15,9 @@ some notes i've taken on different topics over the years
 - [[recuerdos del porvenir]]
 - [[succession]]
 - [[century of the self]]
+- [[laberinto de la soledad]]
+- [[hitchhicker's guide to the galaxy]]
+- [[discipline and punish]]
 
 ### own writing
 - [[post-cinema]]
