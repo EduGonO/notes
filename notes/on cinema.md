@@ -1,4 +1,19 @@
+---
+title: on cinema
+---
+
+# what is happening to cinema?
+- [eduardo gonzalez](https://edugon.studio), Oct 2022
+- originally published by [art-critique](https://www.art-critique.com/2022/10/quarrive-t-il-au-cinema/)
+- [full article](https://edugon.studio/on-cinema) w/media
+
+![86ff115a-379a-4d31-8742-284604d88e82_1299x766.jpeg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86ff115a-379a-4d31-8742-284604d88e82_1299x766.jpeg)
+
+---
+
 Recent trends describe the current state of cinema as fragile and in decline. Industry figures have expressed this opinion, notably Martin Scorsese who in 2019 wrote an [essay](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) arguing that "the situation at this moment is brutal and inhospitable to art." Many of these statements blame franchise films and the modern way of producing them as the main drivers behind cinema becoming increasingly homogeneous and formatted, resulting in a market saturated with movies that look and *feel* the same.
+
+⠀
 
 Studios today have the option to release a movie in cinemas, but since the disappearance of DVDs, movies [have lost](https://twitter.com/todd_spence/status/1561480505882619904?s=61&t=ad-AqySDngTEKATKsz99FQ) most of their ability to make money after leaving theaters. Revenue now comes almost entirely from the number of tickets sold, which means that maximizing profits now means maximizing audiences. A movie is more accessible across cultures if it has a simple style, an easy-to-follow plot and few cultural or ideological references. This explains why many studios now consider following a repetitive (but successful) formula as more important when making a movie than the individual creative talent behind it.
 
@@ -8,9 +23,8 @@ These two recent tendencies have helped studios and the film industry grow, but 
 
 This is the main idea behind recent statements and opinions on Cinema: While globalization has strengthened the film industry, movies have lost economic and cultural influence. Cinema now risks not being the most popular form of storytelling in the 21st century, and newer forms of artistic expression could take its place.
 
-![image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4c2feb6-db1c-4f4a-9cf6-2cf12081d7fc_1029x676.jpeg)
+⠀
 
-- DC Comic's Black Adam (2022) being reviewed before its release in a small TV screen, by businesspeople in a business room…
 
 Even if the modern way of making movies is partly responsible, it would seem that new consumption patterns are also at the heart of this situation. Internet speeds started to increase globally in the early 2010s and the primary way people express themselves online evolved from text and photos to eventually, video. As phone cameras got better, photo-sharing services like Instagram started pushing ordinary people to take and share pictures, not only professional photographers. Snapchat pushed this even further by making the camera, not content, be the first thing users see when opening the app.
 
