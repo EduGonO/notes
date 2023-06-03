@@ -6,7 +6,7 @@ title: hitchhicker's guide to the galaxy
 
 [Douglas Adams](https://en.m.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(novel)), 1979
 
----
+- ---
 
 ### highlights
 - And so the problem remained; lots of the people were mean, and most of them were miserable, even the ones with digital watches.
