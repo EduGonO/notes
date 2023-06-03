@@ -4,10 +4,9 @@ title: el llano en llamas
 
 # el llano en llamas
 
-[Juan Rulfo](https://es.wikipedia.org/wiki/El_llano_en_llamas), 1953  `2022-05-00 · 2022-05-24`
+- [Juan Rulfo](https://es.wikipedia.org/wiki/El_llano_en_llamas), 1953  `2022-05-00 · 2022-05-24`
 
-- ![image](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_55561/0f80d8e7-f1f4-4ba4-9bcf-322b0cf3f789.jpg)
-
+![image](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_55561/0f80d8e7-f1f4-4ba4-9bcf-322b0cf3f789.jpg)
 
 ---
 
