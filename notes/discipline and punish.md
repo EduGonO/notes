@@ -5,7 +5,7 @@ Seems to be a history of criminology, but Foucault is making a much deeper analy
 - signaling where the structures of power lie in society
 - the relationship between people in power and the average citizen
 
-Foucault strong disliked the term =="*history*"== He argued that the notion of history as constant progress leading to the endpoint of current civilization is wrong. He wanted to explore how structures of power have changed over time.
+Foucault strong disliked the term *"history"* He argued that the notion of history as constant progress leading to the endpoint of current civilization is wrong. He wanted to explore how structures of power have changed over time.
 
 He starts Discipline and Punish describing punishments from 1757 and arguing that one has to do more than just assume moral superiority and dismiss those times as barbarian. That is the key to understanding the similarities between the power structures and relations of the 1750s and today.
 
@@ -89,7 +89,6 @@ We have created a world where we are in constant surveillance by ourselves. Surv
 
 Genealogy of the modern soul. The media even gives you the vocabulary you have ∴ the only vocabulary you have to think of yourself as a person
 
-Billy the Kid, Bonny and Clyde,
-
-What happens when you put a criminal beloved by the people in the execution room?
+Billy the Kid, Bonny and Clyde, 
+what happens when you put a criminal beloved by the people in the execution room?
 
