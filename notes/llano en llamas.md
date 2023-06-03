@@ -8,7 +8,7 @@ title: el llano en llamas
 
 ![image](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_55561/0f80d8e7-f1f4-4ba4-9bcf-322b0cf3f789.jpg)
 
----
+- ---
 
 ### highlights
 - No llueve. Ahora si se mira el cielo se ve a la nube aguacera corriéndose muy lejos, a toda prisa. El viento que viene del pueblo se le arrima empujándola contra las sombras azules de los cerros. Y a la gota caída por equivocación se la come la tierra y la desaparece en su sed.
