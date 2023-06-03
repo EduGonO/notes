@@ -4,68 +4,30 @@ title: notes
 
 by [eduardo gonzalez](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
 
-⠀ ⠀ 
+
 
 # notes
 
 some notes i've taken on different topics over the years
 
-### done
-- [[llano en llamas]]
-- [[recuerdos del porvenir]]
-- [[succession]]
-- [[century of the self]]
-- [[laberinto de la soledad]]
-- [[hitchhicker's guide to the galaxy]]
-- [[discipline and punish]]
 
-### own writing
-- [[after cinema]]
+## own writing
+- [[post-cinema]]
 - [[on cinema]]
 
-#### books
-- versión de los vencidos
-- [[l’etranger]]
-- [[laberinto de la soledad]]
-- [[the beginning of infinity]]
-- einstein
-- **leonardo** da *vinci*
-- [[llano en llamas]]
-- the ::physicist:: and the `philosopher`
-- [[the short happy life of francis macomber]]
-- desierto sonoro
-- my autobiography
-- el amor en los tiempos del colera
-- [[recuerdos del porvenir]]
-- the dope
-- code breaker
-- hitchhicker’s guide to the galaxy
-- deus: a brief history of tomorrow
-- sapiens
-- sin querer queriendo
-- fabric of reality
-
-#### articles
-- [[aristotle invented the computer]]
-
-#### philosophy
-- [[discrete image]]
-    - [[cours stiegler]]
-- tractatus
-- question concerning technology
-- modernisme modernit
-- wittgenstein duchamps 
-- minimalism
-- [[discipline and punish]]
-
-#### film
-- [[century of the self]]
-- [[Century of the Self II]]
-- can’t get you out of my head
-- normalization
-- [[succession]]
-- [[rohmer]]
-- [[hitchcock truffaut]]
+### notes
+- **books**
+    - [[llano en llamas]]
+    - [[recuerdos del porvenir]]
+    - [[laberinto de la soledad]]
+    - [[hitchhicker's guide to the galaxy]]
+- **film**
+    - [[century of the self]]
+    - [[succession]]
+- **articles**
+    - [[aristotle invented the computer]]
+    - [[discipline and punish]]
+    - [[discrete image]]
 
  
 ⠀ ⠀ 
