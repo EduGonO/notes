@@ -3,9 +3,8 @@ title: after cinema
 ---
 
 # what comes after cinema?
-- eduardo
-- f
-- f
+- [eduardo gonzalez](https://edugon.studio), June 2023
+- (_editing_)
 
 
 ### outline
