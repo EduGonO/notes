@@ -64,11 +64,10 @@ some notes i've taken on different topics over the years
 
 ⠀ ⠀ 
  
-⠀ ⠀ ⠀ ꩜ ∈⌘∅
+⠀ ⠀ ⠀
  
 ⠀ ⠀ 
 ⠀ ⠀ 
- 
 writing keeps ideas in space
 
 speech lets them travel in time
