@@ -22,7 +22,7 @@ image mental ∄ → image mental ≔ image object
 - ∄ image → ∄ imagination sans memoire ∴ question de l'image porte sur traces et inscriptions, ≈ écriture.
 
 
-### discretization
+#### discretization
 - [barthes](https://fr.wikipedia.org/wiki/Roland_Barthes) proposes that photography is *ēpokhē* to time, memory and death.
 - **manipulation is the rule of the digital photo**, contrary to the essence
 - one cannot confirm if what I see in a digital photo exists or not ∴ analogico-digital breaks with [bazin](https://fr.wikipedia.org/wiki/André_Bazin)'s *objectivité de l'objectif*, l'intentionalité (phenomenology)
@@ -32,7 +32,7 @@ image mental ∄ → image mental ≔ image object
 	- ~~This was not~~ → *This was* but there is *something* that *isn't quite right.* this is because analog photo is a technical synthesis.
 
 
-### 3 main types of reproducibility have constituted and overdetermined great epochs of memory and the relations to time in the west. (letter, analog, digital)
+#### 3 main types of reproducibility have constituted and overdetermined great epochs of memory and the relations to time in the west. (letter, analog, digital)
 - reproducibility of the letter (written → printed)
 - analog reproducibility (cine, photo → [walter benjamin](https://en.wikipedia.org/wiki/Walter_Benjamin))
 - digital reproducibility
@@ -54,7 +54,7 @@ discretization opens new artistic, theoretical and scientific knowledges of the 
 	- ⤷ the question is the relation between synthesis and analysis.
 
 
-### 3 kinds of images (analog, digital, analogico-digital) → 3 kinds of intuitive technical knowledges (conditions of image production) → 3 different kinds of belief.
+#### 3 kinds of images (analog, digital, analogico-digital) → 3 kinds of intuitive technical knowledges (conditions of image production) → 3 different kinds of belief.
 - the visual image is synthetic in 2 ways: synthesis as belief, the this was effect, is a combination of 2 syntheses (spectator and camera). spectator is affected in the way he synthesizes the image.
 	- This requires an image-object ∴ technology.
 	- synthesis from the subject comes from its knowledge of the technical conditions of an image-object's production.
