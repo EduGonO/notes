@@ -5,7 +5,7 @@ export const Header: React.FC = () => (
   <div className="flex-none h-[60px] space-x-5 flex items-center justify-between border-b select-none md:px-8 px-5">
     <h1 className="md:text-xl text-sm font-medium">
       <Link href="/">
-        <a>notes</a>
+        <a>eduardo gonzalez</a>
       </Link>
     </h1>
 
