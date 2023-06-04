@@ -10,12 +10,10 @@ title: succession
 
 ### quotes
 - "what are we if not storytellers."
-- "hello this is greg fro greg's phone."
+- "hello this is greg from greg's phone."
 - "bring me ideas, original IP."
-- "I don't know any Bertrand [[Russell]] quotes because i hadn't event heard of him until now but i do have one: *just putting it out there*."
 - "I never studied Watergate but I believe I'm correct in saying they all got fucked."
 - "I'm spiritually, morally and ethically behind whoever wins"
-- "He's the guy that owns the company that owns the company that owns the label that pays his checks."
 - "It had the quality of being good rather than the attributes of being shitty."
 - "I don't give a fuck so what is that? Nietzsche?"
 - "He can do whatever he wants, he's fucking human Saudi Arabia."
