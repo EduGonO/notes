@@ -5,6 +5,14 @@ title: about
 # notes
 
 some notes i've taken on different topics over the years
+these are some notes I've written on different topics over time. they're mostly for myself, but in the spirit of working with garage doors open, i've published them and open sourced this website. much of the code is forked from the work of people at reflect but I've also added some. 
+works under writing are of my own, my notes a mix of thoughts with quotes from the artwork subject of the note.
+
+
+#allnotes
+- 2023
+    - [[]]
+    - [[]]
 
 ### done
 - [[llano en llamas]]
@@ -29,17 +37,14 @@ some notes i've taken on different topics over the years
 - ∴ (therefore)
 - ∃ (there exists)
 - ∄ (there doesn’t exist)
-- ≈ (aprox equal to)
-- → (implies, if then)
-- ⤷ (result)
+- → (if then, implies)
+- ⤷ (note, detail)
 - ≔ (definition)
-- ∅ (no solution)
 - ∈ (belongs to)
 - ∉ (does not belong to)
-- ∵ (because)
 - ↔ (if and only if)
-- ← (follows from)
 - ⫫ (independent from)
+- ∵ (because)
 
 ⠀ 
 
