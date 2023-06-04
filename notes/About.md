@@ -14,13 +14,40 @@ some notes i've taken on different topics over the years
 - [[laberinto de la soledad]]
 - [[hitchhicker's guide to the galaxy]]
 - [[discipline and punish]]
-
 - [[aristotle invented the computer]]
 - [[discrete image]]
+
+
 
 ### own writing
 - [[post-cinema]]
 - [[on cinema]]
+
+
+
+#### symbols
+- ∴ (therefore)
+- ∃ (there exists)
+- ∄ (there doesn’t exist)
+- ≈ (aprox equal to)
+- → (implies, if then)
+- ⤷ (result)
+- ≔ (definition)
+- ∅ (no solution)
+- ∈ (belongs to)
+- ∉ (does not belong to)
+- ∵ (because)
+- ↔ (if and only if)
+- ← (follows from)
+- ⫫ (independent from)
+
+⠀ 
+
+⠀ 
+
+- ---
+
+to do
 
 #### books
 - versión de los vencidos
