@@ -32,7 +32,7 @@ image mental ∄ → image mental ≔ image object
 	- ~~This was not~~ → *This was* but there is *something* that *isn't quite right.* this is because analog photo is a technical synthesis.
 
 
-3 main types of reproducibility have constituted and overdetermined great epochs of memory and the relations to time in the west. (letter, analog, digital)
+### 3 main types of reproducibility have constituted and overdetermined great epochs of memory and the relations to time in the west. (letter, analog, digital)
 - reproducibility of the letter (written → printed)
 - analog reproducibility (cine, photo → [walter benjamin](https://en.wikipedia.org/wiki/Walter_Benjamin))
 - digital reproducibility
@@ -54,7 +54,7 @@ discretization opens new artistic, theoretical and scientific knowledges of the 
 	- ⤷ the question is the relation between synthesis and analysis.
 
 
-3 kinds of images (analog, digital, analogico-digital) → 3 kinds of intuitive technical knowledges (conditions of image production) → 3 different kinds of belief.
+### 3 kinds of images (analog, digital, analogico-digital) → 3 kinds of intuitive technical knowledges (conditions of image production) → 3 different kinds of belief.
 - the visual image is synthetic in 2 ways: synthesis as belief, the this was effect, is a combination of 2 syntheses (spectator and camera). spectator is affected in the way he synthesizes the image.
 	- This requires an image-object ∴ technology.
 	- synthesis from the subject comes from its knowledge of the technical conditions of an image-object's production.
@@ -64,7 +64,7 @@ discretization opens new artistic, theoretical and scientific knowledges of the 
         - this discretization breaks up a continuity ∴ changes the way the observer's viewing. (discretization concernant regard est transformé)
 
 
-since greece we live in an era of the relation to language, shaped by the ::generalization of alphabetic writing that gave rise to logic, philosophy and science.:: the analogico-digital is of the same order.
+**since greece we live in an era of the relation to language, shaped by the ::generalization of alphabetic writing that gave rise to logic, philosophy and science.:: the analogico-digital is of the same order.**
 - the adoption of alphabetic writing made analysis and synthesis of language much easier. **generalization → discretization.**
 - relation to the analog image is going to be very discretized as digitazion techniques of animated images become widespread. this will open a critical access to the image and a chance to develop a **culture of reception.**
 
