@@ -17,17 +17,18 @@ some notes i've taken on different topics over the years
 
 ### notes
 - **books**
-    - [[llano en llamas]]
-    - [[recuerdos del porvenir]]
-    - [[laberinto de la soledad]]
-    - [[hitchhicker's guide to the galaxy]]
+    - [[recuerdos del porvenir]], elena garro
+    - [[llano en llamas]], juan rulfo
+    - [[laberinto de la soledad]], octavio paz
+    - [[hitchhicker's guide to the galaxy]], douglas adams
 - **film**
-    - [[century of the self]]
-    - [[succession]]
+    - [[century of the self]], adam curtis
+    - [[succession]], jesse armstrong
 - **articles**
-    - [[aristotle invented the computer]]
-    - [[discipline and punish]]
-    - [[discrete image]]
+    - [[discrete image]], bernard stiegler
+    - [[aristotle invented the computer]], chris dixon
+    - [[discipline and punish]], michel foucault
+
 
  
 ⠀ ⠀ 
