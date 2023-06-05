@@ -1,8 +1,3 @@
----
-title: recuerdos del porvenir
----
-
-
 # recuerdos del porvenir
 
 - [Elena Garro](https://es.wikipedia.org/wiki/Los_recuerdos_del_porvenir), 1963  `15-09-2020·16-11-2020`
@@ -10,7 +5,6 @@ title: recuerdos del porvenir
 ![image](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_55561/0f80d8e7-f1f4-4ba4-9bcf-322b0cf3f789.jpg)
 
 - ---
-
 
 **sobre el [[tiempo]]**
 - Estoy y estuve en muchos ojos. Yo solo soy memoria y la memoria que de mí se tenga.

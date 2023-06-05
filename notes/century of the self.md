@@ -1,7 +1,3 @@
----
-title: the century of the self
----
-
 # the century of the self
 
 notes on *[The Century of the Self](https://letterboxd.com/film/the-century-of-the-self)* (2002), Adam Curtis's fascinating exploration on how Freud’s ideas about the unconscious mind have been used by those in power to control people in an age of democracy.

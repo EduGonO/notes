@@ -1,179 +1,131 @@
-- data
-  collapsed:: true
-	- ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_55561/60021464-846a-4014-8ed5-037e37ceb657.jpg)
-	- **Morgan Housel**, 2022-07-28
-	- clippings_html - [2022-07-21](day://2022-07-21)
+
+# psychology of money
+
+-![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_55561/60021464-846a-4014-8ed5-037e37ceb657.jpg)
+- **Morgan Housel**, 2022-07-28
+- clippings_html - [2022-07-21](day://2022-07-21)
+ 
 - ---
 -
 ### all highlights
-	- “A genius is the man who can do the average thing when everyone else around him is losing his mind.”—Napoleon
-		- Location 31
-	- “The world is full of obvious things which nobody by any chance ever observes.”—Sherlock Holmes
-		- Location 32
-	- I love Voltaire’s observation that “History never repeats itself; man always does.” It applies so well to how we behave with money.
-		- Location 123
-	- But every financial decision a person makes, makes sense to them in that moment and checks the boxes they need to check. They tell themselves a story about what they’re doing and why they’re doing it, and that story has been shaped by their own unique experiences. Take a simple example: lottery tickets. Americans spend more on them than movies, video games, music, sporting events, and books combined. And who buys them? Mostly poor people. The lowest-income households in the U.S. on average spend $412 a year on lotto tickets, four times the amount of those in the highest income groups. Forty percent of Americans cannot come up with $400 in an emergency. Which is to say: Those buying $400 in lottery tickets are by and large the same people who say they couldn’t come up with $400 in an emergency. They are blowing their safety nets on something with a one-in-millions chance of hitting it big.
-		- Location 218
-	- Much of the stuff you people who read finance books either have now, or have a good chance of getting, we don’t. Buying a lottery ticket is the only time in our lives we can hold a tangible dream of getting the good stuff that you already have and take for granted. We are paying for a dream, and you may not understand that because you are already living a dream. That’s why we buy more tickets than you do.
-		- Location 230
-	- Years ago I asked economist Robert Shiller, who won the Nobel Prize in economics, “What do you want to know about investing that we can’t know?” “The exact role of luck in successful outcomes,” he answered.
-		- Location 324
-	- We similarly think Mark Zuckerberg is a genius for turning down Yahoo!’s 2006 $1 billion offer to buy his company. He saw the future and stuck to his guns. But people criticize Yahoo! with as much passion for turning down its own big buyout offer from Microsoft—those fools should have cashed out while they could! What is the lesson for entrepreneurs here? I have no idea, because risk and luck are so hard to pin down.
-		- Location 382
-	- It begins when a summer never gets warm enough to melt the previous winter’s snow. The leftover ice base makes it easier for snow to accumulate the following winter, which increases the odds of snow sticking around in the following summer, which attracts even more accumulation the following winter. Perpetual snow reflects more of the sun’s rays, which exacerbates cooling, which brings more snowfall, and on and on. Within a few hundred years a seasonal snowpack grows into a continental ice sheet, and you’re off to the races. The same thing happens in reverse. An orbital tilt letting more sunlight in melts more of the winter snowpack, which reflects less light the following years, which increases temperatures, which prevents more snow the next year, and so on. That’s the cycle.
-		- Location 544
-	- His skill is investing, but his secret is time. That’s how compounding works. Think of this another way. Buffett is the richest investor of all time. But he’s not actually the greatest—at least not when measured by average annual returns. Jim Simons, head of the hedge fund Renaissance Technologies, has compounded money at 66% annually since 1988. No one comes close to this record. As we just saw, Buffett has compounded at roughly 22% annually, a third as much.
-		- Location 572
-	- Put that all together: From 1950 to 1990 we gained 296 megabytes. From 1990 through today we gained 100 million megabytes.
-		- Location 594
-	- 1. More than I want big returns, I want to be financially unbreakable. And if I’m unbreakable I actually think I’ll get the biggest returns, because I’ll be able to stick around long enough for compounding to work wonders.
-		- Location 697
-	- Steamboat Willie put Walt Disney on the map as an animator. Business success was another story. Disney’s first studio went bankrupt. His films were monstrously expensive to produce, and financed at outrageous terms. By the mid-1930s Disney had produced more than 400 cartoons. Most of them were short, most of them were beloved by viewers, and most of them lost a fortune.
-		- Location 776
-	- Snow White and the Seven Dwarfs changed everything. The $8 million it earned in the first six months of 1938 was an order of magnitude higher than anything the company earned previously. It transformed Disney Studios. All company debts were paid off. Key employees got retention bonuses. The company purchased a new state-of-the-art studio in Burbank, where it remains today. An Oscar turned Walt from famous to full-blown celebrity. By 1938 he had produced several hundred hours of film. But in business terms, the 83 minutes of Snow White were all that mattered.
-		- Location 779
-	- Apple was responsible for almost 7% of the index’s returns in 2018. And it is driven overwhelmingly by the iPhone, which in the world of tech products is as tail-y as tails get.
-		- Location 821
-	- Napoleon’s definition of a military genius was, “The man who can do the average thing when all those around him are going crazy.”
-		- Location 829
-	- Netflix CEO Reed Hastings once announced his company was canceling several big-budget productions. He responded: Our hit ratio is way too high right now. I’m always pushing the content team. We have to take more risk. You have to try more crazy things, because we should have a higher cancel rate overall.
-		- Location 867
-	- Derek Sivers, a successful entrepreneur, once wrote about a friend who asked him to tell the story about how he got rich: I had a day job in midtown Manhattan paying $20k per year—about minimum wage ... I never ate out, and never took a taxi. My cost of living was about $1000/month, and I was earning $1800/month. I did this for two years, and saved up $12,000. I was 22 years old. Once I had $12,000 I could quit my job and become a full-time musician. I knew I could get a few gigs per month to pay my cost of living. So I was free. I quit my job a month later, and never had a job again. When I finished telling my friend this story, he asked for more. I said no, that was it. He said, “No, what about when you sold your company?” I said no, that didn’t make a big difference in my life. That was just more money in the bank. The difference happened when I was 22.26
-		- Location 940
-	- When asked about his silence during meetings, Rockefeller often recited a poem: A wise old owl lived in an oak, The more he saw the less he spoke, The less he spoke, the more he heard, Why aren’t we all like that wise old bird?
-		- Location 965
-	- Derek Thompson of The Atlantic once described it like this: If the operating equipment of the 21st century is a portable device, this means the modern factory is not a place at all. It is the day itself. The computer age has liberated the tools of productivity from the office. Most knowledge workers, whose laptops and smartphones are portable all-purpose media-making machines, can theoretically be as productive at 2 p.m. in the main office as at 2 a.m. in a Tokyo WeWork or at midnight on the couch.29
-		- Location 982
-	- The United States uses 60% less energy per dollar of GDP today than it did in 1950.32 The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus (sedan) averaged 18.0 MPG. A 2019 Chevy Suburban (absurdly large SUV) averages 18.1 MPG.
-		- Location 1095
-	- The world grew its “energy wealth” not by increasing the energy it had, but by decreasing the energy it needed. U.S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy.
-		- Location 1098
-	- Wealth is just the accumulated leftovers after you spend what you take in. And since you can build wealth without a high income, but have no chance of building wealth without a high savings rate, it’s clear which one matters more.
-		- Location 1110
-	- A hyper-connected world means the talent pool you compete in has gone from hundreds or thousands spanning your town to millions or billions spanning the globe. This is especially true for jobs that rely on working with your head versus your muscles: teaching, marketing, analysis, consulting, accounting, programming, journalism, and even medicine increasingly compete in global talent pools. More fields will fall into this category as digitization erases global boundaries—as “software eats the world,” as venture capitalist Marc Andreesen puts it.
-		- Location 1162
-	- If fevers are beneficial, why do we fight them so universally? I don’t think it’s complicated: Fevers hurt. And people don’t want to hurt. That’s it. A doctor’s goal is not just to cure disease. It’s to cure disease within the confines of what’s reasonable and tolerable to the patient. Fevers can have marginal benefits in fighting infection, but they hurt. And I go to the doctor to stop hurting.
-		- Location 1219
-	- The second is that this is fine. Jason Zweig, who conducted the interview when Markowitz described how he invested, later reflected: My own view is that people are neither rational nor irrational. We are human. We don’t like to think harder than we need to, and we have unceasing demands on our attention. Seen in that light, there’s nothing surprising about the fact that the pioneer of modern portfolio theory built his initial portfolio with so little regard for his own research.
-		- Location 1237
-	- The thing that makes tail events easy to underappreciate is how easy it is to underestimate how things compound. How, for example, 9/11 prompted the Federal Reserve to cut interest rates, which helped drive the housing bubble, which led to the financial crisis, which led to a poor jobs market, which led tens of millions to seek a college education, which led to $1.6 trillion in student loans with a 10.8% default rate. It’s not intuitive to link 19 hijackers to the current weight of student loans, but that’s what happens in a world driven by a few outlier tail events.
-		- Location 1337
-	- Bill Gates understood this well. When Microsoft was a young company, he said he “came up with this incredibly conservative approach that I wanted to have enough money in the bank to pay a year’s worth of payroll even if we didn’t get any payments coming in.” Warren Buffett expressed a similar idea when he told Berkshire Hathaway shareholders in 2008: “I have pledged—to you, the rating agencies and myself—to always run Berkshire with more than ample cash ... When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.”
-		- Location 1487
-	- The intellectual allure of pessimism has been known for ages. John Stuart Mill wrote in the 1840s: “I have observed that not the man who hopes when others despair, but the man who despairs when others hope, is admired by a large class of persons as a sage.”
-		- Location 1900
-	- Part of it is instinctual and unavoidable. Kahneman says the asymmetric aversion to loss is an evolutionary shield. He writes: When directly compared or weighted against each other, losses loom larger than gains. This asymmetry between the power of positive and negative expectations or experiences has an evolutionary history. Organisms that treat threats as more urgent than opportunities have a better chance to survive and reproduce.
-		- Location 1905
-	- On January 5th, 1889, the Detroit Free Press pushed back against the long-held dream that man could one day fly like a bird. Airplanes, the paper wrote, “appear impossible”: The smallest possible weight of a flying machine, with the necessary fuel and engineer, could not be less than 300 or 400 pounds ... but there is a low limit of weight, certainly not much beyond fifty pounds, beyond which it is impossible for an animal to fly. Nature has reached this limit, and with her utmost effort has failed to pass it. Six months later, Orville Wright dropped out of high school to help his brother, Wilbur, tinker in their backyard shed to build a printing press. It was the brothers’ first joint invention. It would not be their last.
-		- Location 1956
-	- The airplane changed everything. It started world wars, it ended world wars. It connected the world, bridging gaps between cities and rural communities; oceans and countries. But the story of the Wright Brothers’ quest to build the first plane has a fascinating twist. After they conquered flight, no one seemed to notice. Nobody seemed to care. In his 1952 book on American history, Frederick Lewis Allen wrote: Several years went by before the public grasped what the Wrights were doing; people were so convinced that flying was impossible that most of those who saw them flying about Dayton [Ohio] in 1905 decided that what they had seen must be some trick without significance—somewhat as most people today would regard a demonstration of, say, telepathy. It was not until May, 1908—nearly four and a half years after the Wright’s first flight—that experienced reporters were sent to observe what they were doing, experienced editors gave full credence to these reporters’ excited dispatches, and the world at last woke up to the fact that human flight had been successfully accomplished.
-		- Location 1963
-	- First it was seen mainly as a military weapon. Then a rich person’s toy. Then, perhaps, used to transport a few people. The Washington Post wrote in 1909: “There will never be such a thing as commercial aerial freighters. Freight will continue to drag its slow weight across the patient earth.” The first cargo plane took off five months later.
-		- Location 1973
-	- Expecting things to be great means a best-case scenario that feels flat. Pessimism reduces expectations, narrowing the gap between possible outcomes and outcomes you feel great about. Maybe that’s why it’s so seductive. Expecting things to be bad is the best way to be pleasantly surprised when they’re not. Which, ironically, is something to be optimistic about.
-		- Location 2000
-	- When thinking about room for error in a forecast it is tempting to think that potential outcomes range from you being just right enough to you being very, very right. But the biggest risk is that you want something to be true so badly that the range of your forecast isn’t even in the same ballpark as reality.
-		- Location 2085
-	- Take history. It’s just the recounting of stuff that already happened. It should be clear and objective. But as B. H. Liddell Hart writes in the book Why Don’t We Learn From History?: [History] cannot be interpreted without the aid of imagination and intuition. The sheer quantity of evidence is so overwhelming that selection is inevitable. Where there is selection there is art. Those who read history tend to look for what proves them right and confirms their personal opinions. They defend loyalties. They read with a purpose to affirm or to attack. They resist inconvenient truth since everyone wants to be on the side of the angels. Just as we start wars to end all wars.
-		- Location 2114
-	- Daniel Kahneman once told me about the stories people tell themselves to make sense of the past. He said: Hindsight, the ability to explain the past, gives us the illusion that the world is understandable. It gives us the illusion that the world makes sense, even when it doesn’t make sense. That’s a big deal in producing mistakes in many fields.
-		- Location 2119
-	- Satisfying that need is a great way to put it. Wanting to believe we are in control is an emotional itch that needs to be scratched, rather than an analytical problem to be calculated and solved. The illusion of control is more persuasive than the reality of uncertainty. So we cling to stories about outcomes being in our control.
-		- Location 2140
-	- NASA’s New Horizons spacecraft passed by Pluto two years ago. It was a three-billion mile trip that took nine and a half years. According to NASA, the trip “took about one minute less than predicted when the craft was launched in January 2006.”68 Think about that. In an untested, decade-long journey, NASA’s forecast was 99.99998% accurate. That’s like forecasting a trip from New York to Boston and being accurate to within four millionths of a second.
-		- Location 2143
-	- The short story is this: Things were very uncertain, then they were very good, then pretty bad, then really good, then really bad, and now here we are. And there is, I think, a narrative that links all those events together. Not a detailed account. But a story of how things fit together.
-		- Location 2367
-	- 1. August, 1945. World War II ends.
-		- Location 2373
-	- The marriage rate spiked during and immediately after the war. Soldiers didn’t want to return to their mother’s basement. They wanted to start a family, in their own home, with a good job, right away.
-		- Location 2386
-	- The Federal Reserve was not politically independent before 1951. The president and the Fed could coordinate policy. In 1942 the Fed announced it would keep short-term rates at 0.38% to help finance the war. Rates didn’t budge a single basis point for the next seven years. Three-month Treasury yields stayed below 2% until the mid-1950s. The explicit reason for keeping rates down was to keep the cost of financing the equivalent of the $6 trillion we spent on the war low. But low rates also did something else for all the returning GIs. It made borrowing to buy homes, cars, gadgets, and toys really cheap.
-		- Location 2400
-	- 3. Pent-up demand for stuff fed by a credit boom and a hidden 1930s productivity boom led to an economic boom.
-		- Location 2417
-	- We didn’t pay that much attention to the productivity boom in the ’30s, because everyone was focused on how bad the economy was. We didn’t pay attention to it in the ’40s, because everyone was focused on the war. Then the 1950s came around and we suddenly realized, “Wow, we have some amazing new inventions. And we’re really good at making them.” Appliances, cars, phones, air conditioning, electricity.
-		- Location 2420
-	- Frederick Lewis Allen writes in his book The Big Change: During these postwar years the farmer bought a new tractor, a corn picker, an electric milking machine; in fact he and his neighbors, between them, assembled a formidable array of farm machinery for their joint use. The farmer’s wife got the shining white electric refrigerator she had always longed for and never during the Great Depression had been able to afford, and an up-to-date washing machine, and a deep-freeze unit. The suburban family installed a dishwashing machine and invested in a power lawnmower. The city family became customers of a laundromat and acquired a television set for the living room. The husband’s office was air-conditioned. And so on endlessly.
-		- Location 2426
-	- The leveling out of classes meant a leveling out of lifestyles. Normal people drove Chevys. Rich people drove Cadillacs. TV and radio equalized the entertainment and culture people enjoyed regardless of class. Mail-order catalogs equalized the clothes people wore and the goods they bought regardless of where they lived.
-		- Location 2459
-	- Harper’s Magazine noted in 1957: The rich man smokes the same sort of cigarettes as the poor man, shaves with the same sort of razor, uses the same sort of telephone, vacuum cleaner, radio, and TV set, has the same sort of lighting and heating equipment in his house, and so on indefinitely. The differences between his automobile and the poor man’s are minor. Essentially they have similar engines, similar fittings. In the early years of the century there was a hierarchy of automobiles.
-		- Location 2461
-	- Paul Graham wrote in 2016 about what something as simple as there only being three TV stations did to equalize culture: It’s difficult to imagine now, but every night tens of millions of families would sit down together in front of their TV set watching the same show, at the same time, as their next door neighbors. What happens now with the Super Bowl used to happen every night. We were literally in sync.
-		- Location 2465
-	- 1973 was the first year where it became clear the economy was walking down a new path.
-		- Location 2492
-	- Short-term interest rates hit 8% in 1973, up from 2.5% a decade earlier. And you have to put all of that in the context of how much fear there was between Vietnam, riots, and the assassinations of Martin Luther King, and John and Bobby Kennedy. It got bleak.
-		- Location 2495
-	- A combination of lucky economic advantages and a culture shared by the Greatest Generation—hardened by the Depression and anchored in systematic cooperation from the war—shifted when Baby Boomers began coming of age. A new generation that had a different view of what’s normal hit at the same time a lot of the economic tailwinds of the previous two decades ended.
-		- Location 2499
-	- We have built a new economy. His last sentence was important. It was a new economy. The biggest difference between the economy of the 1945–1973 period and that of the 1982–2000 period was that the same amount of growth found its way into totally different pockets.
-		- Location 2521
-	- The Atlantic writes: Between 1993 and 2012, the top 1 percent saw their incomes grow 86.1 percent, while the bottom 99 percent saw just 6.6 percent growth.
-		- Location 2524
-	- All that matters is that sharp inequality became a force over the last 35 years, and it happened during a period where, culturally, Americans held onto two ideas rooted in the post-WW2 economy: That you should live a lifestyle similar to most other Americans, and that taking on debt to finance that lifestyle is acceptable.
-		- Location 2531
-	- we’ve spent 75 years since the end of the war fostering a cultural acceptance of household debt. During a time when median wages were flat, the median new American home grew 50% larger.
-		- Location 2548
-	- The average new American home now has more bathrooms than occupants. Nearly half have four or more bedrooms, up from 18% in 1983. The average car loan adjusted for inflation more than doubled between 1975 and 2003, from $12,300 to $27,900.
-		- Location 2550
-	- collapsed:: true
-	  10. The Tea Party, Occupy Wall Street, Brexit, and Donald Trump each represents a group shouting, “Stop the ride, I want off.”
-		- Location 2578
-	- You can scoff at linking the rise of Trump to income inequality alone. And you should. These things are always layers of complexity deep. But it’s a key part of what drives people to think, “I don’t live in the world I expected. That pisses me off. So screw this. And screw you! I’m going to fight for something totally different, because this—whatever it is—isn’t working.” Take that mentality and raise it to the power of Facebook, Instagram, and cable news—where people are more keenly aware of how other people live than ever before. It’s gasoline on a flame. 
-	  collapsed:: true
-		- Location 2581
-	- Benedict Evans says, “The more the Internet exposes people to new points of view, the angrier people get that different views exist.” 
-	  collapsed:: true
-		- Location 2585
--
--
--
--
-- ---
--
-- 1st cut
+- “A genius is the man who can do the average thing when everyone else around him is losing his mind.”—Napoleon
+	- Location 31
+- “The world is full of obvious things which nobody by any chance ever observes.”—Sherlock Holmes
+	- Location 32
+- I love Voltaire’s observation that “History never repeats itself; man always does.” It applies so well to how we behave with money.
+	- Location 123
+- But every financial decision a person makes, makes sense to them in that moment and checks the boxes they need to check. They tell themselves a story about what they’re doing and why they’re doing it, and that story has been shaped by their own unique experiences. Take a simple example: lottery tickets. Americans spend more on them than movies, video games, music, sporting events, and books combined. And who buys them? Mostly poor people. The lowest-income households in the U.S. on average spend $412 a year on lotto tickets, four times the amount of those in the highest income groups. Forty percent of Americans cannot come up with $400 in an emergency. Which is to say: Those buying $400 in lottery tickets are by and large the same people who say they couldn’t come up with $400 in an emergency. They are blowing their safety nets on something with a one-in-millions chance of hitting it big.
+	- Location 218
+- Much of the stuff you people who read finance books either have now, or have a good chance of getting, we don’t. Buying a lottery ticket is the only time in our lives we can hold a tangible dream of getting the good stuff that you already have and take for granted. We are paying for a dream, and you may not understand that because you are already living a dream. That’s why we buy more tickets than you do.
+	- Location 230
+- Years ago I asked economist Robert Shiller, who won the Nobel Prize in economics, “What do you want to know about investing that we can’t know?” “The exact role of luck in successful outcomes,” he answered.
+	- Location 324
+- We similarly think Mark Zuckerberg is a genius for turning down Yahoo!’s 2006 $1 billion offer to buy his company. He saw the future and stuck to his guns. But people criticize Yahoo! with as much passion for turning down its own big buyout offer from Microsoft—those fools should have cashed out while they could! What is the lesson for entrepreneurs here? I have no idea, because risk and luck are so hard to pin down.
+	- Location 382
+- It begins when a summer never gets warm enough to melt the previous winter’s snow. The leftover ice base makes it easier for snow to accumulate the following winter, which increases the odds of snow sticking around in the following summer, which attracts even more accumulation the following winter. Perpetual snow reflects more of the sun’s rays, which exacerbates cooling, which brings more snowfall, and on and on. Within a few hundred years a seasonal snowpack grows into a continental ice sheet, and you’re off to the races. The same thing happens in reverse. An orbital tilt letting more sunlight in melts more of the winter snowpack, which reflects less light the following years, which increases temperatures, which prevents more snow the next year, and so on. That’s the cycle.
+	- Location 544
+- His skill is investing, but his secret is time. That’s how compounding works. Think of this another way. Buffett is the richest investor of all time. But he’s not actually the greatest—at least not when measured by average annual returns. Jim Simons, head of the hedge fund Renaissance Technologies, has compounded money at 66% annually since 1988. No one comes close to this record. As we just saw, Buffett has compounded at roughly 22% annually, a third as much.
+	- Location 572
+- Put that all together: From 1950 to 1990 we gained 296 megabytes. From 1990 through today we gained 100 million megabytes.
+	- Location 594
+- 1. More than I want big returns, I want to be financially unbreakable. And if I’m unbreakable I actually think I’ll get the biggest returns, because I’ll be able to stick around long enough for compounding to work wonders.
+	- Location 697
+- Steamboat Willie put Walt Disney on the map as an animator. Business success was another story. Disney’s first studio went bankrupt. His films were monstrously expensive to produce, and financed at outrageous terms. By the mid-1930s Disney had produced more than 400 cartoons. Most of them were short, most of them were beloved by viewers, and most of them lost a fortune.
+	- Location 776
+- Snow White and the Seven Dwarfs changed everything. The $8 million it earned in the first six months of 1938 was an order of magnitude higher than anything the company earned previously. It transformed Disney Studios. All company debts were paid off. Key employees got retention bonuses. The company purchased a new state-of-the-art studio in Burbank, where it remains today. An Oscar turned Walt from famous to full-blown celebrity. By 1938 he had produced several hundred hours of film. But in business terms, the 83 minutes of Snow White were all that mattered.
+	- Location 779
+- Apple was responsible for almost 7% of the index’s returns in 2018. And it is driven overwhelmingly by the iPhone, which in the world of tech products is as tail-y as tails get.
+	- Location 821
+- Napoleon’s definition of a military genius was, “The man who can do the average thing when all those around him are going crazy.”
+	- Location 829
+- Netflix CEO Reed Hastings once announced his company was canceling several big-budget productions. He responded: Our hit ratio is way too high right now. I’m always pushing the content team. We have to take more risk. You have to try more crazy things, because we should have a higher cancel rate overall.
+	- Location 867
+- Derek Sivers, a successful entrepreneur, once wrote about a friend who asked him to tell the story about how he got rich: I had a day job in midtown Manhattan paying $20k per year—about minimum wage ... I never ate out, and never took a taxi. My cost of living was about $1000/month, and I was earning $1800/month. I did this for two years, and saved up $12,000. I was 22 years old. Once I had $12,000 I could quit my job and become a full-time musician. I knew I could get a few gigs per month to pay my cost of living. So I was free. I quit my job a month later, and never had a job again. When I finished telling my friend this story, he asked for more. I said no, that was it. He said, “No, what about when you sold your company?” I said no, that didn’t make a big difference in my life. That was just more money in the bank. The difference happened when I was 22.26
+	- Location 940
+- When asked about his silence during meetings, Rockefeller often recited a poem: A wise old owl lived in an oak, The more he saw the less he spoke, The less he spoke, the more he heard, Why aren’t we all like that wise old bird?
+	- Location 965
+- Derek Thompson of The Atlantic once described it like this: If the operating equipment of the 21st century is a portable device, this means the modern factory is not a place at all. It is the day itself. The computer age has liberated the tools of productivity from the office. Most knowledge workers, whose laptops and smartphones are portable all-purpose media-making machines, can theoretically be as productive at 2 p.m. in the main office as at 2 a.m. in a Tokyo WeWork or at midnight on the couch.29
+	- Location 982
+- The United States uses 60% less energy per dollar of GDP today than it did in 1950.32 The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus (sedan) averaged 18.0 MPG. A 2019 Chevy Suburban (absurdly large SUV) averages 18.1 MPG.
+	- Location 1095
+- The world grew its “energy wealth” not by increasing the energy it had, but by decreasing the energy it needed. U.S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy.
+	- Location 1098
+- Wealth is just the accumulated leftovers after you spend what you take in. And since you can build wealth without a high income, but have no chance of building wealth without a high savings rate, it’s clear which one matters more.
+	- Location 1110
+- A hyper-connected world means the talent pool you compete in has gone from hundreds or thousands spanning your town to millions or billions spanning the globe. This is especially true for jobs that rely on working with your head versus your muscles: teaching, marketing, analysis, consulting, accounting, programming, journalism, and even medicine increasingly compete in global talent pools. More fields will fall into this category as digitization erases global boundaries—as “software eats the world,” as venture capitalist Marc Andreesen puts it.
+	- Location 1162
+- If fevers are beneficial, why do we fight them so universally? I don’t think it’s complicated: Fevers hurt. And people don’t want to hurt. That’s it. A doctor’s goal is not just to cure disease. It’s to cure disease within the confines of what’s reasonable and tolerable to the patient. Fevers can have marginal benefits in fighting infection, but they hurt. And I go to the doctor to stop hurting.
+	- Location 1219
+- The second is that this is fine. Jason Zweig, who conducted the interview when Markowitz described how he invested, later reflected: My own view is that people are neither rational nor irrational. We are human. We don’t like to think harder than we need to, and we have unceasing demands on our attention. Seen in that light, there’s nothing surprising about the fact that the pioneer of modern portfolio theory built his initial portfolio with so little regard for his own research.
+	- Location 1237
+- The thing that makes tail events easy to underappreciate is how easy it is to underestimate how things compound. How, for example, 9/11 prompted the Federal Reserve to cut interest rates, which helped drive the housing bubble, which led to the financial crisis, which led to a poor jobs market, which led tens of millions to seek a college education, which led to $1.6 trillion in student loans with a 10.8% default rate. It’s not intuitive to link 19 hijackers to the current weight of student loans, but that’s what happens in a world driven by a few outlier tail events.
+	- Location 1337
+- Bill Gates understood this well. When Microsoft was a young company, he said he “came up with this incredibly conservative approach that I wanted to have enough money in the bank to pay a year’s worth of payroll even if we didn’t get any payments coming in.” Warren Buffett expressed a similar idea when he told Berkshire Hathaway shareholders in 2008: “I have pledged—to you, the rating agencies and myself—to always run Berkshire with more than ample cash ... When forced to choose, I will not trade even a night’s sleep for the chance of extra profits.”
+	- Location 1487
+- The intellectual allure of pessimism has been known for ages. John Stuart Mill wrote in the 1840s: “I have observed that not the man who hopes when others despair, but the man who despairs when others hope, is admired by a large class of persons as a sage.”
+	- Location 1900
+- Part of it is instinctual and unavoidable. Kahneman says the asymmetric aversion to loss is an evolutionary shield. He writes: When directly compared or weighted against each other, losses loom larger than gains. This asymmetry between the power of positive and negative expectations or experiences has an evolutionary history. Organisms that treat threats as more urgent than opportunities have a better chance to survive and reproduce.
+	- Location 1905
+- On January 5th, 1889, the Detroit Free Press pushed back against the long-held dream that man could one day fly like a bird. Airplanes, the paper wrote, “appear impossible”: The smallest possible weight of a flying machine, with the necessary fuel and engineer, could not be less than 300 or 400 pounds ... but there is a low limit of weight, certainly not much beyond fifty pounds, beyond which it is impossible for an animal to fly. Nature has reached this limit, and with her utmost effort has failed to pass it. Six months later, Orville Wright dropped out of high school to help his brother, Wilbur, tinker in their backyard shed to build a printing press. It was the brothers’ first joint invention. It would not be their last.
+	- Location 1956
+- The airplane changed everything. It started world wars, it ended world wars. It connected the world, bridging gaps between cities and rural communities; oceans and countries. But the story of the Wright Brothers’ quest to build the first plane has a fascinating twist. After they conquered flight, no one seemed to notice. Nobody seemed to care. In his 1952 book on American history, Frederick Lewis Allen wrote: Several years went by before the public grasped what the Wrights were doing; people were so convinced that flying was impossible that most of those who saw them flying about Dayton [Ohio] in 1905 decided that what they had seen must be some trick without significance—somewhat as most people today would regard a demonstration of, say, telepathy. It was not until May, 1908—nearly four and a half years after the Wright’s first flight—that experienced reporters were sent to observe what they were doing, experienced editors gave full credence to these reporters’ excited dispatches, and the world at last woke up to the fact that human flight had been successfully accomplished.
+	- Location 1963
+- First it was seen mainly as a military weapon. Then a rich person’s toy. Then, perhaps, used to transport a few people. The Washington Post wrote in 1909: “There will never be such a thing as commercial aerial freighters. Freight will continue to drag its slow weight across the patient earth.” The first cargo plane took off five months later.
+	- Location 1973
+- Expecting things to be great means a best-case scenario that feels flat. Pessimism reduces expectations, narrowing the gap between possible outcomes and outcomes you feel great about. Maybe that’s why it’s so seductive. Expecting things to be bad is the best way to be pleasantly surprised when they’re not. Which, ironically, is something to be optimistic about.
+	- Location 2000
+- When thinking about room for error in a forecast it is tempting to think that potential outcomes range from you being just right enough to you being very, very right. But the biggest risk is that you want something to be true so badly that the range of your forecast isn’t even in the same ballpark as reality.
+	- Location 2085
+- Take history. It’s just the recounting of stuff that already happened. It should be clear and objective. But as B. H. Liddell Hart writes in the book Why Don’t We Learn From History?: [History] cannot be interpreted without the aid of imagination and intuition. The sheer quantity of evidence is so overwhelming that selection is inevitable. Where there is selection there is art. Those who read history tend to look for what proves them right and confirms their personal opinions. They defend loyalties. They read with a purpose to affirm or to attack. They resist inconvenient truth since everyone wants to be on the side of the angels. Just as we start wars to end all wars.
+	- Location 2114
+- Daniel Kahneman once told me about the stories people tell themselves to make sense of the past. He said: Hindsight, the ability to explain the past, gives us the illusion that the world is understandable. It gives us the illusion that the world makes sense, even when it doesn’t make sense. That’s a big deal in producing mistakes in many fields.
+	- Location 2119
+- Satisfying that need is a great way to put it. Wanting to believe we are in control is an emotional itch that needs to be scratched, rather than an analytical problem to be calculated and solved. The illusion of control is more persuasive than the reality of uncertainty. So we cling to stories about outcomes being in our control.
+	- Location 2140
+- NASA’s New Horizons spacecraft passed by Pluto two years ago. It was a three-billion mile trip that took nine and a half years. According to NASA, the trip “took about one minute less than predicted when the craft was launched in January 2006.”68 Think about that. In an untested, decade-long journey, NASA’s forecast was 99.99998% accurate. That’s like forecasting a trip from New York to Boston and being accurate to within four millionths of a second.
+	- Location 2143
+- The short story is this: Things were very uncertain, then they were very good, then pretty bad, then really good, then really bad, and now here we are. And there is, I think, a narrative that links all those events together. Not a detailed account. But a story of how things fit together.
+	- Location 2367
+- 1. August, 1945. World War II ends.
+	- Location 2373
+- The marriage rate spiked during and immediately after the war. Soldiers didn’t want to return to their mother’s basement. They wanted to start a family, in their own home, with a good job, right away.
+	- Location 2386
+- The Federal Reserve was not politically independent before 1951. The president and the Fed could coordinate policy. In 1942 the Fed announced it would keep short-term rates at 0.38% to help finance the war. Rates didn’t budge a single basis point for the next seven years. Three-month Treasury yields stayed below 2% until the mid-1950s. The explicit reason for keeping rates down was to keep the cost of financing the equivalent of the $6 trillion we spent on the war low. But low rates also did something else for all the returning GIs. It made borrowing to buy homes, cars, gadgets, and toys really cheap.
+	- Location 2400
+- 3. Pent-up demand for stuff fed by a credit boom and a hidden 1930s productivity boom led to an economic boom.
+	- Location 2417
+- We didn’t pay that much attention to the productivity boom in the ’30s, because everyone was focused on how bad the economy was. We didn’t pay attention to it in the ’40s, because everyone was focused on the war. Then the 1950s came around and we suddenly realized, “Wow, we have some amazing new inventions. And we’re really good at making them.” Appliances, cars, phones, air conditioning, electricity.
+	- Location 2420
+- Frederick Lewis Allen writes in his book The Big Change: During these postwar years the farmer bought a new tractor, a corn picker, an electric milking machine; in fact he and his neighbors, between them, assembled a formidable array of farm machinery for their joint use. The farmer’s wife got the shining white electric refrigerator she had always longed for and never during the Great Depression had been able to afford, and an up-to-date washing machine, and a deep-freeze unit. The suburban family installed a dishwashing machine and invested in a power lawnmower. The city family became customers of a laundromat and acquired a television set for the living room. The husband’s office was air-conditioned. And so on endlessly.
+	- Location 2426
+- The leveling out of classes meant a leveling out of lifestyles. Normal people drove Chevys. Rich people drove Cadillacs. TV and radio equalized the entertainment and culture people enjoyed regardless of class. Mail-order catalogs equalized the clothes people wore and the goods they bought regardless of where they lived.
+	- Location 2459
+- Harper’s Magazine noted in 1957: The rich man smokes the same sort of cigarettes as the poor man, shaves with the same sort of razor, uses the same sort of telephone, vacuum cleaner, radio, and TV set, has the same sort of lighting and heating equipment in his house, and so on indefinitely. The differences between his automobile and the poor man’s are minor. Essentially they have similar engines, similar fittings. In the early years of the century there was a hierarchy of automobiles.
+	- Location 2461
+- Paul Graham wrote in 2016 about what something as simple as there only being three TV stations did to equalize culture: It’s difficult to imagine now, but every night tens of millions of families would sit down together in front of their TV set watching the same show, at the same time, as their next door neighbors. What happens now with the Super Bowl used to happen every night. We were literally in sync.
+	- Location 2465
+- 1973 was the first year where it became clear the economy was walking down a new path.
+	- Location 2492
+- Short-term interest rates hit 8% in 1973, up from 2.5% a decade earlier. And you have to put all of that in the context of how much fear there was between Vietnam, riots, and the assassinations of Martin Luther King, and John and Bobby Kennedy. It got bleak.
+	- Location 2495
+- A combination of lucky economic advantages and a culture shared by the Greatest Generation—hardened by the Depression and anchored in systematic cooperation from the war—shifted when Baby Boomers began coming of age. A new generation that had a different view of what’s normal hit at the same time a lot of the economic tailwinds of the previous two decades ended.
+	- Location 2499
+- We have built a new economy. His last sentence was important. It was a new economy. The biggest difference between the economy of the 1945–1973 period and that of the 1982–2000 period was that the same amount of growth found its way into totally different pockets.
+	- Location 2521
+- The Atlantic writes: Between 1993 and 2012, the top 1 percent saw their incomes grow 86.1 percent, while the bottom 99 percent saw just 6.6 percent growth.
+	- Location 2524
+- All that matters is that sharp inequality became a force over the last 35 years, and it happened during a period where, culturally, Americans held onto two ideas rooted in the post-WW2 economy: That you should live a lifestyle similar to most other Americans, and that taking on debt to finance that lifestyle is acceptable.
+	- Location 2531
+- we’ve spent 75 years since the end of the war fostering a cultural acceptance of household debt. During a time when median wages were flat, the median new American home grew 50% larger.
+	- Location 2548
+- The average new American home now has more bathrooms than occupants. Nearly half have four or more bedrooms, up from 18% in 1983. The average car loan adjusted for inflation more than doubled between 1975 and 2003, from $12,300 to $27,900.
+	- Location 2550
+- collapsed:: true
+  10. The Tea Party, Occupy Wall Street, Brexit, and Donald Trump each represents a group shouting, “Stop the ride, I want off.”
+	- Location 2578
+- You can scoff at linking the rise of Trump to income inequality alone. And you should. These things are always layers of complexity deep. But it’s a key part of what drives people to think, “I don’t live in the world I expected. That pisses me off. So screw this. And screw you! I’m going to fight for something totally different, because this—whatever it is—isn’t working.” Take that mentality and raise it to the power of Facebook, Instagram, and cable news—where people are more keenly aware of how other people live than ever before. It’s gasoline on a flame. 
   collapsed:: true
-	- “The world is full of obvious things which nobody by any chance ever observes.”—Sherlock Holmes
-		- Location 32
-	- “What do you want to know about investing that we can’t know?"
-	  “The exact role of luck in successful outcomes”
-		- Robert Shiller, Nobel Economics Prize
-	- The intellectual allure of pessimism has been known for ages. John Stuart Mill wrote in the 1840s: “I have observed that not the man who hopes when others despair, but the man who despairs when others hope, is admired by a large class of persons as a sage.”
-		- Location 1900
-		- Expecting things to be great means a best-case scenario that feels flat. Pessimism reduces expectations, narrowing the gap between possible outcomes and outcomes you feel great about. Maybe that’s why it’s so seductive. Expecting things to be bad is the best way to be pleasantly surprised when they’re not. Which, ironically, is something to be optimistic about.
-			- Location 2000
-	- financial decisions are shaped by own unique experiences and make sense to people in the moment. Example, lotto: "it's the only time in our lives we can hold a tangible dream of getting the good stuff that you already have and take for granted. We are paying for a dream, and you may not understand that"
-	- 40% of americans can't come up with $400 in an emergency.
-	- From 1950 to 1990 we gained 296 megabytes, from 1990 to today we gained 100 million megabytes.
-	- By the mid-1930s, Disney had produced more than 400 cartoons, most of them short, beloved and lost money. All changed with Snow White (1938), which won $8m in the first six months. This helped keep good employees and payed for an art studio in Burbank, which still remains today.
-	- Derek Sivers, a successful entrepreneur, once wrote about a friend who asked him to tell the story about how he got rich: I had a day job in midtown Manhattan paying $20k per year—about minimum wage ... I never ate out, and never took a taxi. My cost of living was about $1000/month, and I was earning $1800/month. I did this for two years, and saved up $12,000. I was 22 years old. Once I had $12,000 I could quit my job and become a full-time musician. I knew I could get a few gigs per month to pay my cost of living. So I was free. I quit my job a month later, and never had a job again. When I finished telling my friend this story, he asked for more. I said no, that was it. He said, “No, what about when you sold your company?” I said no, that didn’t make a big difference in my life. That was just more money in the bank. The difference happened when I was 22.26
-		- Location 940
-	- When asked about his silence during meetings, Rockefeller often recited a poem: A wise old owl lived in an oak, The more he saw the less he spoke, The less he spoke, the more he heard, Why aren’t we all like that wise old bird?
-		- Location 965
-	- If the operating equipment of the 21C is a portable device, the modern factory is the day, not a place. (Derek Thompson, The Atlantic)
-	- The world's energy wealth grew not by decreasing the energy it needed.
-	- Wealth is built with a high savings rate.
-	- Fevers are beneficial but we fight them because they hurt.
-	- The airplane changed everything. It started world wars, it ended world wars. It connected the world, bridging gaps between cities and rural communities; oceans and countries. But the story of the Wright Brothers’ quest to build the first plane has a fascinating twist. After they conquered flight, no one seemed to notice. Nobody seemed to care. In his 1952 book on American history, Frederick Lewis Allen wrote: Several years went by before the public grasped what the Wrights were doing; people were so convinced that flying was impossible that most of those who saw them flying about Dayton [Ohio] in 1905 decided that what they had seen must be some trick without significance—somewhat as most people today would regard a demonstration of, say, telepathy. It was not until May, 1908—nearly four and a half years after the Wright’s first flight—that experienced reporters were sent to observe what they were doing, experienced editors gave full credence to these reporters’ excited dispatches, and the world at last woke up to the fact that human flight had been successfully accomplished. first it was a military weapon, then a rich person's toy, then perhaps, a way to transport a few people.
-		- Location 1963
-	- NASA’s New Horizons spacecraft passed by Pluto two years ago. It was a three-billion mile trip that took nine and a half years. According to NASA, the trip “took about one minute less than predicted when the craft was launched in January 2006.”68 Think about that. In an untested, decade-long journey, NASA’s forecast was 99.99998% accurate. That’s like forecasting a trip from New York to Boston and being accurate to within four millionths of a second.
-		- Location 2143
-	- as WW1 ended, soldiers wanted to start a family in their own home, with a good job, right away. this made the Fed keep short-term rates at 0.4% to keep the cost of financing $6T low, but it also made borrowing to buy (homes, cars, gadgets, toys) cheap.
-	- Frederick Lewis Allen writes in his book The Big Change: During these postwar years the farmer bought a new tractor, a corn picker, an electric milking machine; in fact he and his neighbors, between them, assembled a formidable array of farm machinery for their joint use. The farmer’s wife got the shining white electric refrigerator she had always longed for and never during the Great Depression had been able to afford, and an up-to-date washing machine, and a deep-freeze unit. The suburban family installed a dishwashing machine and invested in a power lawnmower. The city family became customers of a laundromat and acquired a television set for the living room. The husband’s office was air-conditioned. And so on endlessly.
-		- Location 2426
-	- We didn’t pay that much attention to the productivity boom in the ’30s, because everyone was focused on how bad the economy was. We didn’t pay attention to it in the ’40s, because everyone was focused on the war. Then the 1950s came around and we suddenly realized, “Wow, we have some amazing new inventions. And we’re really good at making them.” Appliances, cars, phones, air conditioning, electricity.
-		- Location 2420
-	- The leveling out of classes meant a leveling out of lifestyles. Normal people drove Chevys. Rich people drove Cadillacs. TV and radio equalized the entertainment and culture people enjoyed regardless of class. Mail-order catalogs equalized the clothes people wore and the goods they bought regardless of where they lived.
-		- Location 2459
-	- Harper’s Magazine noted in 1957: The rich man smokes the same sort of cigarettes as the poor man, shaves with the same sort of razor, uses the same sort of telephone, vacuum cleaner, radio, and TV set, has the same sort of lighting and heating equipment in his house, and so on indefinitely. The differences between his automobile and the poor man’s are minor. Essentially they have similar engines, similar fittings. In the early years of the century there was a hierarchy of automobiles.
-		- Location 2461
-	- Short-term interest rates hit 8% in 1973, up from 2.5% a decade earlier. And you have to put all of that in the context of how much fear there was between Vietnam, riots, and the assassinations of Martin Luther King, and John and Bobby Kennedy. It got bleak.
-		- Location 2495
-	- A combination of lucky economic advantages and a culture shared by the Greatest Generation—hardened by the Depression and anchored in systematic cooperation from the war—shifted when Baby Boomers began coming of age. A new generation that had a different view of what’s normal hit at the same time a lot of the economic tailwinds of the previous two decades ended.
-		- Location 2499
-	- The average new American home now has more bathrooms than occupants. Nearly half have four or more bedrooms, up from 18% in 1983. The average car loan adjusted for inflation more than doubled between 1975 and 2003, from $12,300 to $27,900.
-		- Location 2550
-	- You can scoff at linking the rise of Trump to income inequality alone. And you should. These things are always layers of complexity deep. But it’s a key part of what drives people to think, “I don’t live in the world I expected. That pisses me off. So screw this. And screw you! I’m going to fight for something totally different, because this—whatever it is—isn’t working.” Take that mentality and raise it to the power of Facebook, Instagram, and cable news—where people are more keenly aware of how other people live than ever before. It’s gasoline on a flame.
-		- Location 2581
+	- Location 2581
+- Benedict Evans says, “The more the Internet exposes people to new points of view, the angrier people get that different views exist.” 
+  collapsed:: true
+	- Location 2585

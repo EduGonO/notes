@@ -6,7 +6,8 @@
 
 - Stiegler, *technique et le temps*  
 	
-### I. Critiques de la conception instrumentale et anthropologique de la technique
+## I. Critiques de la conception instrumentale et anthropologique de la technique
+
 ### *La question de la technique* (Heidegger, 1949)
 - technique est définie comme "moyen de certaines fins" ou "activité de l'homme" (conception instrumental et anthropologique)
 - **actes**: poser de fins, constituer et utiliser moyens
@@ -22,6 +23,7 @@
 > Le devoilement qui regit la technique moderne est une pro-vocation (*Herausfordern*) par laquelle la nature est mise en demeure de livrer une énergie qui puisse comme telle etre extraite (*herausgefördert*) et accumulee.  
 
 ### *L'obsolesence de l'homme* (Günther Ander, 1956)
+
 "tout depends de ce qu'on fait des inventions, manière dont on s'en sert et fin choisie pour les moyens."
 - vision optimiste avec origines à la premiere revolution industrielle.
 - douteux, présuppose qu'on peut disposer librement de la technique et l'∃ de fragments de monde comme purs "moyens" pour des "bons fins"
@@ -37,23 +39,23 @@
 ### II. humain/technique: *invention de l'homme* et mémoire épiphylogénétique
 		- `paléoanthropologie`: scientific study of human evolution + origin of modern humans. focus on fossil records, genetics, behaviors to reconstruct evolutionary history.
 		- `épiphylogénétique`: origin of species + evolution and diversification. focus on factors that influence the formation of new species and how they adapt/are affected to their environment.
-		- ### Prométhée et Epiméthée (*Protagoras* - Platon, 320dc)
-		- ### default d'origine de l'humanité
-		- ### **apports de la paléoanthropologie: outil comme** organe artificiel et co-évolution des cortex et silex (paléoanthropologie)
-		- ### humanité / technicité: paradoxe d'extériorisation et ambiguïté de l'invention (paléoanthropologie)
-		- ### la mémoire épiphylogénétique: extériorisation technique et accès au passé non-vécu (paléoanthropologie)
+		- Prométhée et Epiméthée (*Protagoras* - Platon, 320dc)
+		- default d'origine de l'humanité
+		- **apports de la paléoanthropologie: outil comme** organe artificiel et co-évolution des cortex et silex (paléoanthropologie)
+		- humanité / technicité: paradoxe d'extériorisation et ambiguïté de l'invention (paléoanthropologie)
+		- la mémoire épiphylogénétique: extériorisation technique et accès au passé non-vécu (paléoanthropologie)
 
-- ## cours 2: révélation phonographique: conscience du temps et enregistrements techniques
-	- ### Bergson et Husserl: flux temporel de la conscience (mémoire et durée, rétentions et protentions)
-		- ### Bergson: conscience comme mémoire et durée
-		- ### Husserl: phénoménologie de la conscience du temps
+## cours 2: révélation phonographique: conscience du temps et enregistrements techniques
+	- Bergson et Husserl: flux temporel de la conscience (mémoire et durée, rétentions et protentions)
+		- Bergson: conscience comme mémoire et durée
+		- Husserl: phénoménologie de la conscience du temps
 			- mélodie comme objet temporel
 			- present = retentions (memoire de la note juste passée) + protentions (note à venir)
 			- **retention** (souvenir primaire): perception
 			- **representation** (souvenir secondaire): memoire/imagination
-	- ### stiegler: retentions tertiaires et cinema de la conscience
+	- stiegler: retentions tertiaires et cinema de la conscience
 
-- ## cours 3-4: pharmacologie des retentions tertiaires: littérales, analogiques et numériques
+## cours 3-4: pharmacologie des retentions tertiaires: littérales, analogiques et numériques
 	- "l'évolution technologique poursuivra un processus de transformation profonde de l'activité de la conscience."
 	- conscience ne cesse de s'écouler, historique et évolutive, n'a pas un donné éternel ∴ elle est **temporelle**
 	- stiegler s'intéresse à la *révélation phonographique*, l'enregistrement analogique de musique qui permet sa repetition identique mais, d'un même objet → 2 phénomènes différents

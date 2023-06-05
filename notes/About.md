@@ -5,32 +5,52 @@ title: about
 # notes
 
 some notes i've taken on different topics over the years
-these are some notes I've written on different topics over time. they're mostly for myself, but in the spirit of working with garage doors open, i've published them and open sourced this website. much of the code is forked from the work of people at reflect but I've also added some. 
-works under writing are of my own, my notes a mix of thoughts with quotes from the artwork subject of the note.
+these are some notes I've written on different topics over time. they're mostly for myself, but in the spirit of working with garage doors open, i've published them and open sourced this website. much of the code is forked from the work of people at [reflect](https://github.com/team-reflect/beginning-of-infinity) but I've also added some. 
+works under *writing* are of my own, my notes a mix of thoughts with quotes from the artwork subject of the note.
 
-
-#allnotes
-- 2023
-    - [[]]
-    - [[]]
-
-### done
-- [[llano en llamas]]
-- [[recuerdos del porvenir]]
-- [[succession]]
-- [[century of the self]]
-- [[laberinto de la soledad]]
-- [[hitchhicker's guide to the galaxy]]
-- [[discipline and punish]]
-- [[aristotle invented the computer]]
-- [[discrete image]]
-
-
-
-### own writing
-- [[post-cinema]]
+## own writing
+- [[after cinema]]
 - [[on cinema]]
 
+### notes
+- **books**
+    - [[recuerdos del porvenir]], elena garro
+    - [[llano en llamas]], juan rulfo
+    - [[laberinto de la soledad]], octavio paz
+    - [[hitchhicker's guide to the galaxy]], douglas adams
+    - desierto sonoro, valeria luiselli
+    - the physicist and the philosopher, jimena canales
+    - versión de los vencidos, miguel león portilla
+    - the beginning of infinity, david deutsch
+    - leonardo da vinci, walter isaacson
+    - l’etranger, albert camus
+    - the short happy life of francis macomber, ernest hemminway
+    - my autobiography, charlie chaplin
+    - el amor en los tiempos del colera, gabriel garcía márquez
+    - the dope, benjamin t. smith
+- **articles**
+    - [[aristotle invented the computer]], chris dixon
+    - [[to firmly drive common prosperity]], xi jinping
+    - how the enlightenment ends, henry kissinger
+    - people aren't meant to talk this much
+- **philosophy**
+    - [[discrete image]], bernard stielger
+    - [[discipline and punish]], michel foucault
+    - [[paragraphs on conceptual art]], sol lewitt
+    - [[to firmly drive common prosperity]], xi jinping
+    - [[the question concerning technology]], martin heidegger
+    - [[how to do philosophy]], paul graham
+    - [[taste for makers]], paul graham
+    - wittgenstein duchamps 
+    - modernisme modernité
+    - tractatus
+- **film**
+    - [[century of the self]], adam curtis
+    - [[hitchcock vs hitchcock]], andré bazin
+    - [[why marvel movies aren't cinema]], martin scorsese
+    - [[succession]], jesse armstrong
+    - [[hitchcock truffaut]], françois truffaut
+    - [[rohmer]]
 
 
 #### symbols
@@ -52,54 +72,6 @@ works under writing are of my own, my notes a mix of thoughts with quotes from t
 
 - ---
 
-to do
-
-#### books
-- versión de los vencidos
-- [[l’etranger]]
-- [[laberinto de la soledad]]
-- [[the beginning of infinity]]
-- einstein
-- **leonardo** da *vinci*
-- [[llano en llamas]]
-- the ::physicist:: and the `philosopher`
-- [[the short happy life of francis macomber]]
-- desierto sonoro
-- my autobiography
-- el amor en los tiempos del colera
-- [[recuerdos del porvenir]]
-- the dope
-- code breaker
-- hitchhicker’s guide to the galaxy
-- deus: a brief history of tomorrow
-- sapiens
-- sin querer queriendo
-- fabric of reality
-
-#### articles
-- [[aristotle invented the computer]]
-
-#### philosophy
-- [[discrete image]]
-    - [[cours stiegler]]
-- tractatus
-- question concerning technology
-- modernisme modernit
-- wittgenstein duchamps 
-- minimalism
-- [[discipline and punish]]
-
-#### film
-- [[century of the self]]
-- [[Century of the Self II]]
-- can’t get you out of my head
-- normalization
-- [[succession]]
-- [[rohmer]]
-- [[hitchcock truffaut]]
-
-
----
 
 original site notes:
 

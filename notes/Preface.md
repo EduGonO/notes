@@ -1,15 +1,10 @@
----
-title: notes
----
-
 - [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
 
 ⠀  
 
-# notes
+# notes on
 
 some notes i've taken on different topics over the years
-
 
 ## own writing
 - [[after cinema]]
@@ -21,14 +16,20 @@ some notes i've taken on different topics over the years
     - [[llano en llamas]], juan rulfo
     - [[laberinto de la soledad]], octavio paz
     - [[hitchhicker's guide to the galaxy]], douglas adams
+- **articles**
+    - [[aristotle invented the computer]], chris dixon
+    - [[to firmly drive common prosperity]], xi jinping
+- **philosophy**
+    - [[discrete image]], bernard stielger
+    - [[paragraphs on conceptual art]], sol lewitt
+    - [[how to do philosophy]], paul graham
+    - [[the question concerning technology]], martin heidegger
 - **film**
     - [[century of the self]], adam curtis
+    - [[hitchcock vs hitchcock]], andré bazin
+    - [[why marvel movies aren't cinema]], martin scorsese
     - [[succession]], jesse armstrong
-- **articles**
-    - [[discrete image]], bernard stiegler
-    - [[aristotle invented the computer]], chris dixon
-    - [[discipline and punish]], michel foucault
-
+    - [[hitchcock truffaut]], françois truffaut
 
  
 ⠀ ⠀ 

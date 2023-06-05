@@ -74,7 +74,7 @@ now there's two syntheses (spectator + camera): evolution of technical synthesis
 	- alphabetic writing reveals the discrete characters of language fft
 	- reading and writing (can't do one without the other)
 	- implies the rethink of hollywood's schema of analysis/production - synthesis/consumption.
-- technology will make it possible to watch a movie analytically, making text and tv closer than now.
+- technology will make it possible to watch a movie analytically, ::making text and tv closer than now.::
 	- we will be able to navigate though the flow of images in a nonlinear way, with toc and indexes (like books), true hypermedia?
 
 
