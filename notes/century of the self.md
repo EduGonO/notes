@@ -6,47 +6,47 @@ notes on *[The Century of the Self](https://letterboxd.com/film/the-century-of-t
 
 
 ### I. happiness machines
-Freud's nephew, Edward [[Bernays]] was the first person to take his ideas and use them to manipulate the masses. He did this by linking mass produced goods to unconscious desires. Satisfy passive desires and therefore make people more compliant. this is when *public relations* was created, replacing *propaganda* which had become a bad word ≈WW2.
+Freud's nephew, **Edward Bernays** was the first person to take his ideas and use them to manipulate the masses. He did this by linking mass produced goods to unconscious desires. Satisfy passive desires and therefore make people more compliant. this is when *public relations* was created, replacing *propaganda* which had become a bad word ≈WW2.
 
 1st experiment: **make women smoke**
 - amidst feminist movements, connect women to an image of challenging men.
 - If a women smokes, she is tougher and more independent
 - 📍 NY Easter Day Parade, rich women light cigarettes publicly.
 
-Products started being sold as necessities and were durable. The emotional connection to a product or service shifted America from needs to desires. This was [[Bernays]]'s plan.
+Products started being sold as necessities and were durable. The emotional connection to a product or service shifted America from needs to desires. This was Bernays' plan.
 
-First connections between **products and media: Product placements in films & linking beauty products to models.** Products were bought to express your inner-self to others. [[Bernays]] also persuaded actors to go to the White House → politics became part of daily public talk
+First connections between **products and media: Product placements in films & linking beauty products to models.** Products were bought to express your inner-self to others. Bernays also persuaded actors to go to the White House → politics became part of daily public talk
 
 **1927**: Consumption. Americans went from citizens to consumers.
 - ⤷ End Goal: Stock Market Boom, **idea that ordinary people should buy shares introduced**.
 
 Bernays becomes [[Freud]]'s agent and publishes his books, using his controversial ideas (*sex*, *dreams*, *cocaine*) to appeal to the public and create word of mouth. He made him famous (wild ideas), acceptable to the public (rational ideas) and profited.
 
-The idea of immense forces ([[Freud]]'s *subconscious*) hidden in plain sight terrified journalists. People no longer believed human beings could make rational decisions by themselves ∴ trust in Government/Democracy fell. [[Bernays]] proposed an elite to manage the "bewildered herd". They would govern by controlling the unconscious minds of the masses and **The Engineering of Consent**: stimulating people’s inner desires and sating them with consumer products.
+The idea of immense forces ([[Freud]]'s *subconscious*) hidden in plain sight terrified journalists. People no longer believed human beings could make rational decisions by themselves ∴ trust in Government/Democracy fell. Bernays proposed an elite to manage the "bewildered herd". They would govern by controlling the unconscious minds of the masses and **The Engineering of Consent**: stimulating people’s inner desires and sating them with consumer products.
 
-**1928**: [[Hoover]] in power. He articulated that *consumerism* was the central motor of American life. He agreed people have transformed into constantly moving happiness machines, which became the key to economic progress (and also created a peaceful society).
+**1928**: Hoover in power. He articulated that *consumerism* was the central motor of American life. He agreed people have transformed into constantly moving happiness machines, which became the key to economic progress (and also created a peaceful society).
 
 **Bernays** discovered that by stimulating the irrational self of people, government could do what they wanted. He became one of the most prominent figures in the US.
 
-**Oct 29, 1929**: While commemorating the 50th anniversary of the lightbulb, the US elite at the time ([[Hoover]], [[Rockefeller]], [[Bernays]], prominent bankers…) saw the biggest stock market crash in history. People lost money and stopped buying goods they didn't need, [[Bernays]]’ work collapsed
+**Oct 29, 1929**: While commemorating the 50th anniversary of the lightbulb, the US elite at the time (Hoover, Rockefeller, Bernays, prominent bankers…) saw the biggest stock market crash in history. People lost money and stopped buying goods they didn't need, Bernays' work collapsed
 
 [[Freud]] retired. He wrote *Civilization and its Discontents*, where he argued that Civilization was created to control the animal forces inside human beings.
 - Individual freedom was impossible. Humans could not express themselves freely so they *had* to be in control ∴ they would always be unhappy.
 - Politicians sided with [[Freud]], notably Hitler, who thought Democracy was a problem since it released selfish individualism without being able to control it. 
   - He wanted to keep people’s desires central, but channeled in such a way as to bind the nation together. Goebbels cited [[Bernays]] as an inspiration
 
-**1933**: [[Roosevelt]] elected. He wanted to revive the idea that Human Beings were rational and decided to involve the American Public into the decisions. 
+**1933**: Roosevelt elected. He wanted to revive the idea that Human Beings were rational and decided to involve the American Public into the decisions. 
 - **Creation of Opinion Pools**: President Approval %, Agreement on laws...
 - As long as questions were straightforward, neutral toned and didn’t involve emotions, people could be trusted to know what they wanted. People could be rational, sensitive human beings who could take part in their country’s future.
 
-**1937**: [[Roosevelt]] reelected. His *New Deal* stated it was the government's job to run industrial economies.
+**1937**: Roosevelt reelected. His *New Deal* stated it was the government's job to run industrial economies.
 
-Bad news for business → Return of Edward [[Bernays]]. He attacked [[Roosevelt]]’s New Deal by creating an emotional connection between corporations and the public. He fabricated the idea that *businesses*, not politics, were the ones that created America’s Future.
+Bad news for business → Return of Edward Bernays. He attacked Roosevelt’s New Deal by creating an emotional connection between corporations and the public. He fabricated the idea that *businesses*, not politics, were the ones that created America’s Future.
 
-[[Roosevelt]]’s team quickly realized [[Bernays]]’ strategy and launched ads exposing big corporation's plans. Since Roosevelt advocated that humans were rational, they wanted people to judge by themselves.
+Roosevelt's team quickly realized Bernays' strategy and launched ads exposing big corporation's plans. Since Roosevelt advocated that humans were rational, they wanted people to judge by themselves.
 - → This lead to the **first cases of biased media**, where some newspapers were more **pro-government/pro-corporations news**.
 
-[[Bernays]]’ response was to create the narrative that an Utopia would become reality if large stage capitalism was unleashed. He used the 1939 NYC World Fair and designed the entire fair to transmit the message "*Democracy + Capitalism = ❤️*"
+Bernays' response was to create the narrative that an Utopia would become reality if large stage capitalism was unleashed. He used the 1939 NYC World Fair and designed the entire fair to transmit the message "*Democracy + Capitalism = ❤️*"
 - He tricked people into thinking you couldn't have democracy without capitalism.
 - Painted the people’s desires as in charge of the future, not the people themselves.
 - Transformed the Public into passive consumers.
@@ -130,19 +130,19 @@ While the liberation of the self freed people from social constraints, it also m
 
 New idea now dominates society: Satisfaction of individual feelings and desires is our highest priority.
 
-**1992**: [[Clinton]] elected.
+**1992**: Clinton elected.
 - He campaigned using extreme pooling and decided to **base his policies on focus groups' results**. His team designed every policy, word and image of his campaign to fit what people wanted. His main promise was to lower taxes (most popular in pools).
 - After winning the election, he realizes the US Deficit was way higher than previously thought ($300B) and decides to drop tax cuts promises.
 - People felt betrayed → Republicans promised tax cuts and won congress in the midterms.
 
-This was a disaster for [[Clinton]] who decided to **forget ideologies and turn politics into consumer business**: instead of trying to move people, he saw what people wanted and moved himself into that arena.
+This was a disaster for Clinton who decided to **forget ideologies and turn politics into consumer business**: instead of trying to move people, he saw what people wanted and moved himself into that arena.
 - Clinton used [[Freud]]’s ideas to categorize swing voters by personality traits and ways to make these voters feel safer in their current lifestyles.
 - He starts campaigning by dropping all traditional policies and focusing exclusively on swing voter-issues (phones in school buses, vCards).
 - Tiny details of people’s day-to-day lives (seatbelts, public smoking, TV ratings…) became key to winning power.
 - His team kept pooling all policies; *"suburban voters pretty much created Clinton’s domestic policy."*
 
-**1996**: [[Clinton]] wins reelection. He ends the *Welfare* program, 60 years after Roosevelt's efforts.
-- A mark of the passing **from** [[Roosevelt]]'s **progressive political ideas** (using leadership to persuade voters to think and behave as social beings, not self-interested individuals) to the arrival of *lifestyle* marketing in US politics.
+**1996**: Clinton wins reelection. He ends the *Welfare* program, 60 years after Roosevelt's efforts.
+- A mark of the passing **from** Roosevelt's **progressive political ideas** (using leadership to persuade voters to think and behave as social beings, not self-interested individuals) to the arrival of *lifestyle* marketing in US politics.
 - The problem with basing policies on focus groups is that people are contradictory and irrational by nature: *"better social services but lower taxes."* Tony Blair (UK) failed to see this, Clinton adapted.
 
 To deal with the ongoing inequality and decaying of social fabric, government needs to turn against the Freudian view of human beings and make people think beyond their self-interest. Businesses thrive on appealing to the unconscious side of people. Government needs to instead engage with the public in a rational discussions.
