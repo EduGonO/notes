@@ -10,7 +10,7 @@ title: el llano en llamas
 
 - ---
 
-### highlights
+
 - No llueve. Ahora si se mira el cielo se ve a la nube aguacera corriéndose muy lejos, a toda prisa. El viento que viene del pueblo se le arrima empujándola contra las sombras azules de los cerros. Y a la gota caída por equivocación se la come la tierra y la desaparece en su sed.
 - Muy abajo el río corre mullendo sus aguas entre sabinos florecidos; meciendo su espesa corriente en silencio. Camina y da vueltas sobre sí mismo. Va y viene como una serpentina enroscada sobre la tierra verde.
 - Natalia parecía estar endurecida y traer el corazón apretado para no sentirlo bullir dentro de ella. Pero de sus ojos no salió ninguna lágrima.

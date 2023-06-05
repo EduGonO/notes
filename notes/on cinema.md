@@ -4,8 +4,8 @@ title: on cinema
 
 # what is happening to cinema?
 - [eduardo gonzalez](https://edugon.studio), Oct 2022
-- originally published by [art-critique](https://www.art-critique.com/2022/10/quarrive-t-il-au-cinema/)
-- [full article](https://edugon.studio/on-cinema) w/media
+
+originally published by [art-critique](https://www.art-critique.com/2022/10/quarrive-t-il-au-cinema/) • [full article](https://edugon.studio/on-cinema) w/media
 
 ![86ff115a-379a-4d31-8742-284604d88e82_1299x766.jpeg](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F86ff115a-379a-4d31-8742-284604d88e82_1299x766.jpeg)
 

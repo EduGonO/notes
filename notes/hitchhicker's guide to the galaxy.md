@@ -8,7 +8,6 @@ title: hitchhicker's guide to the galaxy
 
 - ---
 
-### highlights
 - And so the problem remained; lots of the people were mean, and most of them were miserable, even the ones with digital watches.
 - After a few months’ consideration and observation he abandoned this theory in favor of a new one. If they don’t keep on exercising their lips, he thought, their brains start working.
 - One of the major difficulties Trillian experienced in her relationship with Zaphod was learning to distinguish between him pretending to be stupid just to get people off their guard, pretending to be stupid because he couldn’t be bothered to think and wanted someone else to do it for him, pretending to be outrageously stupid to hide the fact that he actually didn’t understand what was going on, and really being genuinely stupid.

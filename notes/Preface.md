@@ -2,7 +2,7 @@
 title: notes
 ---
 
-by [eduardo gonzalez](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
+- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
 
 ⠀  
 

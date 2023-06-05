@@ -7,6 +7,8 @@ title: recuerdos del porvenir
 
 - [Elena Garro](https://es.wikipedia.org/wiki/Los_recuerdos_del_porvenir), 1963  `15-09-2020·16-11-2020`
 
+![image](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_55561/0f80d8e7-f1f4-4ba4-9bcf-322b0cf3f789.jpg)
+
 - ---
 
 
@@ -18,7 +20,7 @@ title: recuerdos del porvenir
 - Los días se convierten en el mismo día, los actos en el mismo acto y las personas en un solo personaje inútil. El mundo pierde su variedad, la luz se aniquila y los mil agros quedan abolidos. La inercia de esos días repetidos me guardaba quieto, contemplando la fuga inútil de mis horas y esperando el milagro que se obstinaba en no producirse. El porvenir era la repetición del pasado. Inmóvil, me dejaba devorar por la sed que roía mis esquinas.
 - Buscaron algo impreciso, algo a lo que no lograban darle forma y que necesitaban para cruzar los innumerables días que se extendían ante ellos como un enorme paisaje de periódicos viejos, en cuyas hojas se mezclan con grosería los crímenes, las bodas, los anuncios, todo revuelto, sin relieve, como hechos vaciados de sentido, fuera del tiempo, sin memoria.
 
-**sobre [[méxico]]**
+**sobre [[mexico]]**
 - Los pistoleros eran la nueva clase surgida del matrimonio de la Revolución traidora con el porfirismo.
 - Abacuc era un antiguo zapatista. Cuando Venustiano Carranza asesinó a Zapata, Abacuc guardó silencio, dejó las armas y se dedicó al pequeño comercio. Viajaba de pueblo en pueblo, montado en una mula, vendía baratijas y se negaba a hablar del gobierno carrancista. Enigmático, vio como después Obregón asesinó a Carranza y tomó el poder para más tarde pasárselo a Calles.
 - Y aunque también celebramos el primer siglo de la Independencia, mis fuegos de artificio y mis trajes de gala se hundieron en el polvo levantado por las carretelas desbordantes de embajadores extranjeros, las cabalgatas brillantes y los cohetes de Pekín que incendiaron la capital.
