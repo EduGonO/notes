@@ -1,35 +1,38 @@
-- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
-
-⠀  
-
 # notes on
 
+- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
+
 some notes i've taken on different topics over the years
+
+- --- 
+
+⠀  
 
 ## own writing
 - [[after cinema]]
 - [[on cinema]]
 
-### notes
-- **books**
-    - [[recuerdos del porvenir]], elena garro
-    - [[llano en llamas]], juan rulfo
-    - [[laberinto de la soledad]], octavio paz
-    - [[hitchhicker's guide to the galaxy]], douglas adams
-- **articles**
-    - [[aristotle invented the computer]], chris dixon
-    - [[to firmly drive common prosperity]], xi jinping
-- **philosophy**
-    - [[discrete image]], bernard stielger
-    - [[paragraphs on conceptual art]], sol lewitt
-    - [[how to do philosophy]], paul graham
-    - [[the question concerning technology]], martin heidegger
-- **film**
-    - [[century of the self]], adam curtis
-    - [[hitchcock vs hitchcock]], andré bazin
-    - [[why marvel movies aren't cinema]], martin scorsese
-    - [[succession]], jesse armstrong
-    - [[hitchcock truffaut]], françois truffaut
+## notes
+**books**
+- [[recuerdos del porvenir]], elena garro
+- [[llano en llamas]], juan rulfo
+- [[laberinto de la soledad]], octavio paz
+- [[hitchhicker's guide to the galaxy]], douglas adams
+- [[amor en los tiempos del colera]], gabriel garcía márquez
+**articles**
+- [[aristotle invented the computer]], chris dixon
+- [[to firmly drive common prosperity]], xi jinping
+**philosophy**
+- [[discrete image]], bernard stielger
+- [[paragraphs on conceptual art]], sol lewitt
+- [[how to do philosophy]], paul graham
+- [[the question concerning technology]], martin heidegger
+**film**
+- [[century of the self]], adam curtis
+- [[hitchcock vs hitchcock]], andré bazin
+- [[why marvel movies aren't cinema]], martin scorsese
+- [[succession]], jesse armstrong
+- [[hitchcock truffaut]], françois truffaut
 
  
 ⠀ ⠀ 
@@ -37,15 +40,15 @@ some notes i've taken on different topics over the years
 ### quotes i like
 
 > the limits of my language are the limits of my world.  
-> – ludwig wittgenstein
+    – ludwig wittgenstein
 
 
 > «algún día recordaremos, recordaremos», se decía con la seguridad de que el origen de la fiesta, como todos los gestos del hombre, existía intacto en el tiempo y que bastaba un esfuerzo, un querer ver, para leer en el tiempo la historia del tiempo.  
-> – elena garro, recuerdos del porvenir
+	– elena garro, recuerdos del porvenir
 
 
 > the reason you can't look at a photograph for a long time is because there's virtually no time in it—the imbalance between the two experiences the first and second lookings, is too extreme.  
-> – david hockney, true to life
+    – david hockney, true to life
 
 
 - steal all the clocks and watches  
@@ -55,7 +58,7 @@ some notes i've taken on different topics over the years
 
 
 > in the end, stories are about one person saying to another: "this is the way it feels to me. can you understand what i'm saying? does it feel this way to you too?"  
-> – kazuo ishiguro, nobel acceptance speech
+    – kazuo ishiguro, nobel acceptance speech
 
  
 ⠀ ⠀ 

@@ -19,7 +19,8 @@
 - Abacuc era un antiguo zapatista. Cuando Venustiano Carranza asesinó a Zapata, Abacuc guardó silencio, dejó las armas y se dedicó al pequeño comercio. Viajaba de pueblo en pueblo, montado en una mula, vendía baratijas y se negaba a hablar del gobierno carrancista. Enigmático, vio como después Obregón asesinó a Carranza y tomó el poder para más tarde pasárselo a Calles.
 - Y aunque también celebramos el primer siglo de la Independencia, mis fuegos de artificio y mis trajes de gala se hundieron en el polvo levantado por las carretelas desbordantes de embajadores extranjeros, las cabalgatas brillantes y los cohetes de Pekín que incendiaron la capital.
 
-**highlights**
+⠀ ⠀  
+
 - Y afuera de los muros que guardaban al mundo que vivía adentro de Julia, estaba ella.
 - Nunca tomaba parte en la plática; sentada con recato, oía caer palabras y las aguantaba estoicamente como quien aguanta un aguacero.
 - El general la contempló largo rato. Las primeras sombras naranjas de la noche entraron a través de las persianas. Los pies de Julia con los últimos reflejos del sol cobraron una vida efímera y translucida, ajenos al cuerpo envuelto en la bata rosa. El calor de la tarde acumulado en los rincones se reflejó en el espejo de la cómoda. En un vaso los jacintos se ahogaban en su perfume, del jardín llegaban aromas pesados y de la calle un polvillo seco. Francisco Rosas salió de puntillas. Se sentía vencido ante el silencio.
