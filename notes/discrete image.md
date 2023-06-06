@@ -1,7 +1,3 @@
----
-title: discrete image
----
-
 # the discrete image
 
 notes on Bernard Stiegler's [The Discrete Image](https://en.wikipedia.org/wiki/Echographies_of_Television), about the invention of digital photography and cinema.

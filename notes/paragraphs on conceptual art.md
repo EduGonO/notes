@@ -1,6 +1,6 @@
 # paragraphs on conceptual art
 
-- SolLeWitt (),
+- SolLeWitt (https://mma.pages.tufts.edu/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm), 1976
 
 *Conceptual art is good only when the idea is good.*
 
