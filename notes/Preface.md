@@ -28,11 +28,14 @@ some notes i've taken on different topics over the years
 ### articles
 - [[aristotle invented the computer]], chris dixon
 - [[to firmly drive common prosperity]], xi jinping
+- [[people aren't meant to talk this much]], ian bogost
+- [[how the enlightenment ends]], henry kissinger
 
 ### philosophy
 - [[discrete image]], bernard stielger
 - [[paragraphs on conceptual art]], sol lewitt
 - [[how to do philosophy]], paul graham
+- [[taste & design]], paul graham
 - [[the question concerning technology]], martin heidegger
 
 ### film
@@ -47,18 +50,15 @@ some notes i've taken on different topics over the years
 ### quotes i like
 
 > the limits of my language are the limits of my world.  
-
-    – ludwig wittgenstein
+> – ludwig wittgenstein
 
 
 > «algún día recordaremos, recordaremos», se decía con la seguridad de que el origen de la fiesta, como todos los gestos del hombre, existía intacto en el tiempo y que bastaba un esfuerzo, un querer ver, para leer en el tiempo la historia del tiempo.  
-
-	– elena garro, recuerdos del porvenir
+– elena garro, recuerdos del porvenir
 
 
 > the reason you can't look at a photograph for a long time is because there's virtually no time in it—the imbalance between the two experiences the first and second lookings, is too extreme.  
-
-    – david hockney, true to life
+> david hockney, true to life
 
 
 - steal all the clocks and watches  
