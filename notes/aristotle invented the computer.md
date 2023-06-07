@@ -1,10 +1,6 @@
----
-title: how aristotle invented the computer
----
-
 # how aristotle invented the computer
 
-notes on Chris Dixon's 2017 [essay](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/).
+- [Chris Dixon](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/), 2017
 
 - ---
 

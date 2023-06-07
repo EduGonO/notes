@@ -4,9 +4,10 @@ title: about
 
 # notes
 
-some notes i've taken on different topics over the years
 these are some notes I've written on different topics over time. they're mostly for myself, but in the spirit of working with garage doors open, i've published them and open sourced this website. much of the code is forked from the work of people at [reflect](https://github.com/team-reflect/beginning-of-infinity) but I've also added some. 
 works under *writing* are of my own, my notes a mix of thoughts with quotes from the artwork subject of the note.
+
+⠀ ⠀  
 
 ## own writing
 - [[after cinema]]
@@ -26,7 +27,7 @@ works under *writing* are of my own, my notes a mix of thoughts with quotes from
     - l’etranger, albert camus
     - the short happy life of francis macomber, ernest hemminway
     - my autobiography, charlie chaplin
-    - el amor en los tiempos del colera, gabriel garcía márquez
+    - [[amor en los tiempos del colera]], gabriel garcía márquez
     - the dope, benjamin t. smith
 - **articles**
     - [[aristotle invented the computer]], chris dixon

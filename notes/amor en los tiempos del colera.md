@@ -1,10 +1,8 @@
-# amor en tiempos del colera
+# amor en los tiempos del colera
 
 - [Gabriel García Márquez](https://es.wikipedia.org/wiki/El_amor_en_los_tiempos_del_cólera), 1985
 
 - ---
-  
-⠀ ⠀ 
 
 - Poco a poco, mientras yacía con los ojos cerrados después de la siesta diaria, había ido sintiéndolas dentro, una a una, sintiendo hasta la forma de su corazón insomne, su hígado misterioso, su páncreas hermético, y había ido descubriendo que hasta las personas más viejas eran menores que él, y que había terminado por ser el único sobreviviente de los legendarios retratos de grupo de su generación. 
 - Exaltada por esa certidumbre, asumió entonces el mando de su albedrío.
