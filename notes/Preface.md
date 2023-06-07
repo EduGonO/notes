@@ -1,44 +1,43 @@
-# notes on
-
-- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
-
-⠀⠀ 
-
+# notes
 
 some notes i've taken on different topics over the years
 
+- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
+
+- ---
 
 ⠀  
 
-## own writing
+### own writing
 - [[after cinema]] June 2023
 - [[on cinema]] Oct 2022
 
 ⠀⠀ 
 
-## notes
+### notes
 
-### books
-- [[recuerdos del porvenir]], elena garro
+**books**
+- [[desierto sonoro]], valeria luiselli
 - [[llano en llamas]], juan rulfo
+- [[recuerdos del porvenir]], elena garro
 - [[laberinto de la soledad]], octavio paz
 - [[hitchhicker's guide to the galaxy]], douglas adams
 - [[amor en los tiempos del colera]], gabriel garcía márquez
 
-### articles
+**articles**
 - [[aristotle invented the computer]], chris dixon
 - [[to firmly drive common prosperity]], xi jinping
 - [[people aren't meant to talk this much]], ian bogost
-- [[how the enlightenment ends]], henry kissinger
+- [[how the enlightment ends]], henry kissinger
 
-### philosophy
+**philosophy**
 - [[discrete image]], bernard stielger
 - [[paragraphs on conceptual art]], sol lewitt
 - [[how to do philosophy]], paul graham
-- [[taste & design]], paul graham
+- [[taste and design]], paul graham
 - [[the question concerning technology]], martin heidegger
 
-### film
+**film**
 - [[century of the self]], adam curtis
 - [[hitchcock vs hitchcock]], andré bazin
 - [[why marvel movies aren't cinema]], martin scorsese
@@ -50,16 +49,31 @@ some notes i've taken on different topics over the years
 ### quotes i like
 
 > the limits of my language are the limits of my world.  
+
 > – ludwig wittgenstein
 
 
 > «algún día recordaremos, recordaremos», se decía con la seguridad de que el origen de la fiesta, como todos los gestos del hombre, existía intacto en el tiempo y que bastaba un esfuerzo, un querer ver, para leer en el tiempo la historia del tiempo.  
+
 – elena garro, recuerdos del porvenir
 
 
 > the reason you can't look at a photograph for a long time is because there's virtually no time in it—the imbalance between the two experiences the first and second lookings, is too extreme.  
+
 > david hockney, true to life
 
+
+> we look at the world once, in childhood. 
+> The rest is memory
+    - louise glück, *nosotros, meadowlands*
+
+> My pencil and I are more clever than I
+
+> - einstein
+
+> high-level sciences enable us to understand emergent phenomena, of which the most important are, life, thought and computation.
+
+    > - david deutsch, [[the fabric of reality]]
 
 - steal all the clocks and watches  
 - in the world.  

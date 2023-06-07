@@ -17,6 +17,7 @@
 - "I no longer speak 1%"
 - "Objective, independent, but from our point of view."
 - "That would take care of the subsequent therapy."
+- "She, uh, thinks she's on the 'attractive edge of a co-dependent black hole,' whatever the fuck that means."
 - "All killer no filler."
 - "If it is to be said, so it be, so it is."
 - "You need to be a killer, but nowadays, maybe not, I don't know."
