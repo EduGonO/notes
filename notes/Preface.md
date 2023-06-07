@@ -1,8 +1,8 @@
 # notes
 
-some notes i've taken on different topics over the years
-
 - [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
+
+some notes i've taken on different topics over the years
 
 - ---
 
@@ -55,11 +55,10 @@ some notes i've taken on different topics over the years
 
 > «algún día recordaremos, recordaremos», se decía con la seguridad de que el origen de la fiesta, como todos los gestos del hombre, existía intacto en el tiempo y que bastaba un esfuerzo, un querer ver, para leer en el tiempo la historia del tiempo.  
 
-– elena garro, recuerdos del porvenir
+- elena garro, recuerdos del porvenir
 
 
 > the reason you can't look at a photograph for a long time is because there's virtually no time in it—the imbalance between the two experiences the first and second lookings, is too extreme.  
-
 > david hockney, true to life
 
 
@@ -68,11 +67,9 @@ some notes i've taken on different topics over the years
     - louise glück, *nosotros, meadowlands*
 
 > My pencil and I are more clever than I
-
 > - einstein
 
 > high-level sciences enable us to understand emergent phenomena, of which the most important are, life, thought and computation.
-
     > - david deutsch, [[the fabric of reality]]
 
 - steal all the clocks and watches  
@@ -82,8 +79,7 @@ some notes i've taken on different topics over the years
 
 
 > in the end, stories are about one person saying to another: "this is the way it feels to me. can you understand what i'm saying? does it feel this way to you too?"  
-
-    – kazuo ishiguro, nobel acceptance speech
+>   – kazuo ishiguro, nobel acceptance speech
 
  
 ⠀ ⠀ 

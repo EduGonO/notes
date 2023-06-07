@@ -35,15 +35,19 @@
 - "Everything, everywhere, is always moving, forever. Get used to it."
 
 
-## notes
 
-from [the best show on TV is stuck](https://www.theatlantic.com/culture/archive/2021/10/succession-season-3-review/620397/) (sophie gilbert, 2021)
+⠀⠀   
+
+
+### notes
+
+**from [the best show on TV is stuck](https://www.theatlantic.com/culture/archive/2021/10/succession-season-3-review/620397/) (sophie gilbert, 2021)**
 
 - Jesse Armstrong, Succession’s creator, supposedly has a particular goal for the show: to tell a story about how humanity can be corrupted by the confluence of power and family.
 
 ⠀⠀   
 
-from [jeremy strong doesn’t get the joke](https://www.newyorker.com/magazine/2021/12/13/on-succession-jeremy-strong-doesnt-get-the-joke) (michael schulman, 2021)
+**from [jeremy strong doesn't get the joke](https://www.newyorker.com/magazine/2021/12/13/on-succession-jeremy-strong-doesnt-get-the-joke) (michael schulman, 2021)**
 
 - When Jeremy Strong was a teenager, in suburban Massachusetts, he had three posters thumbtacked to his bedroom wall: Daniel Day-Lewis in *My Left Foot*, Al Pacino in *Dog Day Afternoon*, and Dustin Hoffman in *Rain Man.* 
     - He read interviews that his heroes gave and, later, managed to get crew jobs on their movies. By his early twenties, he had worked for all three men, and had adopted elements of their full-immersion acting methods.
@@ -88,7 +92,7 @@ from [jeremy strong doesn’t get the joke](https://www.newyorker.com/magazine/2
 
 ⠀⠀   
 
-from [succession, the inside story](https://www.theguardian.com/commentisfree/2023/may/30/succession-inside-story-brits-write-new-york-drama-tv-series-final-season-spoilers) (georgia pritchett, 203)
+**from [succession, the inside story](https://www.theguardian.com/commentisfree/2023/may/30/succession-inside-story-brits-write-new-york-drama-tv-series-final-season-spoilers) (georgia pritchett, 2023)**
 
 - The pilot for Succession was filmed in New York in November 2016, just as Donald Trump was elected president.
 - Armstrong’s original writing team for Succession consisted for the most part of British comedy writers. There was doubt felt in some quarters as to whether this group of scruffy Brits could pull off a glossy, high-end New York drama.

@@ -1,6 +1,6 @@
-# amor en los tiempos del colera
+# amor en los tiempos del cólera
 
-- [Gabriel García Márquez](https://es.wikipedia.org/wiki/El_amor_en_los_tiempos_del_cólera), 1985
+- [gabriel garcía márquez](https://es.wikipedia.org/wiki/El_amor_en_los_tiempos_del_cólera), 1985
 
 - ---
 

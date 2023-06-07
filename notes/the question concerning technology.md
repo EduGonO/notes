@@ -1,6 +1,6 @@
 # the question concerning technology
 
-- Heidegger, 1954
+- [martin heidegger](https://en.wikipedia.org/wiki/The_Question_Concerning_Technology), 1954
 
 ---
 

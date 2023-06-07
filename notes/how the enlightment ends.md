@@ -1,6 +1,6 @@
 # how the enlightenment ends
 
-- [Henry Kissinger](https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/), 2022-07-28
+- [henry kissinger](https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/), 2022-07-28
 - *"the enlightenment started with philosophical insights spread by a new technology. our period has generated a novel technology in search of a guiding philosophy."*
 
 - ---

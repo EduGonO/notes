@@ -1,6 +1,6 @@
 # laberinto de la soledad
 
-- [Octavio Paz](https://es.wikipedia.org/wiki/El_laberinto_de_la_soledad), 1950 `2020-08-10 · 2020-08-22`
+- [octavio paz](https://es.wikipedia.org/wiki/El_laberinto_de_la_soledad), 1950 `2020-08-10 · 2020-08-22`
 
 ![Image](https://res.craft.do/user/full/c17b1dd1-920a-bc27-ee46-bec46f6315a3/doc/10B09ACE-8336-4FD1-8B3E-44C4F4BDF7EF/3BD3BFA7-F101-406C-B56D-D3F719E2DD72_2)
 

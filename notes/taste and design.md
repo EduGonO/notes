@@ -11,13 +11,20 @@ notes on Paul Graham's ideas on taste, beauty and design from some of his essays
     -  Ben Rich, Skunk Works
 
 > "Beauty is the first test: there is no permanent place in this world for ugly mathematics."  
+    - G. H. Hardy, _A Mathematician's Apology_
 
-- - G. H. Hardy, _A Mathematician's Apology_
+> Beauty is the first test: there is no permanent place in this world for ugly mathematics.  
+> – G. H. Hardy, _A Mathematician's Apology_
 
 
-> "Beauty is the first test: there is no permanent place in this world for ugly mathematics."  
+- > "Beauty is the first test: there is no permanent place in this world for ugly mathematics."  
+    - G. H. Hardy, _A Mathematician's Apology_
 
-> - G. H. Hardy, _A Mathematician's Apology_
+> Beauty is the first test: there is no permanent place in this world for ugly mathematics.  
+    > – G. H. Hardy, _A Mathematician's Apology_
+
+
+
 ⠀ 
 
 ## on taste

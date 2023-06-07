@@ -6,7 +6,7 @@ notes on *[The Century of the Self](https://letterboxd.com/film/the-century-of-t
 
 
 ### I. happiness machines
-Freud's nephew, **Edward Bernays** was the first person to take his ideas and use them to manipulate the masses. He did this by linking mass produced goods to unconscious desires. Satisfy passive desires and therefore make people more compliant. this is when *public relations* was created, replacing *propaganda* which had become a bad word ≈WW2.
+[Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)'s nephew, [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays) was the first person to take his ideas and use them to manipulate the masses. He did this by linking mass produced goods to unconscious desires. Satisfy passive desires and therefore make people more compliant. this is when *public relations* was created, replacing *propaganda* which had become a bad word ≈WW2.
 
 1st experiment: **make women smoke**
 - amidst feminist movements, connect women to an image of challenging men.
@@ -20,9 +20,9 @@ First connections between **products and media: Product placements in films & li
 **1927**: Consumption. Americans went from citizens to consumers.
 - ⤷ End Goal: Stock Market Boom, **idea that ordinary people should buy shares introduced**.
 
-Bernays becomes [[Freud]]'s agent and publishes his books, using his controversial ideas (*sex*, *dreams*, *cocaine*) to appeal to the public and create word of mouth. He made him famous (wild ideas), acceptable to the public (rational ideas) and profited.
+Bernays becomes **Freud**'s agent and publishes his books, using his controversial ideas (*sex*, *dreams*, *cocaine*) to appeal to the public and create word of mouth. He made him famous (wild ideas), acceptable to the public (rational ideas) and profited.
 
-The idea of immense forces ([[Freud]]'s *subconscious*) hidden in plain sight terrified journalists. People no longer believed human beings could make rational decisions by themselves ∴ trust in Government/Democracy fell. Bernays proposed an elite to manage the "bewildered herd". They would govern by controlling the unconscious minds of the masses and **The Engineering of Consent**: stimulating people’s inner desires and sating them with consumer products.
+The idea of immense forces (Freud's *subconscious*) hidden in plain sight terrified journalists. People no longer believed human beings could make rational decisions by themselves ∴ trust in Government/Democracy fell. Bernays proposed an elite to manage the "bewildered herd". They would govern by controlling the unconscious minds of the masses and **The Engineering of Consent**: stimulating people’s inner desires and sating them with consumer products.
 
 **1928**: Hoover in power. He articulated that *consumerism* was the central motor of American life. He agreed people have transformed into constantly moving happiness machines, which became the key to economic progress (and also created a peaceful society).
 
@@ -30,10 +30,10 @@ The idea of immense forces ([[Freud]]'s *subconscious*) hidden in plain sight te
 
 **Oct 29, 1929**: While commemorating the 50th anniversary of the lightbulb, the US elite at the time (Hoover, Rockefeller, Bernays, prominent bankers…) saw the biggest stock market crash in history. People lost money and stopped buying goods they didn't need, Bernays' work collapsed
 
-[[Freud]] retired. He wrote *Civilization and its Discontents*, where he argued that Civilization was created to control the animal forces inside human beings.
+Freud retired. He wrote *Civilization and its Discontents*, where he argued that Civilization was created to control the animal forces inside human beings.
 - Individual freedom was impossible. Humans could not express themselves freely so they *had* to be in control ∴ they would always be unhappy.
-- Politicians sided with [[Freud]], notably Hitler, who thought Democracy was a problem since it released selfish individualism without being able to control it. 
-  - He wanted to keep people’s desires central, but channeled in such a way as to bind the nation together. Goebbels cited [[Bernays]] as an inspiration
+- Politicians sided with Freud, notably Hitler, who thought Democracy was a problem since it released selfish individualism without being able to control it. 
+  - He wanted to keep people’s desires central, but channeled in such a way as to bind the nation together. Goebbels cited Bernays as an inspiration
 
 **1933**: Roosevelt elected. He wanted to revive the idea that Human Beings were rational and decided to involve the American Public into the decisions. 
 - **Creation of Opinion Pools**: President Approval %, Agreement on laws...
@@ -51,7 +51,7 @@ Bernays' response was to create the narrative that an Utopia would become realit
 - Painted the people’s desires as in charge of the future, not the people themselves.
 - Transformed the Public into passive consumers.
 
-**1938**: Hitler annexes Vienna. [[Freud]] leaves to London and dies a couple months later.
+**1938**: Hitler annexes Vienna. Freud leaves to London and dies a couple months later.
 
 
 ### II. the engineering of consent
@@ -59,12 +59,12 @@ the idea that by stimulating people’s inner desires and then sating them with 
 
 After WW2, 34% of all US soldiers evacuated were discharged because of mental problems. The army turned to psychoanalysis for help.
 - Breakdowns were not a direct result of combat. The stressed of combat *resurfaced repressed childhood traumas* that led to breakdowns.
-- ⤷ Proof of [[Freud]]'s Theory
+- ⤷ Proof of Freud's Theory
 
-**1946**: [[Truman]] signs the *National Mental Health Act*.
+**1946**: [Truman](https://en.wikipedia.org/wiki/Harry_S._Truman) signs the *National Mental Health Act*.
 - Mental illness was declared a national problem and the idea that psychoanalysis could change people was born.
 - **Psychoanalysis was applied to the masses**. Even applied for non-war issues: Marriage counseling, family life…
-- This made [[Anna Freud]] the leader of the Psychoanalytic Movement.
+- This made [Anna Freud](https://en.wikipedia.org/wiki/Anna_Freud) the leader of the Psychoanalytic Movement.
   - She suggested soldiers be encouraged to adapt to a good social environment to strengthen the conscious part of the mind and allow it to control the unconscious.
   - This worked on several soldiers and some kid patients of her.
 - → What was first used to create ideal citizens, would now be used to create ideal consumers.
@@ -74,7 +74,7 @@ Psychoanalysts became very influential since top politicians wanted to be psycho
 - Solution: instructions were modified so that people would need to **add an egg** before mixing.
 - Sales of Betty Crocker Cakes went up significantly.
 
-[[Bernays]] was once again one of the most powerful PR men in the US. He advised many big corporations, politicians and [Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower). After the [United Fruits & Guatemala coup d'état](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état) in 1954, [[Bernays]] proved that by appealing to the public's inner fears, you could do more that just get them to buy products.
+Bernays was once again one of the most powerful PR men in the US. He advised many big corporations, politicians and [Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower). After the [United Fruits & Guatemala coup d'état](https://en.wikipedia.org/wiki/1954_Guatemalan_coup_d%27état) in 1954, Bernays proved that by appealing to the public's inner fears, you could do more that just get them to buy products.
 
 > Is it wrong to give people what they want by bypassing their defenses?
 
@@ -84,9 +84,9 @@ PR started using celebrities (mostly represented by advertisements companies lik
 
 Anna Freud did not intend for her work to be taken this way, but accepted it. Meanwhile, the kids she treated started developing crises, alcoholism and anxiety attacks.
 - Marylin Monroe –who suffered despair and addiction to alcohol and drugs– started treatments based on Anna Freud’s ideas of environment. Despite all efforts, Monroe commits suicide. This lead to a **wave of skeptisism about psychoanalysis.**
-- Then, of the kids she treated went back to London for a session and committed suicied it [[Anna Freud]]'s own house. This strong statement terminated the political power and influence of Freudian psychoanalysts. They now found themselves accused of having helped to create a repressive form of social control.
+- Then, of the kids she treated went back to London for a session and committed suicied it Anna Freud's own house. This strong statement terminated the political power and influence of Freudian psychoanalysts. They now found themselves accused of having helped to create a repressive form of social control.
 
-**1953**: USSR's first nuclear bomb. The US worried about reassuring population and hired [[Bernays]] to orchestrate an attack on Communism, shape US citizens’ fears and help politicians win the Cold War.
+**1953**: USSR's first nuclear bomb. The US worried about reassuring population and hired Bernays to orchestrate an attack on Communism, shape US citizens’ fears and help politicians win the Cold War.
 
 
 ### III. there is a policeman inside all our heads, he must be destroyed
@@ -94,7 +94,7 @@ Student Unions started to denounce consumerism & corporate America was a way of 
 
 > There is a Policeman inside all our heads, he must be destroyed
 
-[[Freud]] described an uncontrolled raging inferno of emotions. [Reich](https://en.wikipedia.org/wiki/Wilhelm_Reich) complemented his ideas by stating that such range of emotion is a result of not allowing the original impulse to express itself.
+Freud described an uncontrolled raging inferno of emotions. [Reich](https://en.wikipedia.org/wiki/Wilhelm_Reich) complemented his ideas by stating that such range of emotion is a result of not allowing the original impulse to express itself.
 - **1950s**: New therapy → express feelings openly ([Reich](https://en.wikipedia.org/wiki/Wilhelm_Reich))
 - Reich’s ideas were used to create a new self and ∴ a new society
 
@@ -111,10 +111,10 @@ But **individuality meant variety**, and this didn't work in corporate America w
 - They invented the term *"lifestyles"* to **categorize individualism and people by psychological drives and desires, not social classes.**
 - Much more insightful than previously though: they could **determine what politicians people would vote for.**
 
-[[Reagan]] runs for President campaigning on *individualism* and attacking 50 years of government interference in people’s lives. 
+[Reagan](https://en.wikipedia.org/wiki/Ronald_Reagan) runs for President campaigning on *individualism* and attacking 50 years of government interference in people’s lives. 
 - It seemed inconceivable that young people, self-actualizing individuals (anti-corporations) and socially aware people would vote conservative, but Reagan's message of individual freedom appealed to them and his policies pooled well despite negative reaction from the media.
 
-**1981**: [[Reagan]] elected. Demographics showed most of his voters were young people with no pattern of social classes, ages, sex or party.
+**1981**: [Reagan](https://en.wikipedia.org/wiki/Ronald_Reagan) elected. Demographics showed most of his voters were young people with no pattern of social classes, ages, sex or party.
 
 From a limited range of mass produced goods that people would buy to multiple ranges of products that allow people to express their individuality, based on their *lifestyles*. A generation who once rebelled against conformity imposted by consumerism now embraced it: it helped them to be themselves.
 
@@ -130,13 +130,13 @@ While the liberation of the self freed people from social constraints, it also m
 
 New idea now dominates society: Satisfaction of individual feelings and desires is our highest priority.
 
-**1992**: Clinton elected.
+**1992**: [Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) elected.
 - He campaigned using extreme pooling and decided to **base his policies on focus groups' results**. His team designed every policy, word and image of his campaign to fit what people wanted. His main promise was to lower taxes (most popular in pools).
 - After winning the election, he realizes the US Deficit was way higher than previously thought ($300B) and decides to drop tax cuts promises.
 - People felt betrayed → Republicans promised tax cuts and won congress in the midterms.
 
 This was a disaster for Clinton who decided to **forget ideologies and turn politics into consumer business**: instead of trying to move people, he saw what people wanted and moved himself into that arena.
-- Clinton used [[Freud]]’s ideas to categorize swing voters by personality traits and ways to make these voters feel safer in their current lifestyles.
+- Clinton used Freud’s ideas to categorize swing voters by personality traits and ways to make these voters feel safer in their current lifestyles.
 - He starts campaigning by dropping all traditional policies and focusing exclusively on swing voter-issues (phones in school buses, vCards).
 - Tiny details of people’s day-to-day lives (seatbelts, public smoking, TV ratings…) became key to winning power.
 - His team kept pooling all policies; *"suburban voters pretty much created Clinton’s domestic policy."*

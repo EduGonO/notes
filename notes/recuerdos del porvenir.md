@@ -1,6 +1,6 @@
 # recuerdos del porvenir
 
-- [Elena Garro](https://es.wikipedia.org/wiki/Los_recuerdos_del_porvenir), 1963  `15-09-2020·16-11-2020`
+- [elena garro](https://es.wikipedia.org/wiki/Los_recuerdos_del_porvenir), 1963  `15-09-2020·16-11-2020`
 
 ![image](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_55561/0f80d8e7-f1f4-4ba4-9bcf-322b0cf3f789.jpg)
 
@@ -13,6 +13,8 @@
 - «Algún día recordaremos, recordaremos», se decía con la seguridad de que el origen de la fiesta, como todos los gestos del hombre, existía intacto en el tiempo y que bastaba un esfuerzo, un querer ver, para leer en el tiempo la historia del tiempo.
 - Los días se convierten en el mismo día, los actos en el mismo acto y las personas en un solo personaje inútil. El mundo pierde su variedad, la luz se aniquila y los mil agros quedan abolidos. La inercia de esos días repetidos me guardaba quieto, contemplando la fuga inútil de mis horas y esperando el milagro que se obstinaba en no producirse. El porvenir era la repetición del pasado. Inmóvil, me dejaba devorar por la sed que roía mis esquinas.
 - Buscaron algo impreciso, algo a lo que no lograban darle forma y que necesitaban para cruzar los innumerables días que se extendían ante ellos como un enorme paisaje de periódicos viejos, en cuyas hojas se mezclan con grosería los crímenes, las bodas, los anuncios, todo revuelto, sin relieve, como hechos vaciados de sentido, fuera del tiempo, sin memoria.
+
+⠀ ⠀  
 
 **sobre [[mexico]]**
 - Los pistoleros eran la nueva clase surgida del matrimonio de la Revolución traidora con el porfirismo.

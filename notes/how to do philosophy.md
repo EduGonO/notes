@@ -1,6 +1,6 @@
 # how to do philosophy
 
-- paul graham, 20
+- [paul graham](http://www.paulgraham.com/philosophy.html), 2007
 
 *Words break if you push them too hard.*
 

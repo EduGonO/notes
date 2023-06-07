@@ -1,6 +1,6 @@
 # hitchcock vs hitchcock
 
-- [André Bazin](https://the.hitchcock.zone/wiki/Cahiers_du_cin%C3%A9ma_(1954)_-_Hitchcock_contre_Hitchcock), 1954
+- [andré bazin](https://the.hitchcock.zone/wiki/Cahiers_du_cin%C3%A9ma_(1954)_-_Hitchcock_contre_Hitchcock), 1954
 
 - ---
 
@@ -12,7 +12,7 @@
 - This is particularly true of the **American cinema** in which you often find **quasi-anonymous successes whose merit reflects, not on the director, but on the production system.**
 - Paul Feyder, French first assistant on the film [To Catch a Thief], presented me to Hitchcock. Our conversation lasted fifty or sixty minutes (there were retakes) **during which time Hitchcock did no more than throw one or two quick glances at what was going on.**
     - In the course of that first interview I had time to pose nearly all of the questions I had had in mind, but the answers had been so disconcerting that, full of caution, I decided to use a counterinterrogation as a control for some of the most delicate points.
-    - Hitchcock himself insisted that half the film's action should be silent because the journalist cannot be expected to hear his neighbors at the distance he sees them. Thus the director had to resort to the guile of "pure cinema" which he adored. In general, **dialogue is a nuisance to him because it restricts cinematographic expression, **and he reproaches several of his films for this restriction.
+    - Hitchcock himself insisted that half the film's action should be silent because the journalist cannot be expected to hear his neighbors at the distance he sees them. Thus the director had to resort to the guile of "pure cinema" which he adored. In general, **dialogue is a nuisance to him because it restricts cinematographic expression,** and he reproaches several of his films for this restriction.
 - At this point I did not abandon the point of my original inquiry by taking up the fallacious opposition of form and content. What Hitchcock calls "means" may be, perhaps, only a more indirect (and more unconscious) manner of following, if not a subject, at least a theme. **I insisted, therefore, on the unity of his work, and he agreed with me in a negative way.** All he demands of a scenario is that it go his "way."
     - What I wanted was the exact definition of this "way." Without hesitation, Hitchcock spoke of a certain relationship between drama and comedy. The only films that may be taken as "pure Hitchcock" (sic) are those in which he has been able to play with this discordant relationship.
         - I risk the word "humor." Hitchcock accepts it;

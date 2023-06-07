@@ -1,17 +1,14 @@
 # to firmly drive common prosperity
 
-- [Xi Jinping](http://www.qstheory.cn/dukan/qs/2021-10/15/c_1127959365.htm), 2021  `15-09-2020·16-11-2020`
-
-- [translation](https://www.neican.org/p/to-firmly-drive-common-prosperity)
+- [Xi Jinping](http://www.qstheory.cn/dukan/qs/2021-10/15/c_1127959365.htm), 2021  `15-09-2020·16-11-2020` ([translation](https://www.neican.org/p/to-firmly-drive-common-prosperity))
 
 ![image]()
 
 - ---
 
-On Friday (October 15), the CCP’s flagship journal, Qiushi, published an article by Xi Jinping titled To Firmly Drive Common Prosperity. This article is based on Xi’s speech at the 10th meeting of the Central Financial and Economic Affairs Commission on August 17. That meeting propelled the common prosperity concept onto the stage.
-By now you may already be familiar with the broad contours of common prosperity. Simply put, it is an overarching program that aims to promote socioeconomic equality while reinforcing party legitimacy and control.
-Pools of ink will be spilled on this by smart people in the coming weeks, so the best thing I can do right now is to implore you to read Xi’s article (translated below).
-This is by far the most authoritative and detailed articulation of common prosperity we have up to this point. Indeed, it tells us much about the direction in which Xi wants to take China.
+Xi’s speech at the 10th meeting of the Central Financial and Economic Affairs Commission (Aug 2021) propelled the *common prosperity* concept onto the stage.
+an overarching program that aims to promote socioeconomic equality while reinforcing party legitimacy and control.
+This is by far the most authoritative and detailed articulation of *common prosperity* we have up to this point, it tells us much about the direction in which Xi wants to take China.
 
 
 #### intro

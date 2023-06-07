@@ -1,6 +1,6 @@
 # people aren't meant to talk this much
 
-- [Ian Bogost](https://www.theatlantic.com/technology/archive/2021/10/fix-facebook-making-it-more-like-google/620456/), 2021
+- [ian bogost](https://www.theatlantic.com/technology/archive/2021/10/fix-facebook-making-it-more-like-google/620456/), 2021
 
 - ---
 
