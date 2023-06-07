@@ -82,7 +82,7 @@ some notes i've taken on different topics over the years
 >   – kazuo ishiguro, nobel acceptance speech
 
  
-⠀ ⠀ 
+⠀ ⠀  
 ⠀ ⠀ 
 ---
 
