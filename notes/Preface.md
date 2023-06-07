@@ -4,6 +4,7 @@
 
 some notes i've taken on different topics over the years
 
+
 - ---
 
 ⠀  
@@ -78,8 +79,8 @@ some notes i've taken on different topics over the years
 	- *yoko ono, clock piece*
 
 
-> in the end, stories are about one person saying to another: "this is the way it feels to me. can you understand what i'm saying? does it feel this way to you too?"  
->   – kazuo ishiguro, nobel acceptance speech
+- *"in the end, stories are about one person saying to another: this is the way it feels to me. can you understand what i'm saying? does it feel this way to you too?"*  
+    - kazuo ishiguro, nobel acceptance speech
 
  
 ⠀ ⠀  

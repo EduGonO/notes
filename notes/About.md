@@ -13,6 +13,7 @@ works under *writing* are of my own, my notes a mix of thoughts with quotes from
 - [[after cinema]]
 - [[on cinema]]
 
+
 ### notes
 - **books**
     - [[recuerdos del porvenir]], elena garro
