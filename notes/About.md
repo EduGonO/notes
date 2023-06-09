@@ -1,11 +1,15 @@
 # notes
-
-these are some notes I've written on different topics over time. 
-
-they're mostly for myself, but in the spirit of [working with garage doors open](), i've published them and open sourced this website. much of the code is forked from the work of people at [reflect](https://github.com/team-reflect/beginning-of-infinity) but I've also added some. 
-works under *writing* are of my own, my notes a mix of thoughts with quotes from the artwork subject of the note.
+ 
+- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
 
 ⠀ ⠀  
+
+some notes i've taken on different topics over the years.
+
+ 
+⠀ ⠀ 
+
+⠀  
 
 ## own writing
 - [[after cinema]]
@@ -54,6 +58,8 @@ works under *writing* are of my own, my notes a mix of thoughts with quotes from
 
 ⠀ 
 
+⠀ ⠀ 
+
 ⠀ 
 
 #### symbols
@@ -71,11 +77,17 @@ works under *writing* are of my own, my notes a mix of thoughts with quotes from
 
 ⠀ 
 
+⠀ ⠀ 
 
 
+
+this is a collection of notes that i've written over time, mostly for myself. in the spirit of [working with garage doors open](), i've published them and open sourced this website. much of the code is forked from the work of people at [reflect](https://github.com/team-reflect/beginning-of-infinity) but I've added some of my own. 
+works under *writing* are original, my notes a mix of thoughts with quotes from the artwork subject of the note.
 
 ⠀ ⠀ 
+
 ⠀ ⠀ 
-- May 31 - 5:20 am
-- June 1 - 3:20am
+
+⠀ ⠀ 
+
 
