@@ -1,11 +1,10 @@
-[about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
-
-- ---
-
 # notes
  
 some notes i've taken on different topics over the years
 
+- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
+ 
+⠀ ⠀ 
 
 ⠀  
 
@@ -48,6 +47,8 @@ some notes i've taken on different topics over the years
 
 ⠀ ⠀ 
  
+⠀ ⠀  
+
 ⠀ ⠀ 
 
 writing keeps ideas in space  
@@ -97,48 +98,58 @@ the rest of the world
 ⠀ ⠀ 
 ### quotes i like
 
-*the limits of my language are the limits of my world.*
+*"the limits of my language are the limits of my world."*
 
 - ludwig wittgenstein
-
+ 
+⠀ ⠀ 
 
 *«algún día recordaremos, recordaremos», se decía con la seguridad de que el origen de la fiesta, como todos los gestos del hombre, existía intacto en el tiempo y que bastaba un esfuerzo, un querer ver, para leer en el tiempo la historia del tiempo.*
 
 - elena garro, [[recuerdos del porvenir]]
+ 
+⠀ ⠀ 
 
-
-*the reason you can't look at a photograph for a long time is because there's virtually no time in it—the imbalance between the two experiences the first and second lookings, is too extreme.*
+*"the reason you can't look at a photograph for a long time is because there's virtually no time in it—the imbalance between the two experiences the first and second lookings, is too extreme."*
 - david hockney, true to life
+ 
+⠀ ⠀ 
 
-
-*"All of us had been trained by Kelly Johnson and believed fanatically in his insistence that an airplane that looked beautiful would fly the same way."*
-
+*"all of us believed fanatically that an airplane that looked beautiful would fly the same way."*
 - ben rich, skunk works
-
+ 
+⠀ ⠀ 
 
 *"we look at the world once, in childhood.*  
 *the rest is memory."*
 - louise glück, *nosotros, meadowlands*
-
+ 
+⠀ ⠀ 
 
 *"my pencil and I are more clever than I."*
 - albert einstein
-
+ 
+⠀ ⠀ 
 
 *"high-level sciences enable us to understand emergent phenomena, of which the most important are, life, thought and computation."*
 - david deutsch
-
+ 
+⠀ ⠀ 
 
 "steal all the clocks and watches  
-in the world.  
-Destroy them."  
-- yoko ono, clock piece
 
+in the world.  
+
+Destroy them."  
+
+- yoko ono, clock piece
+ 
+⠀ ⠀ 
 
 *"in the end, stories are about one person saying to another: this is the way it feels to me. can you understand what i'm saying? does it feel this way to you too?"*  
 - kazuo ishiguro, nobel acceptance speech
 
  
 ⠀ ⠀  
-⠀ ⠀ 
 
+⠀ ⠀ 
