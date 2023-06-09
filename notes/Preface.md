@@ -1,16 +1,19 @@
 # notes
  
+- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
+
+⠀ ⠀  
+
 some notes i've taken on different topics over the years
 
-- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
  
 ⠀ ⠀ 
 
 ⠀  
 
 ### own writing
-- [[after cinema]] June 2023
-- [[on cinema]] Oct 2022
+- [[after cinema]], june 2023
+- [[on cinema]], oct 2022
 
 ⠀⠀ 
 
@@ -25,17 +28,15 @@ some notes i've taken on different topics over the years
 - [[amor en los tiempos del colera]], gabriel garcía márquez
 
 **articles**
-- [[aristotle invented the computer]], chris dixon
-- [[to firmly drive common prosperity]], xi jinping
-- [[people aren't meant to talk this much]], ian bogost
-- [[how the enlightment ends]], henry kissinger
-
-**philosophy**
-- [[discrete image]], bernard stielger
 - [[paragraphs on conceptual art]], sol lewitt
+- [[discrete image]], bernard stielger
 - [[how to do philosophy]], paul graham
-- [[taste and design]], paul graham
-- [[the question concerning technology]], martin heidegger
+- [[taste and design]], paul graham  
+- [[aristotle invented the computer]], chris dixon  
+- [[to firmly drive common prosperity]], xi jinping
+- [[how the enlightment ends]], henry kissinger
+- [[the question concerning technology]], martin heidegger 
+- [[people aren't meant to talk this much]], ian bogost
 
 **film**
 - [[century of the self]], adam curtis
@@ -63,21 +64,6 @@ and music to decorate time
 ⠀ ⠀ 
  
 As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.
- 
-⠀ ⠀ 
-⠀ ⠀ 
- 
-unconscious time, no peace of mind,  
-
-falling in space but still alive.  
-
-sketching the future in a single line,  
-
-everything's spinning, cannot sit down.  
-
-moments in space, places in time,  
-
-thoughts penciled in, now come to life.
  
 ⠀ ⠀ 
 ⠀ ⠀ 
@@ -120,8 +106,9 @@ the rest of the world
  
 ⠀ ⠀ 
 
-*"we look at the world once, in childhood.*  
-*the rest is memory."*
+*we look at the world once, in childhood.*  
+
+*the rest is memory.*
 - louise glück, *nosotros, meadowlands*
  
 ⠀ ⠀ 
@@ -136,11 +123,11 @@ the rest of the world
  
 ⠀ ⠀ 
 
-"steal all the clocks and watches  
+*steal all the clocks and watches*  
 
-in the world.  
+*in the world.*  
 
-Destroy them."  
+*destroy them.*  
 
 - yoko ono, clock piece
  

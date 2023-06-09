@@ -8,7 +8,7 @@ notes on *[The Century of the Self](https://letterboxd.com/film/the-century-of-t
 ### I. happiness machines
 [Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)'s nephew, [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays) was the first person to take his ideas and use them to manipulate the masses. He did this by linking mass produced goods to unconscious desires. Satisfy passive desires and therefore make people more compliant. this is when *public relations* was created, replacing *propaganda* which had become a bad word ≈WW2.
 
-1st experiment: **make women smoke**
+1st experiment: *make women smoke*
 - amidst feminist movements, connect women to an image of challenging men.
 - If a women smokes, she is tougher and more independent
 - 📍 NY Easter Day Parade, rich women light cigarettes publicly.
@@ -108,7 +108,7 @@ But **individuality meant variety**, and this didn't work in corporate America w
 - New ideology: only the individual matters, ∄ societal concern –*It's not selfish to only care about fulfilling your life.*
 
 **1970s**: Corporations decide to *profit by helping individuals express themselves.* Researchers (mainly the Stanford Research Institute) discovered that people could be defined by different behavior patterns they chose to express themselves: **self-expression was not infinite**.
-- They invented the term *"lifestyles"* to **categorize individualism and people by psychological drives and desires, not social classes.**
+- They invented the term *"lifestyles"* to *categorize individualism and people by psychological drives and desires, not social classes.*
 - Much more insightful than previously though: they could **determine what politicians people would vote for.**
 
 [Reagan](https://en.wikipedia.org/wiki/Ronald_Reagan) runs for President campaigning on *individualism* and attacking 50 years of government interference in people’s lives. 
