@@ -1,6 +1,6 @@
 # notes
  
-- [about](https://edugon.studio/things) · [contact](mailto:e@edugon.studio)
+- [about](https://edugon.studio/) · [contact](mailto:e@edugon.studio)
 
 ⠀ ⠀  
 
