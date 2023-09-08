@@ -12,7 +12,9 @@
 - Premodern games (chess) assumed a stagnant economy → you never finish a game with more than you started, no thinking about investment. Modern board/computer games revolve around growth.
 - *"Enshrined in celluloid, prose or poetry, the feelings of the ordinary grunt have become the ultimate authority on war, which everyone has learned to respect."*
 
+⠀ ⠀ 
 
+⠀ ⠀ 
 
 - history
 	- Famine+malnutrition cause ≈ 1m deaths, Obesity = 3m.
@@ -33,7 +35,8 @@
 	- If I am indeed the master of my thoughts/decisions, can I decide not to think about anything for the next 60s?
 	- Sapiens can cooperate in very flexible ways with countless numbers of strangers. This concrete capability explains our mastery of planet Earth. (>soul, consciousness)
 
-- immense advance in computing power over the last decades, but zero advance in computer consciousness.
+- sapiens+computers
+	- immense advance in computing power over the last decades, but zero advance in computer consciousness.
 	- Intelligence was linked with consciousness until recently and debating their relative value was just a pastime for philosophers, but this is now becoming an urgent political and economic issue.
 	- This trend is fueled more by biologists than engineers.
 		- Once they concluded organisms==algorithms, they wall of organic/inorganic fell and authority shifted from individual humans to networked algorithms.
@@ -64,7 +67,7 @@
 		- Yet in truth the lives of most people have meaning only within the network of stories they tell one another.
 	- Catholic Church was responsible for important economic/technological innovations
 		- Established medical Eurpoe's administrative system and pioneered the use of archives, catalogues, timetables and techniques of data processing. Vatican was the closest thing to SV in 12th C. Europe.
-		- Established Europe's first economic corporations: monasteries, which introduced advanced agricultural/administrative methods and **clocks**. Helped found many of Europe's first universities (Bologna, Oxford, Salamanca). (→[[tiempo]])
+		- Established Europe's first economic corporations: monasteries, which introduced advanced agricultural/administrative methods and **clocks**. Helped found many of Europe's first universities (Bologna, Oxford, Salamanca). (→ [[tiempo]])
 		- Catholicism and other theist religions have turned from a creative to a reactive force, agonizing instead of pioneering novel technologies: Contraceptive pill, Internet, Feminism.
 	- In the 18th century, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the 21st century, Dataism may sideline humans by shifting from a homo-centric to a data-centric world view (idea that *'organisms are algorithms'*).
 		- All truly important revolutions are practical: The humanist idea that ‘humans invented God’ was significant because it had far-reaching practical implications.
