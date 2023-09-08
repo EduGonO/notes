@@ -27,6 +27,8 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[laberinto de la soledad]], octavio paz
 - [[hitchhicker's guide to the galaxy]], douglas adams
 - [[amor en los tiempos del colera]], gabriel garcía márquez
+- [[homo deus]], yuval noah harari
+- [[salvar el fuego]], guillermo arriaga
 
 **articles**
 - [[paragraphs on conceptual art]], sol lewitt
