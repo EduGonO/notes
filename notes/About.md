@@ -4,7 +4,7 @@
 
 ⠀ ⠀  
 
-this is a collection of notes that i've written over time, mostly for myself. in the spirit of [working with garage doors open](), i've published them and open sourced this website. much of the code is forked from the work of people at [reflect](https://github.com/team-reflect/beginning-of-infinity) with some of my own. 
+this is a collection of notes that i've written over time, mostly for myself. in the spirit of [working with garage doors open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu), i've published them and [open sourced](https://github.com/EduGonO/notes) this website.
 works under *writing* are original, my notes a mix of thoughts with quotes from the artwork subject of the note.
 
  
