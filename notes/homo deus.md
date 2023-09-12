@@ -2,6 +2,7 @@
 
 - notes on yuval noah harari's [homo deus](https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow), (2016).
 
+
 - ---
 
 > History is often shaped by small groups of forward-looking innovators rather than by the backward-looking masses.
@@ -12,9 +13,7 @@
 
 ⠀ ⠀ 
 
-⠀ ⠀ 
-
-### history
+#### history
 - Famine+malnutrition cause ≈ 1m deaths, Obesity = 3m.
 - **Material**-based Economy → **Knowledge**-based Economy.
 	- Profitability of war declined and became restricted to parts of the world where economies are still material-based.
@@ -24,7 +23,7 @@
 	- In 1850, >90% of humans were peasants peasants unaware of the Industrial Revolution being shaped by a handful of engineers, politicians and financiers in Manchester and Birmingham.
 	- Steam engines, railroads and telegraphs transformed the production of food, textiles, vehicles and weapons. Industrial powers got a decisive edge over traditional agricultural societies.
 
-### sapiens
+#### sapiens
 - How is it, then, that when billions of electric signals move around in my brain, a mind emerges that feels ‘I am furious!’? As of 2016, we have absolutely no idea.
 	- Consciousness may be a kind of mental pollution produced by the firing of complex neural networks.
 	- It doesn’t do anything. It is just there.
@@ -33,7 +32,7 @@
 - If I am indeed the master of my thoughts/decisions, can I decide not to think about anything for the next 60s?
 - Sapiens can cooperate in very flexible ways with countless numbers of strangers. This concrete capability explains our mastery of planet Earth. (>soul, consciousness)
 
-### sapiens+computers
+#### sapiens+computers
 - immense advance in computing power over the last decades, but zero advance in computer consciousness.
 - Intelligence was linked with consciousness until recently and debating their relative value was just a pastime for philosophers, but this is now becoming an urgent political and economic issue.
 - This trend is fueled more by biologists than engineers.
@@ -47,19 +46,19 @@
 - Homo sapiens is likely to upgrade itself step by step, merging with computers until our descendants will look back and realize that they are *no longer the kind of animal that wrote the Bible...*
 - Once technology enables us to re-engineer human minds, Homo sapiens will disappear.
 
-### progress
+#### progress
 - technology, biotechnology and algorithms > steam, telegraphy
 - main products will not be food/textiles/vehicles/weapons but bodies/brains/minds.
 - bigger gap than Dickens' Britain and Mahdi's Sudan, Sapiens and Neanderthals.
 - The electromagnetic spectrum in its entirety is about 10 trillion times larger than that of human-visible light. Might the mental spectrum be equally vast?
 
-### philo
+#### philo
 - *"So even while saying that I believe in God, the truth is I have a much stronger belief in my own inner voice."* –Nietzsche
 - Humankind explored Liberalism in the 20th Century, gaining antibiotics, nuclear energy, computers, feminism, de-colonialism and free sex.
 - Liberalism has adopted ideas and institutions from socialism and fascism, notably providing the public with education, health and welfare. It still considers individual liberties > all and has a firm belief in the voter and consumer.
 - 2 practical threats: humans will lose their individual value AND authority completely, managed by external algorithms. The system will know you better and make choices for you, and you will be happy. It's not necessarily bad, but post-liberal world.
 
-### religion
+#### religion
 - Most people are happy to acknowledge that ancient Greek gods exist only in the imagination. Yet we don’t want to accept that our God, our nation or our values are mere fictions, because these are the things that give meaning to our lives.
 	- ∴ We want to believe that our lives have some objective meaning, and that our sacrifices matter to something beyond the stories in our head.
 	- Yet in truth the lives of most people have meaning only within the network of stories they tell one another.

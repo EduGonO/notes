@@ -13,7 +13,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 ⠀  
 
 ### own writing
-- [[after cinema]], june 2023
+- [[after cinema]], aug 2023
 - [[on cinema]], oct 2022
 
 ⠀⠀ 
@@ -174,4 +174,18 @@ the rest of the world
 - ∉ (does not belong to)
 - ⫫ (independent from)
 - ∵ (because)
+
+
+⠀ 
+
+#### symbols
+- ∴ (therefore)
+- → (if then)
+- ↔ (if and only if)
+- ⤷ (consequence of)
+- ≔ (definition)
+- ⫫ (independent from)
+- ∵ (because)
+- ∃, ∄ (there exists)
+- ∈, ∉ (belongs to)
 
