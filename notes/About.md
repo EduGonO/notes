@@ -130,8 +130,6 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 ⠀ ⠀ 
 
 
-
-
 writing keeps ideas in space  
 
 speech lets them travel in time  
@@ -164,28 +162,12 @@ the rest of the world
 
 #### symbols
 - ∴ (therefore)
-- ∃ (there exists)
-- ∄ (there doesn’t exist)
-- → (if then)
-- ⤷ (footnote)
-- ≔ (definition)
-- ↔ (if and only if)
-- ∈ (belongs to)
-- ∉ (does not belong to)
-- ⫫ (independent from)
-- ∵ (because)
-
-
-⠀ 
-
-#### symbols
-- ∴ (therefore)
 - → (if then)
 - ↔ (if and only if)
 - ⤷ (consequence of)
 - ≔ (definition)
 - ⫫ (independent from)
 - ∵ (because)
-- ∃, ∄ (there exists)
-- ∈, ∉ (belongs to)
+- ∃, ∄ (there exists/does not exist)
+- ∈, ∉ (belongs to/does not belong to)
 
