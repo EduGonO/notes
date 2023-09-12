@@ -8,6 +8,7 @@ interface Props {
 }
 
 export const NoteLinks: React.FC<Props> = ({note, onClickBacklink}) => {
+  console.log('Linked From Notes:', note.linkedFromNotes);
   if (!note.linkedFromNotes?.length) return null
 
   return (
@@ -29,7 +30,7 @@ export const NoteLinks: React.FC<Props> = ({note, onClickBacklink}) => {
               size="sm"
               style={{
                 display: 'box',
-                lineClamp: 3,
+                lineClamp: 4,
                 boxOrient: 'vertical',
                 overflow: 'hidden',
               }}
