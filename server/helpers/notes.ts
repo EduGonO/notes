@@ -55,7 +55,7 @@ const noteToNotePreview = (note: Note): NotePreview => {
   return {
     path: note.path,
     title: note.title,
-    snippet: markdownToSnippet(note.markdown),
+    snippet: markdownToSnippet(note.markdown, name),
   }
 }
 
