@@ -68,11 +68,11 @@ export const getHydratedNote = async (name: string): Promise<Note | null> => {
   const linkedFromNotes = allNotes
     .filter((n) => n !== note && n.path !== NOTE_INDEX_NAME)
     .filter((n) => n.markdown.includes(`[[${name}]]`))
-    .map((otherNote) => {
+    .map((n) => {
       return {
-        path: otherNote.path,
-        title: otherNote.title,
-        snippet: markdownToSnippet(otherNote.markdown, name),
+        path: n.path,
+        title: n.title,
+        snippet: markdownToSnippet(n.markdown, name),
       };
     });
 
