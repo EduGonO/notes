@@ -59,7 +59,7 @@ const noteToNotePreview = (note: Note): NotePreview => {
   }
 }
 
-const getHydratedNote = async (name: string): Promise<Note | null> => {
+export const getHydratedNote = async (name: string): Promise<Note | null> => {
   const allNotes = await getNotes();
   const note = allNotes.find((n) => n.path === name);
 
