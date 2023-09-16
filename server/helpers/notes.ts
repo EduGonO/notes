@@ -73,6 +73,35 @@ export const getHydratedNote = async (name: string): Promise<Note | null> => {
   };
 };
 
+
+
+
+const markdownToSnippet = (markdown: string, name: string): string => {
+  const regex = new RegExp(`\\[\\[${name}\\]\\]`);
+  const lines = markdown.split('\n');
+  const matchingLines = [];
+
+  for (let line of lines) {
+    if (regex.test(line)) {
+      matchingLines.push(line);
+    }
+  }
+
+  if (matchingLines.length > 0) {
+    return matchingLines.join('\n'); // or .join('\n') if you prefer newlines between each
+  }
+
+  // Fallback to the first two lines if no reference is found
+  return markdown
+    .split('\n')
+    .filter((l) => l.trim())
+    .slice(0, 2)
+    .join(' ');
+};
+
+
+
+/* working goood first match
 const markdownToSnippet = (markdown: string, name: string): string => {
   const regex = new RegExp(`\\[\\[${name}\\]\\]`);
   const paragraphs = markdown.split('\n'); // Assuming paragraphs are separated by two new lines
@@ -89,7 +118,7 @@ const markdownToSnippet = (markdown: string, name: string): string => {
     .slice(0, 2)
     .join(' ');
 };
-
+*/
 
 
 
