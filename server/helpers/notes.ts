@@ -38,7 +38,7 @@ const readNote = async (name: string): Promise<Note> => {
 
 
 const markdownToSnippet = (markdown: string): string => {
-  const regex = new RegExp(`\\[\\[${name}\\]\\]`);
+  const regex = new RegExp(`\\[\\[${escapedName}\\]\\]`);
   const paragraphs = markdown.split('\n\n');  // Assumes that paragraphs are separated by two newlines
   for (let para of paragraphs) {
     if (regex.test(para)) {
