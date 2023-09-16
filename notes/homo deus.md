@@ -62,10 +62,14 @@
 - Most people are happy to acknowledge that ancient Greek gods exist only in the imagination. Yet we don’t want to accept that our God, our nation or our values are mere fictions, because these are the things that give meaning to our lives.
 	- ∴ We want to believe that our lives have some objective meaning, and that our sacrifices matter to something beyond the stories in our head.
 	- Yet in truth the lives of most people have meaning only within the network of stories they tell one another.
+
 - Catholic Church was responsible for important economic/technological innovations
 	- Established medical Eurpoe's administrative system and pioneered the use of archives, catalogues, timetables and techniques of data processing. Vatican was the closest thing to SV in 12th C. Europe.
+	
 	- Established Europe's first economic corporations: monasteries, which introduced advanced agricultural/administrative methods and **clocks**. Helped found many of Europe's first universities (Bologna, Oxford, Salamanca). (→ [[tiempo]])
+	
 	- Catholicism and other theist religions have turned from a creative to a reactive force, agonizing instead of pioneering novel technologies: Contraceptive pill, Internet, Feminism.
+
 - In the 18th century, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the 21st century, Dataism may sideline humans by shifting from a homo-centric to a data-centric world view (idea that *'organisms are algorithms'*).
 	- All truly important revolutions are practical: The humanist idea that ‘humans invented God’ was significant because it had far-reaching practical implications.
 	- Ideas change the world only when they change our behaviour.
