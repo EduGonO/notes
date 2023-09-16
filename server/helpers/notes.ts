@@ -28,13 +28,33 @@ const readNote = async (name: string): Promise<Note> => {
   return {
     path: name,
     title: attributes?.title || name,
-    snippet: attributes?.snippet || markdownToSnippet(body, name),
+    snippet: attributes?.snippet || markdownToSnippet(body),
     markdown: body,
     linkedFromNotes: [],
   }
 }
 
 
+
+
+const markdownToSnippet = (markdown: string): string => {
+  const regex = new RegExp("\\[\\[.*?\\]\\]", "g");
+  const paragraphs = markdown.split('\n\n');  // Assumes that paragraphs are separated by two newlines
+  for (let para of paragraphs) {
+    if (regex.test(para)) {
+      return para;
+    }
+  }
+  return markdown
+    .replace(/^#.+/g, '')
+    .split('\n')
+    .filter((l) => l.trim())
+    .slice(0, 2)
+    .join(' ');
+}
+
+
+/*
 const markdownToSnippet = (markdown: string): string => {
   return markdown
     .replace(/^#.+/g, '')
@@ -44,7 +64,7 @@ const markdownToSnippet = (markdown: string): string => {
     .join(' ')
 }
 
-/*
+
 const markdownToSnippet = (markdown: string, noteName: string): string => {
   const paragraphs = markdown.split(/\n\s*\n/);
   const foundParagraph = paragraphs.find((paragraph) => paragraph.includes(`[[${noteName}]]`));
