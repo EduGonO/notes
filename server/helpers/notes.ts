@@ -28,7 +28,7 @@ const readNote = async (name: string): Promise<Note> => {
   return {
     path: name,
     title: attributes?.title || name,
-    snippet: attributes?.snippet || markdownToSnippet(body),
+    snippet: attributes?.snippet || markdownToSnippet(body, name),
     markdown: body,
     linkedFromNotes: [],
   }
