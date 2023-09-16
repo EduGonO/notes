@@ -75,7 +75,7 @@ export const getHydratedNote = async (name: string): Promise<Note | null> => {
 
 const markdownToSnippet = (markdown: string, name: string): string => {
   const regex = new RegExp(`\\[\\[${name}\\]\\]`);
-  const paragraphs = markdown.split('\n\n'); // Assuming paragraphs are separated by two new lines
+  const paragraphs = markdown.split('\n'); // Assuming paragraphs are separated by two new lines
 
   for (let para of paragraphs) {
     if (regex.test(para)) {
