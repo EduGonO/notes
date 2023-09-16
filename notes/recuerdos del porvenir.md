@@ -6,11 +6,11 @@
 
 - ---
 
-**sobre el [[tiempo]]**
+### sobre el tiempo
 - Estoy y estuve en muchos ojos. Yo solo soy memoria y la memoria que de mí se tenga.
 - ¿De dónde llegan las fechas y a dónde van? Viajan un año entero y con la precisión de una saeta se clavan en el día señalado, nos muestran un pasado, presente en el espacio, nos deslumbran y se apagan. Se levantan puntuales de un tiempo invisible y en un instante recuperamos el fragmento de un gesto, la torre de una ciudad olvidada, las frases de los héroes disecadas en los libros o el asombro de la mañana del bautizo cuando nos dieron nombre.
 - Basta decir la magia de una cifra para entrar en un espacio inmediato que habíamos olvidado.
-- «Algún día recordaremos, recordaremos», se decía con la seguridad de que el origen de la fiesta, como todos los gestos del hombre, existía intacto en el tiempo y que bastaba un esfuerzo, un querer ver, para leer en el tiempo la historia del tiempo.
+- «Algún día recordaremos, recordaremos», se decía con la seguridad de que el origen de la fiesta, como todos los gestos del hombre, existía intacto en el tiempo y que bastaba un esfuerzo, un querer ver, para leer en el tiempo la historia del [[tiempo].
 - Los días se convierten en el mismo día, los actos en el mismo acto y las personas en un solo personaje inútil. El mundo pierde su variedad, la luz se aniquila y los mil agros quedan abolidos. La inercia de esos días repetidos me guardaba quieto, contemplando la fuga inútil de mis horas y esperando el milagro que se obstinaba en no producirse. El porvenir era la repetición del pasado. Inmóvil, me dejaba devorar por la sed que roía mis esquinas.
 - Buscaron algo impreciso, algo a lo que no lograban darle forma y que necesitaban para cruzar los innumerables días que se extendían ante ellos como un enorme paisaje de periódicos viejos, en cuyas hojas se mezclan con grosería los crímenes, las bodas, los anuncios, todo revuelto, sin relieve, como hechos vaciados de sentido, fuera del tiempo, sin memoria.
 
