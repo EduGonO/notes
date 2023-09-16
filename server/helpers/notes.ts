@@ -34,7 +34,7 @@ const readNote = async (name: string): Promise<Note> => {
   }
 }
 
-/*
+
 const markdownToSnippet = (markdown: string): string => {
   return markdown
     .replace(/^#.+/g, '')
@@ -42,23 +42,25 @@ const markdownToSnippet = (markdown: string): string => {
     .filter((l) => l.trim())
     .slice(0, 2)
     .join(' ')
-}*/
+}
 
+/*
 const markdownToSnippet = (markdown: string, noteName: string): string => {
   const paragraphs = markdown.split(/\n\s*\n/);
   const foundParagraph = paragraphs.find((paragraph) => paragraph.includes(`[[${noteName}]]`));
   return foundParagraph ? foundParagraph : "";
-}
+}*/
 
 
 const noteToNotePreview = (note: Note): NotePreview => {
   return {
     path: note.path,
     title: note.title,
-    snippet: markdownToSnippet(note.markdown, name),
+    snippet: markdownToSnippet(note.markdown),
   }
 }
 
+/*
 export const getHydratedNote = async (name: string): Promise<Note | null> => {
   const allNotes = await getNotes();
   const note = allNotes.find((n) => n.path === name);
@@ -72,7 +74,7 @@ export const getHydratedNote = async (name: string): Promise<Note | null> => {
       return {
         path: n.path,
         title: n.title,
-        snippet: markdownToSnippet(n.markdown, name),
+        snippet: markdownToSnippet(n.markdown),
       };
     });
 
@@ -80,9 +82,9 @@ export const getHydratedNote = async (name: string): Promise<Note | null> => {
     ...note,
     linkedFromNotes,
   }
-}
+}*/
 
-/*
+
 export const getHydratedNote = async (name: string): Promise<Note | null> => {
   const allNotes = await getNotes()
   const note = allNotes.find((n) => n.path === name)
@@ -98,7 +100,7 @@ export const getHydratedNote = async (name: string): Promise<Note | null> => {
     ...note,
     linkedFromNotes,
   }
-}*/
+}
 
 export const getNote = async (name: string): Promise<Note | null> => {
   try {
