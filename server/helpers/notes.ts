@@ -50,7 +50,7 @@ const readNote = async (name: string): Promise<Note> => {
   };
 };
 
-const getHydratedNote = async (name: string): Promise<Note | null> => {
+export const getHydratedNote = async (name: string): Promise<Note | null> => {
   const allNotes = await getNotes();
   const note = allNotes.find((n) => n.path === name);
   
