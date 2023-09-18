@@ -12,7 +12,7 @@ export const NoteLinks: React.FC<Props> = ({note, onClickBacklink}) => {
   if (!note.linkedFromNotes?.length) return null
 
   return (
-    <div className="bg-gray-100 rounded-md px-6 py-5">
+    <div className="bg-gray-100 rounded-md px-3 py-5">
       <h3 className="text-gray-600 text-lg font-medium">note mentions</h3>
 
       <div className="grid md:grid-cols-2 grid-cols-1 gap-3 mt-3">
@@ -20,7 +20,7 @@ export const NoteLinks: React.FC<Props> = ({note, onClickBacklink}) => {
           <div
             key={note.path}
             onClick={(event) => onClickBacklink?.(event, note.path)}
-            className="text-gray-600 cursor-pointer block space-y-2"
+            className="text-gray-600 cursor-pointer block space-y-1"
           >
             <h3 className="text-sm font-medium">{note.title}</h3>
 

@@ -15,7 +15,7 @@ export const NoteMarkdown: React.FC<Props> = ({
   markdown,
   onClickBacklink,
   style,
-  size = 'md',
+  size = 'sm',
 }) => {
   return (
     <div
@@ -83,7 +83,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
         <ul>{tokensToElements(token.items || [], options)}</ul>
       )
     case 'list_item':
-      return <li style={{marginLeft: '-10px'}}>{tokensToElements(token.tokens || [], options)}</li>
+      return <li style={{marginLeft: '0px'}}>{tokensToElements(token.tokens || [], options)}</li>
     case 'space':
       return <></>
     case 'highlight':
