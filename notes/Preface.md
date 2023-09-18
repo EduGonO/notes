@@ -1,4 +1,4 @@
-# notes
+## notes
  
 - [about](https://edugon.studio/) · [contact](mailto:e@edugon.studio)
 
@@ -20,7 +20,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 
 ### notes
 
-**books**
+#### books
 - [[desierto sonoro]], valeria luiselli
 - [[llano en llamas]], juan rulfo
 - [[recuerdos del porvenir]], elena garro
@@ -30,7 +30,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[homo deus]], yuval noah harari
 - [[salvar el fuego]], guillermo arriaga
 
-**articles**
+#### articles
 - [[paragraphs on conceptual art]], sol lewitt
 - [[discrete image]], bernard stielger
 - [[how to do philosophy]], paul graham
@@ -41,7 +41,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[the question concerning technology]], martin heidegger 
 - [[people aren't meant to talk this much]], ian bogost
 
-**film**
+#### film
 - [[century of the self]], adam curtis
 - [[hitchcock vs hitchcock]], andré bazin
 - [[why marvel movies aren't cinema]], martin scorsese
