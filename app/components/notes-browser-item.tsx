@@ -62,7 +62,7 @@ export const NotesBrowserItem: React.FC<Props> = ({
         leaveFrom="opacity-100"
         leaveTo="opacity-0"
       >
-        <div className="flex-1 flex-col px-8 py-8 space-y-8">
+        <div className="flex-1 flex-col px-6 py-8 space-y-8">
           <NoteMarkdown markdown={note.markdown} onClickBacklink={onClickBacklink} />
           <NoteLinks note={note} onClickBacklink={onClickBacklink} />
         </div>
