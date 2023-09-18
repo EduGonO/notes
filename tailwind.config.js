@@ -13,7 +13,7 @@ module.exports = {
           css: {
             h1: {
               fontSize: '1.4rem',
-              fontWeight: 500,
+              fontWeight: 600,
             },
 
             h2: {
@@ -34,7 +34,7 @@ module.exports = {
           css: {
             h1: {
               fontSize: '1.2rem',
-              fontWeight: 500,
+              fontWeight: 600,
             },
           },
         },
