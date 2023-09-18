@@ -33,7 +33,7 @@ module.exports = {
         sm: {
           css: {
             h1: {
-              fontSize: '1rem',
+              fontSize: '1.2rem',
               fontWeight: 500,
             },
           },
