@@ -29,6 +29,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[amor en los tiempos del colera]], gabriel garcía márquez
 - [[homo deus]], yuval noah harari
 - [[salvar el fuego]], guillermo arriaga
+- [[a moveable feast]], ernest hemingway
 
 #### articles
 - [[paragraphs on conceptual art]], sol lewitt
