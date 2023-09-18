@@ -6,10 +6,9 @@ notes on Bernard Stiegler's [The Discrete Image](https://en.wikipedia.org/wiki/E
 
 > life is always already cinema.
 
-⠀ 
-
 [stiegler](https://fr.wikipedia.org/wiki/Bernard_Stiegler) agrees with [derrida](https://fr.wikipedia.org/wiki/Jacques_Derrida)'s critique of the opposition of the signifier and the signified, which proposes that language is always already writing, and *in order for language to be written, it must already be a writing, a system of traces, a grammatic of discrete elements.*
 
+  
 
 image mental ∄ → image mental ≔ image object
 - ∄ image-object sans image mental,
@@ -66,15 +65,11 @@ discretization opens new artistic, theoretical and scientific knowledges of the 
 
 now there's two syntheses (spectator + camera): evolution of technical synthesis → evolution of spectatorial synthesis.
 - new image-objects will create new mental images and another intelligence of movement (not knowledge of the image but a new techno-intuitive knowledge). this will be influenced by other knowledges which opens up "la chance"
-- technology gives us the chance to look at cinema in a different way. analysis (production) and synthesis (consumption) are more connected, making cinema similar to literature. fft
-	- alphabetic writing reveals the discrete characters of language fft
+- technology gives us the chance to look at cinema in a different way. analysis (production) and synthesis (consumption) are more connected, making cinema similar to literature. [[fft]]
+	- alphabetic writing reveals the discrete characters of language
 	- reading and writing (can't do one without the other)
 	- implies the rethink of hollywood's schema of analysis/production - synthesis/consumption.
 - technology will make it possible to watch a movie analytically, ::making text and tv closer than now.::
 	- we will be able to navigate though the flow of images in a nonlinear way, with toc and indexes (like books), true hypermedia?
-
-
-⠀ 
-
 - technological synthesis is not a replica nor double, like writing is not a replication of speech.
 - life (anima, mental image) is always already cinema (animation, image object).

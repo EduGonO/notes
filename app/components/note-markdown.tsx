@@ -56,7 +56,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
     case 'text':
       return textTokenToElement(token as marked.Tokens.Text, options)
     case 'paragraph':
-      return <p style={{marginBottom: '0px', marginTop: '0px'}}>{tokensToElements(token.tokens || [], options)}</p>
+      return <p style={{marginBottom: '0px', marginTop: '2px'}}>{tokensToElements(token.tokens || [], options)}</p>
     case 'link':
       return (
         <a href={token.href} target="_blank">

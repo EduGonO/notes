@@ -171,3 +171,18 @@ the rest of the world
 - ∃, ∄ (there exists/does not exist)
 - ∈, ∉ (belongs to/does not belong to)
 
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+      
+
