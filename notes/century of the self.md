@@ -53,6 +53,7 @@ Bernays' response was to create the narrative that an Utopia would become realit
 
 **1938**: Hitler annexes Vienna. Freud leaves to London and dies a couple months later.
 
+   
 
 #### II. the engineering of consent
 the idea that by stimulating people’s inner desires and then sating them with consumer products, you can manage the irrational thoughts of the masses.
@@ -88,6 +89,7 @@ Anna Freud did not intend for her work to be taken this way, but accepted it. Me
 
 **1953**: USSR's first nuclear bomb. The US worried about reassuring population and hired Bernays to orchestrate an attack on Communism, shape US citizens’ fears and help politicians win the Cold War.
 
+   
 
 #### III. there is a policeman inside all our heads, he must be destroyed
 Student Unions started to denounce consumerism & corporate America was a way of keeping the masses docile while the government is at war. New idea: If it isn’t possible to get rid of the policeman in one’s head by overthrowing the state, then one should remove the controls implanted by the state in one’s own mind.
@@ -125,6 +127,7 @@ While the liberation of the self freed people from social constraints, it also m
 - **Triumph of the self**: Everything is now viewed though the lens of personal satisfaction.
 - Just individual people making individual choices for their individual well being. There is no society.
 
+   
 
 #### IV. eight people sipping wine in kettering
 
