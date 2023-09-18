@@ -15,7 +15,7 @@ export const NoteMarkdown: React.FC<Props> = ({
   markdown,
   onClickBacklink,
   style,
-  size = 'sm',
+  size = 'md',
 }) => {
   return (
     <div
