@@ -5,7 +5,7 @@ notes on *[The Century of the Self](https://letterboxd.com/film/the-century-of-t
 ---
 
 
-### I. happiness machines
+#### I. happiness machines
 [Freud](https://en.wikipedia.org/wiki/Sigmund_Freud)'s nephew, [Edward Bernays](https://en.wikipedia.org/wiki/Edward_Bernays) was the first person to take his ideas and use them to manipulate the masses. He did this by linking mass produced goods to unconscious desires. Satisfy passive desires and therefore make people more compliant. this is when *public relations* was created, replacing *propaganda* which had become a bad word ≈WW2.
 
 1st experiment: *make women smoke*
@@ -54,7 +54,7 @@ Bernays' response was to create the narrative that an Utopia would become realit
 **1938**: Hitler annexes Vienna. Freud leaves to London and dies a couple months later.
 
 
-### II. the engineering of consent
+#### II. the engineering of consent
 the idea that by stimulating people’s inner desires and then sating them with consumer products, you can manage the irrational thoughts of the masses.
 
 After WW2, 34% of all US soldiers evacuated were discharged because of mental problems. The army turned to psychoanalysis for help.
@@ -89,7 +89,7 @@ Anna Freud did not intend for her work to be taken this way, but accepted it. Me
 **1953**: USSR's first nuclear bomb. The US worried about reassuring population and hired Bernays to orchestrate an attack on Communism, shape US citizens’ fears and help politicians win the Cold War.
 
 
-### III. there is a policeman inside all our heads, he must be destroyed
+#### III. there is a policeman inside all our heads, he must be destroyed
 Student Unions started to denounce consumerism & corporate America was a way of keeping the masses docile while the government is at war. New idea: If it isn’t possible to get rid of the policeman in one’s head by overthrowing the state, then one should remove the controls implanted by the state in one’s own mind.
 
 > There is a Policeman inside all our heads, he must be destroyed
@@ -126,7 +126,7 @@ While the liberation of the self freed people from social constraints, it also m
 - Just individual people making individual choices for their individual well being. There is no society.
 
 
-### IV. eight people sipping wine in kettering
+#### IV. eight people sipping wine in kettering
 
 New idea now dominates society: Satisfaction of individual feelings and desires is our highest priority.
 
