@@ -12,6 +12,62 @@ title: on cinema
 
 ---
 
+### summary
+- current state of cinema is *brutal and inhospitable to art* (scorsese, 2019)
+  - industry focus on franchise film production → homogeneous, formatted cinema?
+- DVDs' disappearance → films mainly profit from ticket sales
+  - maximizing profits ≔ maximizing audiences.
+    - simple style, easy plots, few cultural references = universal accessibility
+    - ∴ repetitive, successful formula > than unique creative input.
+  - → market saturated with similar-feeling movies.
+- Streaming now an accessible alternative, but profits = time spent on service
+  - → films become ambient content for passive consumption.
+
+#### globalization strengthened the film industry, auteur cinema lost economic and cultural influence.
+- Sequels, remakes, existing material-based movies capture most profits.
+  - only 3 of top 50 grossing films of 2010s were original stories.
+- Oscar viewership and revenue from Best Picture winners has declined.
+- → Cinema ≠ dominant form of artistic expression in 21st century?
+
+#### New consumption patterns and movie-making techniques are at heart of the shift.
+- internet speed and phone camera improvements → global increase in social media's influence
+  - online media evolved from text to photos to video.
+  - rise of photo-sharing services → everyday people ∈ authors of online media.
+  - engagement tracking as likes in 2009, retweets in 2010.
+- ≈ 2014: platforms shifted to algorithm-based content presentation → birth of viralization.
+  - TikTok's success ≈ adaptation to new dynamics.
+    - app design allows personalized content curation with every interaction.
+    - viral reach from algorithm selection → no need for status, fame, followers or friends.
+- *Cinema's transformation in the face of changing media landscape.*
+  - on-demand → loss of continuousness.
+  - *availability on personal devices* →  collectiveness.
+  - phones & computers as primary screens → loss of the big screen.
+  - Cinema lost grandeur and became content.
+  - ∴ Cinema risk of losing position as primary storytelling medium.
+
+#### cinema ≠ dying, movies are evolving
+- personalized entertainment, global audiences, collective auteurism as new driving forces in media landscape.
+  - algorithm-chosen popular culture ≔ average taste of global audience.
+- *la chance* to adapt Cinema into new dynamics
+  - ubiquity of technology reshapes society and industries
+  - Internet and smartphones' ubiquity ≈ cars' ubiquity transformation effect
+  - TikTok's success → Short-form portrait video as one potential evolution.
+    - if further evolution, will it still be cinema or something new?
+
+
+
+⠀
+
+
+
+⠀
+
+
+⠀
+
+
+### full article
+
 Recent trends describe the current state of cinema as fragile and in decline. Industry figures have expressed this opinion, notably Martin Scorsese who in 2019 wrote an [essay](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) arguing that "the situation at this moment is brutal and inhospitable to art." Many of these statements blame franchise films and the modern way of producing them as the main drivers behind cinema becoming increasingly homogeneous and formatted, resulting in a market saturated with movies that look and *feel* the same.
 
 - see [[why marvel movies aren't cinema]]

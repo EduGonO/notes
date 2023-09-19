@@ -7,10 +7,10 @@ notes on Paul Graham's ideas on taste, beauty and design from some of his essays
 
 - ---
 
-*"All of us had been trained by Kelly Johnson and believed fanatically in his insistence that an airplane that looked beautiful would fly the same way."*
+> All of us had been trained by Kelly Johnson and believed fanatically in his insistence that an airplane that looked beautiful would fly the same way.
 -  Ben Rich, Skunk Works
 
-*"Beauty is the first test: there is no permanent place in this world for ugly mathematics."*
+> Beauty is the first test: there is no permanent place in this world for ugly mathematics.
 - G. H. Hardy, _A Mathematician's Apology_
 
 

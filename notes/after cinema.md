@@ -51,7 +51,7 @@ this won’t be better or worse, just different.
 ⠀ 
 
 
-⠀ 
+⠀  ⠀ 
 
  
 
@@ -67,7 +67,7 @@ Not all reactions have been negative: the Japanese government became the first o
 
 ![dKIHkpbLqxgEshrkCIgtOsdNVA.jpeg](https://framerusercontent.com/images/dKIHkpbLqxgEshrkCIgtOsdNVA.jpeg)
 
- 
+  ⠀ 
 
 But even if it seems we might be entering an new era of media creation that is hostile to artists, this is not the first time technology has disrupted the arts. The birth and rise of Photography in the 1850s enabled a mass reproduction of art which allowed paintings and sculptures to be seen my multitudes of people, while simultaneously degrading their individual influence and impact.
 
@@ -81,7 +81,7 @@ Until then, painters and their art were usually judged by their ability to accur
 
 ![GvMstTZzaKnXBS4Zb3RdBAySM.jpeg](https://framerusercontent.com/images/GvMstTZzaKnXBS4Zb3RdBAySM.jpeg)
 
- 
+ ⠀ 
 
 Photography kept evolving and eventually allowed for the birth of an even more powerful art form to arrive, Cinema. Although AI technologies are still in their infancy and limited to image generation, the arrival of text-to-video models is [imminent](https://research.runwayml.com/gen2) and could challenge Cinema just like photography did to art. Current models already show an impressive understanding of cinematic language and it won't be long until anyone is able to create a photorealistic movie by simply writing a script and describing the rest of the movie using natural language. Users will be able to specify cameras, lenses and framings and AI models will create photorealistic sets, props, actors and dialogue that match the user's intentions.
 
@@ -91,7 +91,7 @@ Images from these movies might not be human but knowledge behind them certainly 
 
 ![LkJwmKHyoV5J7GrYxmAMiSlVgVw.jpeg](https://framerusercontent.com/images/LkJwmKHyoV5J7GrYxmAMiSlVgVw.jpeg)
 
- 
+  ⠀ 
 
 As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.
 

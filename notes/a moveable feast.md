@@ -14,6 +14,7 @@
 - but I knew too that I must write a novel. I would put it off though until I could not help doing it. I was damned if I would write one because it was what I should do if we were to eat regularly. When I had to write it, then it would be the only thing to do and there would be no choice. Let the pressure build. In the meantime I would write a long story about whatever I knew best.
 - I sat in a corner with the afternoon light coming in over my shoulder and wrote in the notebook. The waiter brought me a cafe creme and I drank half of it when it cooled and left it on the table while I wrote.
 - To have come on all this new world of writing, with time to read in a city like Paris where there was a way of living well and working, no matter how poor you were, was like having a great treasure given to you.
+- I had learned already never to empty the well of my writing, but always stop when there was still something there in the deep part of the well, and let it refill at night from the springs that fed it.
 - All I must do now was stay sound and good in my head until morning when I would start to work again.
 - You belong to me and all Paris belongs to me and I belong to this notebook and this pencil.
 - Alone there was no problem when you got used to it. I could always go to a cafe to write and could work all morning over a cafe creme while the waiters cleaned and swept out the cafe and it gradually grew warmer.

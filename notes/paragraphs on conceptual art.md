@@ -4,7 +4,9 @@
 
 - ---
 
-*Conceptual art is good only when the idea is good.*
+> Conceptual art is good only when the idea is good.
+
+⠀ 
 
 **conceptual art:** idea or concept as the most important aspect of the work.
 - not theoretical or illustrative of theories but intuitive, involved with all types of mental processes and purposeless.

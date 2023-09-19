@@ -4,7 +4,6 @@
 
 ---
 
-
 - Me preguntó sobre la familia y el trabajo. Compañía, bien. Academia, bien. Con Claudio, muy bien. Los niños, perfecto.
 - Gritan. Disparan. Huyen. Atacan. Lloran. Gimen. Acuchillan. Golpean. Braman. Arremeten. Asaltan. Defienden. Hieren. Matan. Rugen. Avanzan. Mueren. Puñetazos. Cuchilladas. Tiros. Oscuridad. Sangre. Bengalas. Fulgores. Muerte.
 - «Te sobra mundo, pero te falta calle.»

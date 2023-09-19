@@ -1,10 +1,13 @@
 # how the enlightenment ends
 
 - [henry kissinger](https://www.theatlantic.com/magazine/archive/2018/06/henry-kissinger-ai-could-mean-the-end-of-human-history/559124/), 2022-07-28
-- *"the enlightenment started with philosophical insights spread by a new technology. our period has generated a novel technology in search of a guiding philosophy."*
 
 - ---
 
+> the enlightenment started with philosophical insights spread by a new technology. our period has generated a novel technology in search of a guiding philosophy.
+
+  ⠀ 
+  
 - Heretofore, the technological advance that most altered the course of modern history was the invention of the **printing press** in the 15th century, which **allowed** the search for **empirical knowledge to supplant liturgical doctrine, and the Age of Reason to gradually supersede the Age of Religion.** Individual insight and scientific knowledge replaced faith as the principal criterion of human consciousness. Information was stored and systematized in expanding libraries. The Age of Reason originated the thoughts and actions that shaped the contemporary world order.
 - Users of the internet emphasize retrieving and manipulating information over contextualizing or conceptualizing its meaning. They rarely interrogate history or philosophy; as a rule, they demand information relevant to their immediate practical needs.
     - In the process, search-engine algorithms acquire the capacity to predict the preferences of individual clients, enabling the algorithms to personalize results and make them available to other parties for political or commercial purposes. **Truth becomes relative.** Information threatens to overwhelm wisdom.

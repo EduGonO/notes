@@ -6,9 +6,9 @@
 
 - ---
 
-Xi’s speech at the 10th meeting of the Central Financial and Economic Affairs Commission (Aug 2021) propelled the *common prosperity* concept onto the stage.
-an overarching program that aims to promote socioeconomic equality while reinforcing party legitimacy and control.
-This is by far the most authoritative and detailed articulation of *common prosperity* we have up to this point, it tells us much about the direction in which Xi wants to take China.
+Xi’s speech at the 10th meeting of the Central Financial and Economic Affairs Commission (Aug 2021) introduced the concept of *common prosperity*.
+- it's an overarching program that aims to promote socioeconomic equality while reinforcing party legitimacy and control.
+- This is by far the most authoritative and detailed articulation of *common prosperity* we have up to this point, it tells us much about the direction in which Xi wants to take China.
 
 
 #### intro

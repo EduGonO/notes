@@ -2,9 +2,12 @@
 
 - [paul graham](http://www.paulgraham.com/philosophy.html), 2007
 
-*Words break if you push them too hard.*
-
 - ---
+
+> Words break if you push them too hard.
+
+⠀ 
+
 
 Philosophy is just knowledge of what various philosophers have said over different things over the years. In many cases, people have forgotten who discovered what they discovered.
 
