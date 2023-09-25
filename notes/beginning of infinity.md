@@ -40,12 +40,12 @@ for centuries, people have tried to explain the mind in mechanical terms, using 
 
 some aspects of nature (night sky, waterfalls, sunsets) seem to be beautiful to humans but show no signs of being designed with this intention. However, flowers do seem to have an apparent design for beauty.
 - flowers need insects to bring them pollen and insects need flowers to get. how these 2 wildly distinct species evolve to communicate this?
-    - flower evolved genes to make their shape attractive to insects, which bring pollen. insects evolved genes that attract them to flowers with the best nectar (most beautiful ones)
+- flower evolved genes to make their shape attractive to insects, which bring pollen. insects evolved genes that attract them to flowers with the best nectar (most beautiful ones)
 - nature seems to have used beauty to allow these 2 wildly distinct species to communicate.
 
 humans recognizing that flowers are beautiful even though they evolved this way for unrelated purposes is evidence that **some beauty is objective**: it can be found in all places from the flower's genome to human minds.
 - flowers have to create objective beauty and insects have to recognize objective beauty.
-  - beauty then must exist in 2 kinds: subjective(local to species/culture/individuals, parochial) and objective(universal).
+- beauty then must exist in 2 kinds: subjective(local to species/culture/individuals, parochial) and objective(universal).
 - ⤷ local and subjective/parochial criteria of beauty evolved within a species to produce something that looks beautiful to us.
 
 if beauty can be objective like the laws of nature and mathematical theorems, then **new works of art must add new knowledge to the world** just like scientific theories do.
@@ -63,24 +63,23 @@ if beauty can be objective like the laws of nature and mathematical theorems, th
 - progress implies discoveries are inconceivable. dynamic societies are those that expect their knowledge to grow unpredictably.
 - Popper's criterion is met by societies that expect their knowledge to grow unpredictably ∴ he's an optimist, progress implies discoveries are inconceivable.
 
-**enlightenment**: rebellion against authority of knowledge. *"problems as soluble and inevitable, progress is attainable and desirable."*
+**enlightenment**: 1688 (English Enlightenment), inconceivable a century earlier.
 
-1688: emergence of methodical rule that scientific theories must be testable, beginning of English Enlightenment, inconceivable a century earlier.
+emergence of methodical rule that scientific theories must be testable, rebellion against authority of knowledge. *"problems as soluble and inevitable, progress is attainable and desirable."*
 - success at making scientific discoveries implies commitment to values of progress: truth, good explanations, open to ideas and change, tolerance, integrity, openness of debate.
 - necessary condition for progress: change meant new authorities replaced old ones, so tradition of criticism was needed to sustain rapid growth of knowledge.
 - Universal theories of justices, legitimacy and morality began to take place alongside universal theories of matter and motion as philosophers set out to free institutions from arbitrary rules. (Locke→political) universality was now a desirable feature.
 
-humans alone are authors of explanatory knowledge, the human behaviour called *history*.
-- Knowledge alone converts landscapes into resources or prevents improvements (≠Marx, Engels)
-- ideas and not biogeographical explanations account for events: can't explain the fall of the USSR with climate, minerals or flora/fauna.
+humans alone are **authors of explanatory knowledge**, the human behaviour called *history*.
+- Knowledge alone converts landscapes into resources or prevents improvements (≠Marx, Engels). *ideas* and not biogeographical explanations account for events: can't explain the fall of the USSR with climate, minerals or flora/fauna.
 - Marx's theory of history was evolutionary and described a progression though historical stages, determined by economic "laws of motion". He used Darwin's theory as a basis for the historical class struggle (biological species ≈ socio-economic classes). Facsist groups use this and other misinterpretations of evolution to justify violence.
-    - (presence of gene is always explained as being caused by more replications than rival genes. competition in biological evolution is between variant of genes within a species: can produce violence or cooperation.)
+- (presence of gene is always explained as being caused by more replications than rival genes. competition in biological evolution is between variant of genes within a species: can produce violence or cooperation.)
 
 **static societies**: people could expect to die under the same values, lifestyles, technology and patterns of economic production.
 
-if way of life leads to more efficient methods of living (farming, medicine...) it is not sustainable → population grows, fewer workers are needed ∴ live the solution and set about solving the new problems it creates. **only progress is sustainable.**
 - universality needs appreciation of abstract knowledge for its own/to yield unforeseeable benefits. unnatural in static societies.
 - small populations + parochial knowledge → big ideas are set millennia apart.
+- if way of life leads to more efficient methods of living (farming, medicine...) it is not sustainable → population grows, fewer workers are needed ∴ live the solution and set about solving the new problems it creates. **only progress is sustainable.**
  
 ⠀ ⠀ 
 
@@ -88,23 +87,20 @@ if way of life leads to more efficient methods of living (farming, medicine...) 
 ### science
 
 nature of science can be understood with **theories=misconceptions**
-- Einstein's misconception of Gravity was an improvement on Newton's misconception, which was an improvement on Kepler's. neo-Darwinian evolution is an improvement on Darwin's misconception, and his on Lamarck's. **No infallibility nor finality.**
 - Einstein doesn't correct Newton but is radically different (gravitational force, uniform flow of time in respect to motion). same with Kepler and Newton. each ignores and denies its predecessors' basic means of explaining reality.
 - explanations were never true ∴ successive explanations ≠ growth of knowledge about reality.
+- Einstein's misconception of Gravity was an improvement on Newton's misconception, which was an improvement on Kepler's. neo-Darwinian evolution is an improvement on Darwin's misconception, and his on Lamarck's. **No infallibility nor finality.**
 
-**scientific method**
-
-increasingly difficult to ignore philosophical implications of the fact that nature had been understood in unprecedented depth, and of the methods of science and reason by which it was done.
+**scientific method**: increasingly difficult to ignore philosophical implications of the fact that nature had been understood in unprecedented depth, and of the methods of science and reason by which it was done.
 - perhaps it started with Galileo and became irreversible with newton. (his laws replicated themselves as rational ideas and fidelity was very high as they were so useful)
 - no way of missing rapid that progress was underway after newton. (some like Rousseau tried by arguing reason as harmful, civilization as bad and primitive live as happy).
 - No process can reveal the content and consequences of a discovery before it is made. scientific discovery is ∴ **unpredictable but determined by the laws of physics**
 
-**evolution**: genetic code as language for organisms has shown phenomenal reach.
-
-evolution optimizes neither good of species or individual, but the relative ability of surviving variants to spread through population. it favours only genes that spread best.
+**evolution**: optimizes neither good of species or individual, but the relative ability of surviving variants to spread through population. it favours only genes that spread best.
 - peacock's colourful tail: diminishes viability and harder to evade predators but prominent mating ∴ offspring has more prominent tails, ↻.
 
-genes replicate themselves by an indirect chemical route, being templates for similar molecules. evolved to specify organisms without having a nervous system, organs, senses, ability to exert force or move.
+genetic code as language for organisms has shown phenomenal reach.
+- genes replicate themselves by an indirect chemical route, being templates for similar molecules. evolved to specify organisms without having a nervous system, organs, senses, ability to exert force or move.
 - knowledge embodied in genes describes how to get replicated and functionality is achieved by encoding regularities in environments. complexity ≠ evolutionary adaptation. Darwin crystallized this: random mutations are discarded by natural selection.
 - might not be universal since it relies on specific chemicals (proteins) but could be universal constructor (created from inorganic materials like calcium phosphate in bones, programs organisms to construct outside their bodies: nests, dams, houses...)
 - RNA acts as the program which directs the synthesis of enzymes (catalysts, promotes change to other chemicals while remaining unchanged itself) catalysts control all chemical production and regulatory functions of an organism **∴ ≔ organism itself.**
@@ -124,7 +120,7 @@ quantum theory discovered independently by Heisenberg and Schrödinger between 1
 - **Bohr**: Copenhagen interpretation, quantum theory as the complete description of reality and only outcomes of observations count as phenomena, they can't exist objectively.
   - proposed the principle of complementarity: phenomena can only be stated in classical language, anthropocentric language, meaning that the transition is caused by human consciousness ∴ acting at a fundamental level in physics.
   - Nothing is ever derived from observation: Mach (positivist), influenced Einstein to eliminate untested assumption from physics, including Newton's idea the time flows at the same rate for all observers.
-    - Einstein soon rejected positivism in favour of realism, which explains why he never accepted the Copenhagen interpretation.
+  - Einstein soon rejected positivism in favour of realism, which explains why he never accepted the Copenhagen interpretation.
 
 **issue**: not consistent when applied to the case of an observer performing quantum measurements on another observer.
 - classical physics measures change in quantifiable quantities, quantum physics measures change in discrete variables and their proportions.
