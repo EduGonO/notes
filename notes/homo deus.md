@@ -1,6 +1,6 @@
 # homo deus
 
-- notes on yuval noah harari's [homo deus](https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow), (2016).
+- notes on yuval noah harari's *[homo deus](https://en.wikipedia.org/wiki/Homo_Deus:_A_Brief_History_of_Tomorrow)* (2016).
 
 
 - ---

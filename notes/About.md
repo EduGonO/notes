@@ -21,6 +21,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 ### notes
 
 **books**
+- the [[beginning of infinity]], david deutsch
 - [[desierto sonoro]], valeria luiselli
 - [[llano en llamas]], juan rulfo
 - [[recuerdos del porvenir]], elena garro
@@ -31,6 +32,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[salvar el fuego]], guillermo arriaga
 - [[a moveable feast]], ernest hemingway
 - [[ride of a lifetime]], bob iger
+- [[sin querer queriendo]], roberto gómez bolaños
 
 **articles**
 - [[paragraphs on conceptual art]], sol lewitt
