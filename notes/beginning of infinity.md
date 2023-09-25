@@ -64,22 +64,20 @@ if beauty can be objective like the laws of nature and mathematical theorems, th
 - Popper's criterion is met by societies that expect their knowledge to grow unpredictably ∴ he's an optimist, progress implies discoveries are inconceivable.
 
 **enlightenment**: 1688 (English Enlightenment), inconceivable a century earlier.
-
-emergence of methodical rule that scientific theories must be testable, rebellion against authority of knowledge. *"problems as soluble and inevitable, progress is attainable and desirable."*
 - success at making scientific discoveries implies commitment to values of progress: truth, good explanations, open to ideas and change, tolerance, integrity, openness of debate.
 - necessary condition for progress: change meant new authorities replaced old ones, so tradition of criticism was needed to sustain rapid growth of knowledge.
 - Universal theories of justices, legitimacy and morality began to take place alongside universal theories of matter and motion as philosophers set out to free institutions from arbitrary rules. (Locke→political) universality was now a desirable feature.
+- emergence of methodical rule that scientific theories must be testable, rebellion against authority of knowledge. **"problems as soluble and inevitable, progress is attainable and desirable."**
+
+**static societies**: people could expect to die under the same values, lifestyles, technology and patterns of economic production.
+- universality needs appreciation of abstract knowledge for its own/to yield unforeseeable benefits. unnatural in static societies.
+- small populations + parochial knowledge → big ideas are set millennia apart.
+- if way of life leads to more efficient methods of living (farming, medicine...) it is not sustainable → population grows, fewer workers are needed ∴ live the solution and set about solving the new problems it creates. **only progress is sustainable.**
 
 humans alone are **authors of explanatory knowledge**, the human behaviour called *history*.
 - Knowledge alone converts landscapes into resources or prevents improvements (≠Marx, Engels). *ideas* and not biogeographical explanations account for events: can't explain the fall of the USSR with climate, minerals or flora/fauna.
 - Marx's theory of history was evolutionary and described a progression though historical stages, determined by economic "laws of motion". He used Darwin's theory as a basis for the historical class struggle (biological species ≈ socio-economic classes). Facsist groups use this and other misinterpretations of evolution to justify violence.
 - (presence of gene is always explained as being caused by more replications than rival genes. competition in biological evolution is between variant of genes within a species: can produce violence or cooperation.)
-
-**static societies**: people could expect to die under the same values, lifestyles, technology and patterns of economic production.
-
-- universality needs appreciation of abstract knowledge for its own/to yield unforeseeable benefits. unnatural in static societies.
-- small populations + parochial knowledge → big ideas are set millennia apart.
-- if way of life leads to more efficient methods of living (farming, medicine...) it is not sustainable → population grows, fewer workers are needed ∴ live the solution and set about solving the new problems it creates. **only progress is sustainable.**
  
 ⠀ ⠀ 
 
