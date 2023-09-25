@@ -21,7 +21,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 ### notes
 
 #### books
-- the [[beginning of infinity]], david deutsch
+- [[beginning of infinity]], david deutsch
 - [[desierto sonoro]], valeria luiselli
 - [[llano en llamas]], juan rulfo
 - [[recuerdos del porvenir]], elena garro
@@ -177,10 +177,10 @@ the rest of the world
 
  
 
-
+⠀ ⠀ 
  
 
-
+⠀ ⠀ 
  
 
 

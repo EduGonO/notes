@@ -1,7 +1,6 @@
 # sin querer queriendo
 
-- autobiografía de [roberto gómez bolaños](https://es.wikipedia.org/wiki/Roberto_Gómez_Bolaños) (2005), creador de *chespirito*, *el chapulín colorado* y *el chavo del 8*. 
-- en total, completó 1239 episodios en 25 años y 31 temporadas. son quizá mis series de televisión favoritas.
+- autobiografía de [roberto gómez bolaños](https://es.wikipedia.org/wiki/Roberto_Gómez_Bolaños) (2005), creador de *chespirito*, *el chapulín colorado* y *el chavo del 8*. en total, completó 1239 episodios en 25 años y 31 temporadas. son quizá mis series de televisión favoritas.
     - *El Chavo del 8* (1973-1980): 7 temporadas, 290 episodios
     - *Chapulin Colorado* (1973-1979): 8 temporadas, 260 episodios
     - *Chespirito* (1970-1973, 1980-1995): 16 temporadas, 689 episodios
