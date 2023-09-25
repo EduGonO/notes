@@ -4,42 +4,42 @@
 
 ---
 
-> we do not know why the laws of physics seem fine-tuned, why various forms of universality exist, or why the world is explicable. but eventually we shall. And when we do, there will be infinitely more left to explain.
+- *"we do not know why the laws of physics seem fine-tuned, why various forms of universality exist, or why the world is explicable. but eventually we shall. And when we do, there will be infinitely more left to explain."*
 
-- "if the question is interesting, the problem is soluble."
+- *"if the question is interesting, the problem is soluble."*
 
 ### knowledge
 
-- **curiosity**: thinking existing explanations don't fully capture the ideas behind them, being unsatisfied with current stories.
-   - *guessing* is ∴ the single process thought which all knowledge originates: wonder → guessing → conjecture → speculation, which is vital for discovery.
-   - when stories/explanations can't be changed anymore, we have understood objective truth, and, like magic, what we understand we then control.
-   - the only path for knowledge creation is then error-correcting → finding good explanations (conjecture+criticism+experiment) = progress.
-   - there can ∴ be no aspects of reality beyond our brain's capacity: if (brain capacity==computational speed + memory) we can use computers, just like we have used pen and paper to understand the world for centuries.
-- **creativity**: ability to create and replicate ideas to increase the amount of usable knowledge.
-   - parrots copy sounds, apes copy movements, but humans create: it's (conjecture+criticism+experiment) to form good explanations of other's behaviour and the world → this is creativity.
-   - must be an evolutionary process within brains since it depends on conjecture (variation) and criticism (selection).
-   - human brains are physical objects that evolved to replicate ideas (Blackmore). thoughts are computations permitted under the laws of nature.
-- **ideas**: information that can be stored in human brains and affects behaviour.
-   - knowledge is created by human thought, preserved and transmitted by human culture (not genetically, which is why some humans are able to survive in jungle and others in the arctic)
-   - abstract language, explanations, wealth above subsistence and long-range trade gave power to ideas. by the time history began to be recorded, it was the history of ideas.
-- **culture**: set of ideas that cause holders to behave alike.
-   - ideas are rarely expressed with the same words and can vary in both written and spoken language. yet, they *stay* the same idea.
-   - if a parrot repeats Aristotle, sound is there but knowledge (replicator) isn't → replicators of ideas are abstract, they're the knowledge itself.
-   - reach of ideas in world of abstraction is a property of knowledge they contain. theory can have infinite reach even if person is unaware.
-- for centuries, people have tried to explain the mind in mechanical terms, using metaphors based on the most complex machines of the day (complicated set of gears, hydraulic pipes, steam engines, telephone exchanges, and now, computers.)
-   - but "brain=engine" ≠ "brain=computer": computers are universal simulators. expecting them to behave like neurones is not a metaphor, it's a known proven property of physics and computers
+**curiosity**: thinking existing explanations don't fully capture the ideas behind them, being unsatisfied with current stories.
+- *guessing* is ∴ the single process thought which all knowledge originates: wonder → guessing → conjecture → speculation, which is vital for discovery.
+- when stories/explanations can't be changed anymore, we have understood objective truth, and, like magic, what we understand we then control.
+- the only path for knowledge creation is then error-correcting → finding good explanations (conjecture+criticism+experiment) = progress.
+- there can ∴ be no aspects of reality beyond our brain's capacity: if (brain capacity==computational speed + memory) we can use computers, just like we have used pen and paper to understand the world for centuries.
+**creativity**: ability to create and replicate ideas to increase the amount of usable knowledge.
+- parrots copy sounds, apes copy movements, but humans create: it's (conjecture+criticism+experiment) to form good explanations of other's behaviour and the world → this is creativity.
+- must be an evolutionary process within brains since it depends on conjecture (variation) and criticism (selection).
+- human brains are physical objects that evolved to replicate ideas (Blackmore). thoughts are computations permitted under the laws of nature.
+**ideas**: information that can be stored in human brains and affects behaviour.
+- knowledge is created by human thought, preserved and transmitted by human culture (not genetically, which is why some humans are able to survive in jungle and others in the arctic)
+- abstract language, explanations, wealth above subsistence and long-range trade gave power to ideas. by the time history began to be recorded, it was the history of ideas.
+**culture**: set of ideas that cause holders to behave alike.
+- ideas are rarely expressed with the same words and can vary in both written and spoken language. yet, they *stay* the same idea.
+- if a parrot repeats Aristotle, sound is there but knowledge (replicator) isn't → replicators of ideas are abstract, they're the knowledge itself.
+- reach of ideas in world of abstraction is a property of knowledge they contain. theory can have infinite reach even if person is unaware.
+for centuries, people have tried to explain the mind in mechanical terms, using metaphors based on the most complex machines of the day (complicated set of gears, hydraulic pipes, steam engines, telephone exchanges, and now, computers.)
+- but "brain=engine" ≠ "brain=computer": computers are universal simulators. expecting them to behave like neurones is not a metaphor, it's a known proven property of physics and computers
 
 ### beauty
 
-- some aspects of nature (night sky, waterfalls, sunsets) seem to be beautiful to humans but show no signs of being designed with this intention. However, flowers do seem to have an apparent design for beauty.
-   - flowers need insects to bring them pollen and insects need flowers to get. how these 2 wildly distinct species evolve to communicate this?
-      - flower evolved genes to make their shape attractive to insects, which bring pollen. insects evolved genes that attract them to flowers with the best nectar (most beautiful ones)
-   - nature seems to have used beauty to allow these 2 wildly distinct species to communicate.
-- humans recognizing that flowers are beautiful even though they evolved this way for unrelated purposes is evidence that **some beauty is objective**: it can be found in all places from the flower's genome to human minds.
-   - flowers have to create objective beauty and insects have to recognize objective beauty.
-   - beauty then must exist in 2 kinds: subjective(local to species/culture/individuals, parochial) and objective(universal).
-   - ⤷ local and subjective/parochial criteria of beauty evolved within a species to produce something that looks beautiful to us.
-- if beauty can be objective like the laws of nature and mathematical theorems, then **new works of art must add new knowledge to the world** just like scientific theories do.
+some aspects of nature (night sky, waterfalls, sunsets) seem to be beautiful to humans but show no signs of being designed with this intention. However, flowers do seem to have an apparent design for beauty.
+- flowers need insects to bring them pollen and insects need flowers to get. how these 2 wildly distinct species evolve to communicate this?
+   - flower evolved genes to make their shape attractive to insects, which bring pollen. insects evolved genes that attract them to flowers with the best nectar (most beautiful ones)
+- nature seems to have used beauty to allow these 2 wildly distinct species to communicate.
+humans recognizing that flowers are beautiful even though they evolved this way for unrelated purposes is evidence that **some beauty is objective**: it can be found in all places from the flower's genome to human minds.
+- flowers have to create objective beauty and insects have to recognize objective beauty.
+- beauty then must exist in 2 kinds: subjective(local to species/culture/individuals, parochial) and objective(universal).
+- ⤷ local and subjective/parochial criteria of beauty evolved within a species to produce something that looks beautiful to us.
+if beauty can be objective like the laws of nature and mathematical theorems, then **new works of art must add new knowledge to the world** just like scientific theories do.
 
 ### philo
 
@@ -67,7 +67,7 @@
       - universality needs appreciation of abstract knowledge for its own/to yield unforeseeable benefits. unnatural in static societies.
    - small populations + parochial knowledge → big ideas are set millennia apart.
 
-#### science
+### science
 
 - nature of science can be understood with theories=misconceptions
    - Einstein's misconception of Gravity was an improvement on Newton's misconception, which was an improvement on Kepler's. neo-Darwinian evolution is an improvement on Darwin's misconception, and his on Lamarck's. **No infallibility nor finality.**
@@ -100,7 +100,7 @@
    - classical physics measures change in quantifiable quantities, quantum physics measures change in discrete variables and their proportions.
    - new type of motion, **information flow** and structure of the physical world: all objects contain information about which instances of it can interact with instances of other objects and different times are special cases of different universes → time is an entanglement phenomenon which places all equal clock readings into the same history.
 
-#### history of computers
+### history of computers
 
 - calculations used to be done by clerks called *computers*.
 - computational universality should have happened with Babbage's Difference Engine (1820s), which had rules of arithmetic built into hardware to to automate $$log, cos, sin$$ (used in navigation and engineering).

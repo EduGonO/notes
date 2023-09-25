@@ -1,7 +1,10 @@
 # sin querer queriendo
 
-- autobiografía de [roberto gómez bolaños](https://es.wikipedia.org/wiki/Roberto_Gómez_Bolaños) (2005), creador de "chespirito", "el chapulín colorado" y "el chavo del 8". 
+- autobiografía de [roberto gómez bolaños](https://es.wikipedia.org/wiki/Roberto_Gómez_Bolaños) (2005), creador de *chespirito*, *el chapulín colorado* y *el chavo del 8*. 
 - en total, completó 1239 episodios en 25 años y 31 temporadas. son quizá mis series de televisión favoritas.
+    - *El Chavo del 8* (1973-1980): 7 temporadas, 290 episodios
+    - *Chapulin Colorado* (1973-1979): 8 temporadas, 260 episodios
+    - *Chespirito* (1970-1973, 1980-1995): 16 temporadas, 689 episodios
 
 ---
 
@@ -36,8 +39,9 @@
 - Estábamos nuevamente fuera de la Ciudad de México cuando recibimos una noticia muy triste: víctima de un cáncer, acababa de fallecer el querido e inolvidable Ramón Valdés. Aunque ya llevaba algún tiempo de haberse separado del grupo, su ausencia definitiva representaba un impacto doloroso para nosotros, y la imposibilidad de que algún día pudiera retornar. Paradójicamente, Ramón ha «resucitado» para todos nosotros y para las nuevas generaciones, gracias a la repetición de los programas a todas horas y por todos lados. Y nuevamente me hace reír como sólo él podía hacerlo.
 - En un programa de Los Caquitos a principios de 1987, el Botija, la Chimoltrufia y el Chómpiras están viendo en la televisión un programa del Chavo en el que éste era acusado, evidentemente sin razón, de ser un ratero, lo cual hace llorar intensamente a los espectadores (tal como sucedió en la vida real con mucha gente). La más afectada fue la Chimoltrufia, la cual, hecha un mar de lágrimas, hace ver al Botija y al Chómpiras hasta dónde puede conducir la «estúpida actividad que ellos desempeñan»; y de ahí pasa a exigir la promesa de que nunca más volverán a robar, lo cual es aceptado con pleno convencimiento por su marido y su amigo. Y de ahí en adelante el Botija y el Chómpiras desempeñaron el papel de dos ex delincuentes que debían superar las barreras que esta condición impone a quienes intentan buscar un empleo. Y nunca jamás vuelven a delinquir.
 - Es verdad que al interpretar al Chavo del Ocho yo nunca había pretendido hacer creer al público que se trataba de un niño. No; yo sólo pretendía que aceptaran la realidad: que se trataba de un adulto que interpretaba a un niño, lo cual, estoy seguro, se logró cabalmente, sobre todo tomando en cuenta que la primera vez que aparecí como Chavo en la televisión yo tenía ya 42 años. Aunque de menor edad, lo mismo sucedía con todos los demás adultos que interpretaron papeles de niños en la serie, pues Godínez (mi hermano Horacio) tenía 40 años; Quico (Carlos Villagrán), 28; la Chilindrina (María Antonieta), 25; Ñoño (Edgar), 23 y la Popis (Florinda), 22. En el momento de dar por terminada la serie, las edades ya no eran las mismas. Yo tenía 66 años; Horacio, 65; Carlos (que desde 1978 ya no formaba parte del grupo), 52; María Antonieta, 49; Edgar, 47 y Florinda, 46.
-- **giras**
-   - En Santiago de Chile, por ejemplo, la gente formó ≈17km de valla humana ininterrumpida desde el aeropuerto hasta el hotel.
-   - Sobre haberse presentado en el Estado Nacional de Santiago, prisión de las victimas del golpe de Estado: "Es obvio que, para comenzar, ninguno de nosotros recordaba que el estadio hubiera sido alguna vez usado como «campo de concentración» o cosa semejante; y para terminar, también es obvio que, de haberlo recordado, de todos modos habríamos trabajado ahí. De lo contrario, ningún actor debería presentarse a trabajar en el Zócalo de México, por poner un ejemplo, «enlodando la memoria de todos los que fueron asesinados ahí durante la Decena Trágica»."
+
+#### giras
+- En Santiago de Chile, por ejemplo, la gente formó ≈17km de valla humana ininterrumpida desde el aeropuerto hasta el hotel.
+- Sobre haberse presentado en el Estado Nacional de Santiago, prisión de las victimas del golpe de Estado: "Es obvio que, para comenzar, ninguno de nosotros recordaba que el estadio hubiera sido alguna vez usado como «campo de concentración» o cosa semejante; y para terminar, también es obvio que, de haberlo recordado, de todos modos habríamos trabajado ahí. De lo contrario, ningún actor debería presentarse a trabajar en el Zócalo de México, por poner un ejemplo, «enlodando la memoria de todos los que fueron asesinados ahí durante la Decena Trágica»."
 
  

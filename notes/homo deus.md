@@ -65,9 +65,7 @@
 
 - Catholic Church was responsible for important economic/technological innovations
 	- Established medical Eurpoe's administrative system and pioneered the use of archives, catalogues, timetables and techniques of data processing. Vatican was the closest thing to SV in 12th C. Europe.
-	
 	- Established Europe's first economic corporations: monasteries, which introduced advanced agricultural/administrative methods and **clocks**. Helped found many of Europe's first universities (Bologna, Oxford, Salamanca). (→ [[tiempo]])
-	
 	- Catholicism and other theist religions have turned from a creative to a reactive force, agonizing instead of pioneering novel technologies: Contraceptive pill, Internet, Feminism.
 
 - In the 18th century, humanism sidelined God by shifting from a deo-centric to a homo-centric world view. In the 21st century, Dataism may sideline humans by shifting from a homo-centric to a data-centric world view (idea that *'organisms are algorithms'*).
