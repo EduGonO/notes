@@ -20,7 +20,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 
 ### notes
 
-**books**
+#### books
 - [[beginning of infinity]], david deutsch
 - [[desierto sonoro]], valeria luiselli
 - [[llano en llamas]], juan rulfo
@@ -34,7 +34,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[ride of a lifetime]], bob iger
 - [[sin querer queriendo]], roberto gómez bolaños
 
-**articles**
+#### articles
 - [[paragraphs on conceptual art]], sol lewitt
 - [[discrete image]], bernard stielger
 - [[how to do philosophy]], paul graham
@@ -79,6 +79,7 @@ we use paintings to decorate space
 and music to decorate time
  
 ⠀ ⠀ 
+ 
 ⠀ ⠀ 
  
 find the way by moonlight  
@@ -88,6 +89,7 @@ see the dawn before
 the rest of the world  
  
 ⠀ ⠀ 
+
 ⠀ ⠀ 
  
 unconscious time, no peace of mind,  
@@ -103,6 +105,7 @@ moments in space, places in time,
 thoughts penciled in, now come to life.
  
 ⠀ ⠀ 
+
 ⠀ ⠀ 
  
 *As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.* 
@@ -116,7 +119,7 @@ thoughts penciled in, now come to life.
 ⠀ ⠀  
 
 
-#### quotes i like
+### quotes i like
 
 *"the limits of my language are the limits of my world."*
 - ludwig wittgenstein
