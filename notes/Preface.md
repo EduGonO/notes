@@ -52,12 +52,72 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[succession]], jesse armstrong
 
 
+⠀ ⠀ 
+
+⠀ ⠀  
+
+⠀ ⠀  
+ 
+⠀ ⠀ 
+⠀ ⠀ 
+ 
+⠀ ⠀ 
+
+⠀ ⠀ 
+⠀ ⠀ 
+
+⠀ ⠀ 
+
+⠀ ⠀ 
+
+writing keeps ideas in space  
+
+speech lets them travel in time  
+
+we use paintings to decorate space  
+
+and music to decorate time
+ 
+⠀ ⠀ 
+ 
+⠀ ⠀ 
+ 
+find the way by moonlight  
+
+see the dawn before  
+
+the rest of the world  
+ 
+⠀ ⠀ 
+
+⠀ ⠀ 
+ 
+unconscious time, no peace of mind,  
+
+falling in space but still alive.  
+
+sketching the future in a single line,  
+
+everything's spinning, cannot sit down.  
+
+moments in space, places in time,  
+
+thoughts penciled in, now come to life.
+ 
+⠀ ⠀ 
+
+⠀ ⠀ 
+ 
+*As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.* 
+ 
+⠀ ⠀ 
+
+⠀ 
 
 ⠀ ⠀ 
  
 ⠀ ⠀  
 
-⠀ ⠀ 
 
 ### quotes i like
 
@@ -86,8 +146,18 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
  
 ⠀ ⠀ 
 
+*"a crowd exists as long as it has an unattained goal.*"
+- elias canetti
+ 
+⠀ ⠀ 
+
 *"my pencil and I are more clever than I."*
 - albert einstein
+ 
+⠀ ⠀ 
+
+*"simplicity is the ultimate sophistication"*
+- leonardo da vinci
  
 ⠀ ⠀ 
 
@@ -123,46 +193,16 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
  
 ⠀ ⠀  
 
-"everything, everywhere, is always moving, forever. get used to it."
+*"everything, everywhere, is always moving, forever. get used to it."*
+
+⠀ ⠀ 
+
 
 ⠀ ⠀ 
 
 ---
 
 ⠀ ⠀ 
-
-⠀ ⠀ 
-
-
-writing keeps ideas in space  
-
-speech lets them travel in time  
-
-we use paintings to decorate space  
-
-and music to decorate time
- 
-⠀ ⠀ 
-⠀ ⠀ 
- 
-As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.
- 
-⠀ ⠀ 
-⠀ ⠀ 
- 
-find the way by moonlight  
-
-see the dawn before  
-
-the rest of the world  
- 
-⠀ ⠀ 
-
-⠀ 
-
-⠀ ⠀ 
-
-⠀ 
 
 #### symbols
 - ∴ (therefore)
@@ -189,4 +229,5 @@ the rest of the world
 
  
       
-
+ 
+ 
