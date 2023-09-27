@@ -51,7 +51,41 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[why marvel movies aren't cinema]], martin scorsese
 - [[succession]], jesse armstrong
 
+⠀ ⠀ 
 
+⠀ ⠀ 
+
+⠀ ⠀ 
+
+⠀ 
+
+
+
+writing keeps ideas in space  
+
+speech lets them travel in time  
+
+we use paintings to decorate space  
+
+and music to decorate time
+ 
+⠀ ⠀ 
+⠀ ⠀ 
+ 
+As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.
+ 
+⠀ ⠀ 
+⠀ ⠀ 
+ 
+find the way by moonlight  
+
+see the dawn before  
+
+the rest of the world  
+ 
+⠀ ⠀ 
+
+⠀ 
 
 ⠀ ⠀ 
  
@@ -86,8 +120,18 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
  
 ⠀ ⠀ 
 
+*"a crowd exists as long as it has an unattained goal.*"
+- elias canetti
+ 
+⠀ ⠀ 
+
 *"my pencil and I are more clever than I."*
 - albert einstein
+ 
+⠀ ⠀ 
+
+*"simplicity is the ultimate sophistication"*
+- leonardo da vinci
  
 ⠀ ⠀ 
 
@@ -127,42 +171,10 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 
 ⠀ ⠀ 
 
+
+⠀ ⠀ 
+
 ---
-
-⠀ ⠀ 
-
-⠀ ⠀ 
-
-
-writing keeps ideas in space  
-
-speech lets them travel in time  
-
-we use paintings to decorate space  
-
-and music to decorate time
- 
-⠀ ⠀ 
-⠀ ⠀ 
- 
-As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.
- 
-⠀ ⠀ 
-⠀ ⠀ 
- 
-find the way by moonlight  
-
-see the dawn before  
-
-the rest of the world  
- 
-⠀ ⠀ 
-
-⠀ 
-
-⠀ ⠀ 
-
-⠀ 
 
 #### symbols
 - ∴ (therefore)
