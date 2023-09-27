@@ -45,21 +45,22 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 - [[the question concerning technology]], martin heidegger 
 - [[people aren't meant to talk this much]], ian bogost
 
-**film**
+#### film
 - [[century of the self]], adam curtis
 - [[hitchcock vs hitchcock]], andré bazin
 - [[why marvel movies aren't cinema]], martin scorsese
 - [[succession]], jesse armstrong
 
-⠀ ⠀ 
 
 ⠀ ⠀ 
 
 ⠀ ⠀ 
 
-⠀ 
+⠀ ⠀ 
 
+⠀ ⠀ 
 
+⠀ ⠀ 
 
 writing keeps ideas in space  
 
@@ -72,16 +73,16 @@ and music to decorate time
 ⠀ ⠀ 
 ⠀ ⠀ 
  
-As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.
- 
-⠀ ⠀ 
-⠀ ⠀ 
- 
 find the way by moonlight  
 
 see the dawn before  
 
 the rest of the world  
+ 
+⠀ ⠀ 
+⠀ ⠀ 
+ 
+*As of today, no one knows how to translate paintings, flowers or music into language. Their beauty is implicit and exclusive to their form, which is why it's so hard to explain how a particular piece of art makes us feel.* 
  
 ⠀ ⠀ 
 
@@ -93,7 +94,7 @@ the rest of the world
 
 ⠀ ⠀ 
 
-### quotes i like
+#### quotes i like
 
 *"the limits of my language are the limits of my world."*
 - ludwig wittgenstein
@@ -167,7 +168,7 @@ the rest of the world
  
 ⠀ ⠀  
 
-"everything, everywhere, is always moving, forever. get used to it."
+*"everything, everywhere, is always moving, forever. get used to it."*
 
 ⠀ ⠀ 
 
@@ -175,6 +176,8 @@ the rest of the world
 ⠀ ⠀ 
 
 ---
+
+⠀ ⠀ 
 
 #### symbols
 - ∴ (therefore)
