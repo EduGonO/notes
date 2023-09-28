@@ -12,7 +12,8 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 
 ⠀  
 
-### own writing
+### writing
+- [[on language]], *editing*
 - [[after cinema]], aug 2023
 - [[on cinema]], oct 2022
 
