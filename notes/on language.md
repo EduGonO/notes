@@ -21,7 +21,7 @@ first there was the same symbol for all numbers: IIIIIIIIII
 
 - earliest improvements on numbers: **group** marks together
 
-	( IIIIIIIIIIIIII  →  IIIII  IIIII  IIII )
+	- ( IIIIIIIIIIIIII  →  IIIII  IIIII  IIII )
 
 
 - allowed people to go from **tallying** *(another, and another...)*
@@ -45,7 +45,7 @@ They added 7 symbols (I, V, X, L, C, D, M) and 3 main rules:
 
 
 3. cannot repeat a symbol if it can be combined.
- 
+
 	- VVIIIII  →  (VV=X, IIIII=V)  →  XV
 
 
@@ -57,7 +57,7 @@ the biggest leap Roman Numerals made was allowing people to manipulate numbers a
 - however, the Roman Numerals still relied on **M** as as the symbol with the highest value (1000). 
 - this meant that doing math on large numbers could only be done by carefully counting each instance of the same symbol (=counting tally marks), making simple operations much more difficult and error-prone.
 
-	(**MMMMMMMMMMM**CDIII  +  **MMMMMMMMMMMM**CCDIII)
+	(MMMMMMMMMMMCDIII  +  MMMMMMMMMMMMCCDIII)
 
 	- →  new system needed
 
@@ -67,9 +67,9 @@ the biggest leap Roman Numerals made was allowing people to manipulate numbers a
 a writing system is universal if it can be used to write every single word in a language. most alphabets are able do this: no word exists that can be said but can't be written.
 
 
-- Inspired by alphabets, hindu-arabic numerals were invented in IX Century India, but their potential was not immediately realized: it involves many non-obvious ideas if all you know are roman numerals.
+- Inspired by alphabets, hindu-arabic numerals were invented in IXth Century India, but their potential was not immediately realized: it involves many non-obvious ideas if all you know are roman numerals.
 - the system uses a set of 10 symbols (0-9) and only **one** single rule: the value of a digit depends on its position in the number.
-	- 000**2**=**2**   00**2**0=**20**   0**2**00=**200**   **2**000=**2000**
+	- 000(2)=**2** ⠀ 00(2)0=**20** ⠀ 0(2)00=**200** ⠀ (2)000=**2000**
 - this allows the system to represent every number possible in an easy and understandable way.
 
 this simple rule shows not only extraordinary design, but also deep mathematical insight.
