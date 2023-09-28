@@ -30,21 +30,23 @@ first there was the same symbol for all numbers: IIIIIIIIII
 #### a bigger improvement came along with the idea to have different symbols for different numbers. 
 
 
-the best example for this new kind of writing systems were Roman Numerals. They added 7 symbols (I, V, X, L, C, D, M) and 3 main rules:
+the best example for this new kind of writing systems were Roman Numerals. 
+
+They added 7 symbols (I, V, X, L, C, D, M) and 3 main rules:
 
 1. symbols must be ordered by decreasing value, from left to right.
 
-	VII+VIII  →  VIIVIII  →  VVIIIII
+	- VII+VIII  →  VIIVIII  →  VVIIIII
 
 
 2. having symbols side-by-side is the same as adding them together.
 
-	VVIIIII  =  5+5+1+1+1+1+1
+	- VVIIIII  =  5+5+1+1+1+1+1
 
 
 3. cannot repeat a symbol if it can be combined.
  
-	VVIIIII  →  (VV=X, IIIII=V)  →  XV
+	- VVIIIII  →  (VV=X, IIIII=V)  →  XV
 
 
 - these rules made roman numerals faster and more accurate for mathematics than tally mark symbols, which is why it stayed in use for ≈2400 years, from ≈-900 until the 1500s.
