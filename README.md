@@ -1,18 +1,17 @@
-# The Beginning of Infinity
+# edu notes
 
-This is the source-code powering [thebeginningofinfinity.xyz](https://thebeginningofinfinity.xyz)
+this is the source-code powering [a collection of notes](https://edunotes.vercel.app) that i've written over time, mostly for myself. in the spirit of [working with garage doors open](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu), i've published them and open sourced this website.
 
-# The book
+much of the code is forked from the work of people at [reflect](https://github.com/team-reflect/beginning-of-infinity) with some modifications of my own.
 
-We believe the [Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359) to be one of the most important books ever written. However, it's quite dense and can be a tough read for the layman. We created this website in order to share our high level notes, spread David's ideas, and encourage more people to read his book.
+works under *writing* are original, my notes a mix of thoughts with quotes from the artwork subject of the note.
 
-We obviously don't take any credit for the ideas written here - they're directly taken from David's book or interviews with him. In fact we don't even take credit for this website's UX, it was inspired by [Andy Matuschak's notes](https://notes.andymatuschak.org/About_these_notes). Thank you David and Andy!
 
-We have open-sourced the code behind this site so you can use it for your own notes.
 
-Created by the team behind [Reflect](https://reflect.app), the networked note-taking app.
 
-## Getting Started
+
+
+### run this repo locally
 
 Clone the repo and install the dependencies.
 
