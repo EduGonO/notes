@@ -111,7 +111,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
             src={token.href} 
             alt={token.text} 
             style={{
-              maxHeight: '100px',
+              maxHeight: '169px',
               borderRadius: '7px'
             }}
           />
