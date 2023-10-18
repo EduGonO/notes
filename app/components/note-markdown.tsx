@@ -88,13 +88,20 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       return <></>
     case 'highlight':
       return <mark style={{ backgroundColor: '#fef3b8', padding: '0.1em 0.2em 0.1em 0.2em' }}>{tokensToElements(token.tokens || [], options)}</mark>
-    case 'code':
-      return <code>{textTokenToElement(token as marked.Tokens.Text, options)}</code>
+     return (
+        <pre>
+          <code>
+            {textTokenToElement(token as marked.Tokens.Text, options)}
+          </code>
+        </pre>
+      )
     case 'strong':
       return <strong>{tokensToElements(token.tokens || [], options)}</strong>
     default:
       console.error('Unknown token type:', token.type)
       return <></>
+    case 'image':
+      return <img src={token.href} alt={token.text} />; 
   }
 }
 
