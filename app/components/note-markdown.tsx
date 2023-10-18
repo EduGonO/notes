@@ -101,14 +101,22 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
       console.error('Unknown token type:', token.type)
       return <></>
     case 'image':
-      return (<img 
-          src={token.href} 
-          alt={token.text} 
-          style={{
-            maxWidth: '300px',
-            borderRadius: '7px'
-          }}
-        />); 
+      return (
+        <div style={{
+          display: 'flex',
+          justifyContent: 'center',
+          alignItems: 'center'
+        }}>
+          <img 
+            src={token.href} 
+            alt={token.text} 
+            style={{
+              maxHeight: '100px',
+              borderRadius: '7px'
+            }}
+          />
+        </div>
+      );
   }
 }
 
