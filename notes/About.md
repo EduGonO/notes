@@ -13,7 +13,7 @@ works under *writing* are original, my notes a mix of thoughts with quotes from 
 ⠀  
 
 ### writing
-- [[on language]], *editing*
+- [[on numbers]], oct 2023
 - [[after cinema]], aug 2023
 - [[on cinema]], oct 2022
 
