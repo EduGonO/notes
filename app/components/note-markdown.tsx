@@ -112,7 +112,7 @@ const tokenToElement = (token: marked.Tokens.Generic, options: MarkdownOptions) 
             alt={token.text} 
             style={{
               maxHeight: '169px',
-              borderRadius: '7px'
+              borderRadius: '7px',
               border: '0.7px solid rgba(125, 125, 125, 0.33)',
               boxShadow: 'rgba(55, 63, 88, 0.31) -0.18066px 0.42153px 0.75212px -1.28333px, rgba(55, 63, 88, 0.27) -0.68656px 1.60197px 2.85835px -2.56667px, rgba(55, 63, 88, 0.098) -3px 7px 12.48987px -3.85px'
             }}
