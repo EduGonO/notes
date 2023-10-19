@@ -4,7 +4,6 @@ numbers were the first writing system to exist. it started with the same symbol 
 
 - earliest improvement: group symbols together.
 
-
    IIIIIIIIIIIII  →  IIII  IIII  III
 
 
@@ -18,18 +17,13 @@ the best example of this new kind of writing systems are Roman numerals. they us
 
 1. symbols must be ordered by decreasing value, from left to right.
 
-
    VI+VII → VIVII → VVIII
-
 
 2. having symbols side-by-side is the same as adding them together.
 
-
    VVIII = 5+5+1+1+1
  
-
 3. a symbol cannot be repeated if it can be combined.
-
 
    VVIII → VV=X → XIII
 
@@ -42,7 +36,7 @@ the biggest leap Roman numerals made was allowing people to manipulate numbers w
 - the system, however, relied on `M` as as the symbol with the highest value (1000).
 - this meant that performing operations on large numbers could only be done by carefully counting each instance of the same symbol (=counting tally marks).
 
-   MMMMMMMMCDII + MMMMMMMMMMCCDIII
+   MMMMMMCDII + MMMMMMMMCCDIII
 
 - simple operations on large numbers became very difficult and error-prone → new system needed
 
@@ -76,6 +70,8 @@ every numeral system incorporates certain knowledge about which relationships of
 #### the main advantage of improving the design of a numeral system is making it useful for unpredictable innovations and progress.
 
 Roman numerals allowed new ideas and uses of numbers like salaries, taxes and interest rates to spread, but their design **also deeply limited scientific progress**.
+
+
 ⤷ no major abstract mathematical discovery was made during the ~2400 years they were in use.
 
 - [ ] when thinking about how our numeral system could be limiting further unknown progress, the question becomes: ::how does one make the leap to a smarter way of writing numbers?::
