@@ -4,7 +4,7 @@ numbers were the first writing system to exist. it started with the same symbol 
 
 - earliest improvement: group symbols together.
 
-   IIIIIIIIIIIII  →  IIII  IIII  III
+    IIIIIIIIIIIII  →  IIII  IIII  III
 
 
 - allowed people to go from tallying *"another one, another one..."* to **counting** *"forty-one, forty-two..."*
@@ -17,15 +17,15 @@ the best example of this new kind of writing systems are Roman numerals. they us
 
 1. symbols must be ordered by decreasing value, from left to right.
 
-   VI+VII → VIVII → VVIII
+    VI+VII → VIVII → VVIII
 
 2. having symbols side-by-side is the same as adding them together.
 
-   VVIII = 5+5+1+1+1
+    VVIII = 5+5+1+1+1
  
 3. a symbol cannot be repeated if it can be combined.
 
-   VVIII → VV=X → XIII
+    VVIII → VV=X → XIII
 
 
 - these simple rules made Roman numerals faster and more accurate for mathematics than tally symbols, which is why they stayed in use for ~2400 years, from around -900 until the 1500s.
