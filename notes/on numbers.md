@@ -17,15 +17,15 @@ the best example of this new kind of writing systems are Roman numerals. they us
 
 1. symbols must be ordered by decreasing value, from left to right.
 
-    VI+VII → VIVII → VVIII
+    - VI+VII → VIVII → VVIII
 
 2. having symbols side-by-side is the same as adding them together.
 
-    VVIII = 5+5+1+1+1
+    - VVIII = 5+5+1+1+1
  
 3. a symbol cannot be repeated if it can be combined.
 
-    VVIII → VV=X → XIII
+    - VVIII → VV=X → XIII
 
 
 - these simple rules made Roman numerals faster and more accurate for mathematics than tally symbols, which is why they stayed in use for ~2400 years, from around -900 until the 1500s.
@@ -48,7 +48,7 @@ Hindu-Arabic numerals were invented in 9th century India but only became commonl
 
 - they use a set of 10 symbols (0-9) and only **one** single rule: the value of a digit depends on its position in the number.
 
-   002=2 ⠀   020=20 ⠀   200=200
+   - 002=2 ⠀   020=20 ⠀   200=200
 
 - this rule allows the system to be universal and work like an alphabet: every number in existence can be represented in a unique, distinct and understandable way (just as no word exists that can be said but can't be written).
 - their design also simplified complex operations and significantly reduced chances of errors: an avalanche of new mathematical progress followed shortly after their adoption (Galileo, Newton, the Enlightenment, birth of modern Physics...)

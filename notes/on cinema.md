@@ -82,6 +82,8 @@ These two recent tendencies have helped studios and the film industry grow, but 
 
 This is the main idea behind recent statements and opinions on Cinema: While globalization has strengthened the film industry, movies have lost economic and cultural influence. Cinema now risks not being the most popular form of storytelling in the 21st century, and newer forms of artistic expression could take its place.
 
+![on cinema](https://framerusercontent.com/images/x1yWh2xF8HcygQX5SHK9zaeTg.jpeg)
+
 ⠀
 
 

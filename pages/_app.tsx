@@ -23,12 +23,12 @@ function MyApp({Component, pageProps}: AppProps) {
         <meta name="twitter:card" content="summary" />
         <meta
           name="twitter:image"
-          content="https://thebeginningofinfinity.xyz/twitter-summary-card.png"
+          content="https://github.com/EduGonO/notes/blob/master/public/edunotesicon.png"
         />
         <meta name="og:title" content="edu notes" />
         <meta
           name="og:image"
-          content="https://thebeginningofinfinity.xyz/twitter-summary-card.png"
+          content="https://github.com/EduGonO/notes/blob/master/public/edunotesicon.png"
         />
       </Head>
       <Component {...pageProps} />
