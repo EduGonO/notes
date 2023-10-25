@@ -19,7 +19,6 @@ function MyApp({Component, pageProps}: AppProps) {
         <meta name="og:title" content="edu notes" />
         <meta name="og:url" content="https://edunotes.vercel.app" />
         <meta name="apple-mobile-web-app-title" content="edu notes" />
-        <link rel="icon" type="image/x-icon" href="./public/favicon.ico">
         <meta name="icon" type="image/x-icon" href="./public/favicon.ico">
 
         <meta name="twitter:card" content="summary" />
