@@ -4,7 +4,7 @@ numbers were the first writing system to exist. it started with the same symbol 
 
 - earliest improvement: group symbols together.
 
-    IIIIIIIIIIIII  →  IIII  IIII  III
+    - IIIIIIIIIIIII  →  IIII  IIII  III
 
 
 - allowed people to go from tallying *"another one, another one..."* to **counting** *"forty-one, forty-two..."*
@@ -36,7 +36,7 @@ the biggest leap Roman numerals made was allowing people to manipulate numbers w
 - the system, however, relied on `M` as as the symbol with the highest value (1000).
 - this meant that performing operations on large numbers could only be done by carefully counting each instance of the same symbol (=counting tally marks).
 
-   MMMMMMCDII + MMMMMMMMCCDIII
+   - MMMMMMCDII + MMMMMMMMCCDIII
 
 - simple operations on large numbers became very difficult and error-prone → new system needed
 
