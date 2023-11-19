@@ -1,3 +1,8 @@
+---
+title: beginning of infinity
+info: 2020-2021-2203
+---
+
 # the beginning of infinity
 
 - notes on david deutsch's (fascinating) *[the beginning of infinity](https://en.wikipedia.org/wiki/The_Beginning_of_Infinity)* (2011), about infinity & universality, memetics and philosophy of science.

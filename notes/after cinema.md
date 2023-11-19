@@ -1,5 +1,6 @@
 ---
 title: after cinema
+info: edugon, 2020
 ---
 
 # what comes after cinema?
